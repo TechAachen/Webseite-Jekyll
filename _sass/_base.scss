@@ -155,6 +155,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
+    background: #202020;
     background-image: url('../img/header.jpg');
     text-align: center;
     color: white;
@@ -175,8 +176,8 @@ header {
             }
             p {
                 font-weight: 300;
-                color: rgba(white, .7);
-                font-size: 16px;
+                color: rgba(white, .9);
+                font-size: 18px;
                 margin-bottom: 50px;
             }
         }
@@ -195,7 +196,7 @@ header {
                 margin-left: auto;
                 margin-right: auto;
                 p {
-                    font-size: 18px;
+                    font-size: 20px;
                     max-width: 80%;
                     margin-left: auto;
                     margin-right: auto;
