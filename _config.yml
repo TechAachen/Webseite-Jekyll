@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: Techhub Aachen
+email: info@techhub-aachen.de
+description: "Techhub Aachen - Dachverband technischer studentischer Vereine Aachen"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: techhub_aachen
+facebook_username: techhub_aachen
 
 # Build settings
 markdown: kramdown

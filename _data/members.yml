@@ -1,0 +1,47 @@
+- name: Roboterclub Aachen e.V.
+  type: Gründungsmitglied
+  since: 2017
+  image: img/members/rca.jpg
+  link: http://www.roboterclub.rwth-aachen.de/
+
+- name: Sonnenwagen e.V.
+  type: Gründungsmitglied
+  since: 2017
+  image: img/members/sonnenwagen.jpg
+  link: https://www.sonnenwagen.org/
+
+- name: Ecurie Aix
+  type: Gründungsmitglied
+  since: 2017
+  image: img/members/ecurie.jpg
+  link: http://www.ecurie-aix.rwth-aachen.de/
+
+- name: Flugwissenschaftliche Vereinigung Aachen (1920) e.V.
+  type: Gründungsmitglied
+  since: 2017
+  image: img/members/fva.jpg
+  link: http://www.fva.rwth-aachen.de/
+
+- name: Mx Aix
+  type: Gründungsmitglied
+  since: 2017
+  image: img/members/mx-aix.jpg
+  link: http://studentteam.mx-aix.de/
+
+- name: Studiwerkstatt
+  type: Gründungsmitglied
+  since: 2017
+  image: img/members/studiwerkstatt.jpg
+  link: http://studiwerkstatt.de/
+
+- name: Gesucht
+  type: Weiteres Gründungsmitglied
+  since: 2018
+  image: img/header.jpg
+  link: "#members"
+
+- name: Interessiert?
+  type: Wir stehen allen Vereine offen. Kontaktiert uns!
+  since: 2018
+  image: img/header.jpg
+  link: "#contact"
