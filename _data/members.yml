@@ -1,10 +1,10 @@
-- name: Roboterclub Aachen e.V.
+- name: Roboterclub Aachen
   type: Gründungsmitglied
   since: 2017
   image: img/members/rca.jpg
   link: http://www.roboterclub.rwth-aachen.de/
 
-- name: Sonnenwagen e.V.
+- name: Sonnenwagen
   type: Gründungsmitglied
   since: 2017
   image: img/members/sonnenwagen.jpg
@@ -16,7 +16,7 @@
   image: img/members/ecurie.jpg
   link: http://www.ecurie-aix.rwth-aachen.de/
 
-- name: Flugwissenschaftliche Vereinigung Aachen (1920) e.V.
+- name: Flugwissenschaftliche Vereinigung Aachen
   type: Gründungsmitglied
   since: 2017
   image: img/members/fva.jpg
