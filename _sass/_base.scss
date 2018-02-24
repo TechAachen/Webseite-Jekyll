@@ -155,7 +155,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background: #202020;
+    background: $theme-dark;
     background-image: url('../img/header.jpg');
     text-align: center;
     color: white;
@@ -165,6 +165,7 @@ header {
         padding: 100px 15px 100px;
         width: 100%;
         .header-content-inner {
+            text-shadow: 0 0 5px $theme-dark;
             h1 {
                 font-weight: 700;
                 text-transform: uppercase;
@@ -277,6 +278,12 @@ header {
             }
         }
     }
+    @media (max-width: 768px), (hover: none) {
+        .portfolio-box-caption {
+            opacity: .9;
+            height: 30%;
+        }
+    }
 }
 
 .call-to-action {
@@ -288,6 +295,10 @@ header {
 // Bootstrap Overrides
 .text-primary {
     color: $theme-primary;
+}
+
+.no-gutter {
+    background-color: $theme-dark;
 }
 
 .no-gutter > [class*='col-'] {
