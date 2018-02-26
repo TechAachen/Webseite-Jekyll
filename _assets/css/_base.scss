@@ -42,13 +42,24 @@ p {
     margin-bottom: 20px;
 }
 
+.row {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+}
+
+#content img {
+    width: 100%;
+}
+
 .bg-primary {
     background-color: $theme-primary;
 }
 
 .bg-dark {
-    background-color: $theme-dark;
-    color: white;
+    color: #F1F1F1;
+    background: linear-gradient($theme-dark, $theme-darkgrey);
+    background-attachment: fixed;
 }
 
 .text-faded {
@@ -56,7 +67,7 @@ p {
 }
 
 section {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 aside {
@@ -65,6 +76,11 @@ aside {
 
 .no-padding {
     padding: 0;
+}
+
+.only-bottom-padding {
+    padding: 0;
+    padding-bottom: 20px;
 }
 
 // Navigation
@@ -178,7 +194,7 @@ header {
             p {
                 font-weight: 300;
                 color: rgba(white, .9);
-                font-size: 18px;
+                font-size: 20px;
                 margin-bottom: 50px;
             }
         }
@@ -197,7 +213,7 @@ header {
                 margin-left: auto;
                 margin-right: auto;
                 p {
-                    font-size: 20px;
+                    font-size: 22px;
                     max-width: 80%;
                     margin-left: auto;
                     margin-right: auto;
@@ -211,6 +227,8 @@ header {
 
 .section-heading {
     margin-top: 0;
+    width: 100%;
+    text-align: center;
 }
 
 .service-box {

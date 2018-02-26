@@ -37,11 +37,10 @@
 - name: Gesucht
   type: Weiteres Gründungsmitglied
   since: 2018
-  image: img/header.jpg
-  link: "#members"
+  link: "#contact"
 
 - name: Interessiert?
   type: Wir stehen allen Vereine offen. Kontaktiert uns!
   since: 2018
-  image: img/header.jpg
+  image: "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 650 350'%2F%3E"
   link: "#contact"

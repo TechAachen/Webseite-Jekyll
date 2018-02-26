@@ -1,18 +1,16 @@
-<section class="no-padding" id="members">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Mitglieder</h2>
-                <hr class="primary">
-            </div>
-        </div>
-    </div>
+<section id="members">
+    <h2 class="section-heading">Mitglieder</h2>
+    <hr class="primary">
     <div class="container-fluid">
         <div class="row no-gutter">
             {% for member in site.data.members %}
             <div class="col-lg-4 col-sm-6">
                 <a href="{{ member.link }}" class="portfolio-box">
-                    <img src="{{ member.image }}" class="img-responsive" alt="" height="350" width="650">
+                    {% if member.image %}
+                    <img src="{{ member.image }}" class="img-responsive" alt="" style="height: 350px; width: 650px; object-fit: cover;">
+                    {% else %}
+                    <img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 650 350'%2F%3E" class="img-responsive" alt="" style="height: 350px; width: 650px; object-fit: cover;">
+                    {% endif %}
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">{{member.type}}</div>
