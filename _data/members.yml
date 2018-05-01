@@ -34,10 +34,17 @@
   image: img/members/studiwerkstatt.jpg
   link: http://studiwerkstatt.de/
 
-- name: Gesucht
-  type: Weiteres Gründungsmitglied
+- name: Windfänger
+  type: Gründungsmitglied
   since: 2018
-  link: "#contact"
+  image: img/members/windfaenger.jpg
+  link: http://windfaenger.com/
+
+- name: Energybirds
+  type: Gründungsmitglied
+  since: 2018
+  image: img/members/energybirds.jpg
+  link: https://www.energybirds.org/
 
 - name: Interessiert?
   type: Wir stehen allen Vereine offen. Kontaktiert uns!
