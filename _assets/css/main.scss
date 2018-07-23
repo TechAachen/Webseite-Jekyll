@@ -51,9 +51,10 @@ $fa-font-path: "fonts/font-awesome/";
 @import 'font-awesome';
 
 // variables.less
-$theme-primary: #6aa63d;
-$theme-dark: #222;
+$theme-primary: #bccf00;
+$theme-dark: #000;
 $theme-darkgrey: #555;
+$theme-lightgrey: #b1b1b1;
 
 @import
   "mixins",
