@@ -3,7 +3,8 @@
     <hr class="primary">
     <div class="container-fluid">
         <div class="row no-gutter">
-            {% for member in site.data.members %}
+            {% assign members_sorted = site.data.members | sort: 'order' %}
+            {% for member in members_sorted %}
             <div class="col-lg-4 col-sm-6">
                 <a href="{{ member.link }}" class="portfolio-box">
                     {% if member.image %}

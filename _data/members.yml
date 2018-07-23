@@ -1,53 +1,69 @@
+- name: Interessiert?
+  type: Wir stehen allen technischen Vereine offen. Kontaktiert uns!
+  since: 2018
+  image: "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 650 350'%2F%3E"
+  link: "#contact"
+  order: zzz_Ende
+
 - name: Roboterclub Aachen
   type: Gründungsmitglied
   since: 2017
   image: img/members/rca.jpg
   link: http://www.roboterclub.rwth-aachen.de/
+  order: roboterclub
 
 - name: Sonnenwagen
   type: Gründungsmitglied
   since: 2017
   image: img/members/sonnenwagen.jpg
   link: https://www.sonnenwagen.org/
+  order: sonnewagen
 
 - name: Ecurie Aix
   type: Gründungsmitglied
   since: 2017
   image: img/members/ecurie.jpg
   link: http://www.ecurie-aix.rwth-aachen.de/
+  order: ecurie
 
 - name: Flugwissenschaftliche Vereinigung Aachen
   type: Gründungsmitglied
   since: 2017
   image: img/members/fva.jpg
   link: http://www.fva.rwth-aachen.de/
+  order: flugwissenschaftliche-vereinigung-aachen
 
 - name: Mx Aix
   type: Gründungsmitglied
   since: 2017
   image: img/members/mx-aix.jpg
   link: http://studentteam.mx-aix.de/
+  order: mxaix
 
 - name: Studiwerkstatt
   type: Gründungsmitglied
   since: 2017
   image: img/members/studiwerkstatt.jpg
   link: http://studiwerkstatt.de/
+  order: studiwerkstatt
 
 - name: Windfänger
   type: Gründungsmitglied
   since: 2018
   image: img/members/windfaenger.jpg
   link: http://windfaenger.com/
+  order: windfaenger
 
-- name: Energybirds
-  type: Gründungsmitglied
+- name: Enactus
+  type: Mitglied
   since: 2018
-  image: img/members/energybirds.jpg
-  link: https://www.energybirds.org/
+  image: img/members/enactus.jpg
+  link: http://aachen.enactus.de/
+  order: enactus
 
-- name: Interessiert?
-  type: Wir stehen allen Vereine offen. Kontaktiert uns!
-  since: 2018
-  image: "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 650 350'%2F%3E"
-  link: "#contact"
+#- name: Energybirds
+#  type: Gründungsmitglied
+#  since: 2018
+#  image: img/members/energybirds.jpg
+#  link: https://www.energybirds.org/
+#  order: energybirds
