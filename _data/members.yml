@@ -55,7 +55,7 @@
   order: windfaenger
 
 - name: Enactus
-  type: Mitglied
+  type: ""
   since: 2018
   image: img/members/enactus.jpg
   link: http://aachen.enactus.de/
