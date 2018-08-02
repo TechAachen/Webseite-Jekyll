@@ -356,6 +356,29 @@ header {
     font-size: 4em;
 }
 
+.flex-grid {
+  display: flex;                       /* establish flex container */
+  flex-wrap: wrap;                     /* enable flex items to wrap */
+  justify-content: center; /* align horizontal */
+  align-items: center;
+}
+.flex-cell {
+  flex: 0 0 32%;                       /* don't grow, don't shrink, width */
+  @media screen and (max-width: $flex-break-dual) {
+    flex: 0 0 45%;
+  }
+  @media screen and (max-width: $flex-break-single) {
+    flex: 0 0 90%;
+  }
+  margin-top: 1em;
+  margin-bottom: 1em;
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 .project-extended {
     width: 100%;
     text-align: center;

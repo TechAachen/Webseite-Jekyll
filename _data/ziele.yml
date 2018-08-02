@@ -1,15 +1,23 @@
-- title: Kooperation
-  text: Förderung der Kooperation zwischen Vereinen.
+- title: Wissen erarbeiten
+  text: Als Vorbild projektorientierter Lehre an Universität und Hochschule. Wir denken Bildung weiter.
+  fontawesome-icon: key
+
+- title: Ideen entwickeln
+  text: Kreative Studierende suchen und finden Lösungen für aktuelle Herausforderungen.
+  fontawesome-icon: rocket
+
+- title: Wissen anwenden
+  text: Auf Grundlage dieses Wissens forschen wir an verschiedenen technischen Ideen und setzten diese um.
+  fontawesome-icon: wrench
+
+- title: Wettkämpfe bestreiten
+  text: In Konkurrenz zu Teams aus der ganzen Welt beweisen wir Stärke.
+  fontawesome-icon: flag-checkered
+
+- title: Wissen lehren
+  text: Das selbst angeeignete Wissen teilen wir untereinander.
   fontawesome-icon: comments
 
-- title: Öffentlichkeitsarbeit
-  text: Unsere Mitglieder treten gemeinsam auf Veranstaltungen in Aachen oder auf Messen auf.
+- title: Nachhaltigkeit fördern
+  text: Unsere Projekte beschäftigen sich mit herausragenden innovativen Ideen, die sich vor allem mit der Nachhaltigkeit beschäftigen.
   fontawesome-icon: globe
-
-- title: Mitteleinwerbung
-  text: Wir versuchen gemeinsam Sponsoren und Förderer zu finden.
-  fontawesome-icon: bitcoin
-
-- title: Noch was?
-  text: Lorem ipsum dolor sit amet, consectetur adipisici elit.
-  fontawesome-icon: exclamation
