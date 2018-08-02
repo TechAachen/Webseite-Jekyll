@@ -4,7 +4,7 @@
     <div class="flex-grid">
     {% assign persons = site.data.persons | sort: 'order' %}
     {% for person in persons %} {% if person.active %}
-        <div class="flex-cell text-center">
+        <div class="flex-cell text-center" style="flex: 0 0 24%;">
             <div class="service-box">
                 <h3>{{person.name}}</h3>
                 <img src="{{person.image}}" height="300px">
