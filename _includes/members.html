@@ -1,12 +1,17 @@
 <section id="members">
     <h2 class="section-heading">Mitglieder</h2>
     <hr class="primary">
+    <script type="text/javascript">
+        function memberExtend(tag) {
+            document.getElementById(tag).classList.toggle("project-extended-visible");
+        }
+    </script>
     <div class="container-fluid">
         <div class="row no-gutter">
             {% assign members_sorted = site.data.members | sort: 'order' %}
             {% for member in members_sorted %}
             <div class="col-lg-4 col-sm-6">
-                <a href="{{ member.link }}" class="portfolio-box">
+                <a href="javascript:;" onclick="memberExtend('{{member.order}}')" class="portfolio-box">
                     {% if member.image %}
                     <img src="{{ member.image }}" class="img-responsive" alt="" style="height: 350px; width: 650px; object-fit: cover;">
                     {% else %}
@@ -14,11 +19,15 @@
                     {% endif %}
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">{{member.type}}</div>
+                            {% if member.type %}<div class="project-category text-faded">{{member.type}}</div>{% endif %}
                             <div class="project-name">{{member.name}}</div>
                         </div>
                     </div>
                 </a>
+                <div class="col-md-12 project-extended" id="{{member.order}}">
+                    {% if member.description %}<p>{{member.description}}</p>{% endif %}
+                    <a href="{{ member.link }}" class="btn btn-default btn-xl">Mehr erfahren</a>
+                </div>
             </div>
             {% endfor %}
         </div>

@@ -1,9 +1,10 @@
 - name: Interessiert?
-  type: Wir stehen allen technischen Vereine offen. Kontaktiert uns!
   since: 2018
   image: "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 650 350'%2F%3E"
   link: "#contact"
   order: zzz_Ende
+  description: |
+    Wir stehen allen technischen Vereine offen. Kontaktiert uns!
 
 - name: Roboterclub Aachen
   type: Gründungsmitglied
@@ -11,6 +12,10 @@
   image: img/members/rca.jpg
   link: http://www.roboterclub.rwth-aachen.de/
   order: roboterclub
+  description: |
+    Der Roboterclub Aachen e.V. baut und forscht an autonomen Robotern. <br />
+    Neben der Teilnahme Eurobot Wetbewerb, bei der in den letzten Jahren mehrfach Spitzenplätze belegt wurden,
+    entstehen viele Nebenprojekte in Bereich von Software, Elektronik und Mechanik.
 
 - name: Sonnenwagen
   type: Gründungsmitglied
@@ -46,6 +51,8 @@
   image: img/members/studiwerkstatt.jpg
   link: http://studiwerkstatt.de/
   order: studiwerkstatt
+  description: |
+    Foo! Bar?
 
 - name: Windfänger
   type: Gründungsmitglied
@@ -55,14 +62,12 @@
   order: windfaenger
 
 - name: Enactus
-  type: ""
   since: 2018
   image: img/members/enactus.jpg
   link: http://aachen.enactus.de/
   order: enactus
 
 #- name: Energybirds
-#  type: Gründungsmitglied
 #  since: 2018
 #  image: img/members/energybirds.jpg
 #  link: https://www.energybirds.org/

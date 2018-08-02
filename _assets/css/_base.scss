@@ -356,6 +356,26 @@ header {
     font-size: 4em;
 }
 
+.project-extended {
+    width: 100%;
+    text-align: center;
+    background-color: $theme-lightgrey;
+    visibility: hidden;
+    height: 0px;
+    transition: all 0.35s;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+.project-extended-visible {
+    visibility: visible;
+    min-height: 250px;
+    padding: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    width: 90%;
+}
+
 // Extras
 // -- Highlight Color Customization
 ::-moz-selection {
