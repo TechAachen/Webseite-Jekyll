@@ -13,7 +13,7 @@
 - name: Leo Girbig
   function: "Zweiter Vorstand"
   active: true
-  image: "img/persons/schmachti.jpg"
+  image: "img/persons/leo-girbig.jpg"
   order: 0_vorstand_2
 
 - name: Niklas Bloemen
