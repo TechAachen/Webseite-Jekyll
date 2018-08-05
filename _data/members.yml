@@ -23,13 +23,21 @@
   image: img/members/sonnenwagen.jpg
   link: https://www.sonnenwagen.org/
   order: sonnewagen
+  description: |
+    Für uns steht fest, nachhaltige Mobilitätskonzepte und Solartechnologie sind entscheidend für unsere Zukunft.
+    Als Verein begeisterter Studenten wollen wir gemeinsam einen Beitrag dazu leisten.
+    Darum entwickeln wir ein Solarauto zur Teilnahme an einem emissionsfreien Rennen quer durch Australien,
+    der Bridgestone World Solar Challenge.
 
 - name: Ecurie Aix
   type: Gründungsmitglied
   since: 2017
   image: img/members/ecurie.jpg
-  link: http://www.ecurie-aix.rwth-aachen.de/
+  link: http://ecurie-aix.de/
   order: ecurie
+  description: |
+    Im Jahre 1999 hatten einige Studenten der RWTH Aachen die Idee, ein Formula Student Team zu gründen.
+    Schon im darauffolgenden Jahr wurde der Plan mit Ecurie Aix in die Realität umgesetzt.
 
 - name: Flugwissenschaftliche Vereinigung Aachen
   type: Gründungsmitglied
@@ -37,6 +45,9 @@
   image: img/members/fva.jpg
   link: http://www.fva.rwth-aachen.de/
   order: flugwissenschaftliche-vereinigung-aachen
+  description: |
+    Wir sind eine Gruppe von flugbegeisterten Studenten, die sich das Ziel gesetzt hat,
+    die Luftfahrt nicht nur ein kleines Stück voran zu bringen, sondern zukunftsweisend zu prägen.
 
 - name: Mx Aix
   type: Gründungsmitglied
@@ -44,6 +55,10 @@
   image: img/members/mx-aix.jpg
   link: http://studentteam.mx-aix.de/
   order: mxaix
+  description: |
+    Das Ziel: Einen klimabewussten und nutzbaren Antrieb in einem Motocross Motorrad einzubauen und am MX Academic Cup 2019/20 teilzunehmen.
+    Wir sind 25 Studierende, welche sich das Ziel gesetzt haben nachhaltige Mobilität heute umzusetzen.
+    Dieses Ziel setzen wir mit starken Partnern um.
 
 - name: Studiwerkstatt
   type: Gründungsmitglied
@@ -52,7 +67,9 @@
   link: http://studiwerkstatt.de/
   order: studiwerkstatt
   description: |
-    Foo! Bar?
+    Wir sind eine offene Werkstatt, die allen Interessierten den Zugang zu Maschinen  und Werkzeug ermöglichen möchte.
+    Bei uns könnt ihr an euren eigenen Projekten arbeiten,
+    aber auch gemeinsam mit anderen Vereinsmitgliedern das Projekt weiter verbessern und die Werkstatt ausbauen. 
 
 - name: Windfänger
   type: Gründungsmitglied
@@ -60,12 +77,19 @@
   image: img/members/windfaenger.jpg
   link: http://windfaenger.com/
   order: windfaenger
+  description: |
+    Wir als Windfänger bringen Ideen von Studenten und Interessierten aufs Wasser und forschen intensiv an neuen Konzepten für den Windsurfsport.
 
 - name: Enactus
   since: 2018
   image: img/members/enactus.jpg
   link: http://aachen.enactus.de/
   order: enactus
+  description: |
+    Wir verbessern den Lebensstandard und die Lebensqualität von hilfsbedürftigen Menschen mit zahlreichen Projekten.
+    Nach dem Prinzip des Social Entrepreneuship geben wir unseren Projekten eine unternehmerische Grundlage
+    und schaffen einen langfristigen wirtschaftlichen Nutzen für unsere Zielgruppen.
+    So liefern wir Hilfe zur Selbsthilfe.
 
 #- name: Energybirds
 #  since: 2018
