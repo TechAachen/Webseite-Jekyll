@@ -1,9 +1,3 @@
-- name: Techaachen Team
-  function: "nach der Gründungsversammlung"
-  active: false
-  image: "img/persons/teamfoto.jpg"
-  order: 00_team
-
 - name: Justus Schwarzott
   function: "Erster Vorstand"
   active: true

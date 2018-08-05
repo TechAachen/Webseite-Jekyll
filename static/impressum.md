@@ -5,16 +5,15 @@ permalink: impressum.html
 ---
 
 **Anschrift:**  
-Techaachen e.V.  
-<!-- Straße 42 -->  
-52064 Aachen
+{{site.contact_address}}
  
-**E-Mail:** [info@techaachen.de](mailto:info@techaachen.de)  
+**E-Mail:** [{{site.email}}](mailto:{{site.email}})  
  
-**Gemeinschaftlich vertretungsberechtigt sind jeweils zwei gemeinsam:**  
-Erster Vorsitzender: Justus Schwarzott  
-Zweiter Vorsitzender: Leo Girbig  
-Dritter Vorsitzender: Niklas Bloemen
+**Gemeinschaftlich vertretungsberechtigt sind jeweils zwei gemeinsam:**
+{% assign persons = site.data.persons | sort: 'order' -%}
+{% for person in persons %} {% if person.active -%}
+<br>{{person.function}}: {{person.name}}
+{% endif %}{% endfor %}
  
 **Registereintrag**  
 Eingetragen im Vereinsregister.  
@@ -25,7 +24,8 @@ Registergericht: Amtsgericht Aachen
 [techaachen.de](https://techaachen.de/)
  
 **Verantwortlicher für journalistisch-redaktionelle Inhalte iSd. § 55 II RStV:**  
-Justus Schwarzott, Straße 42, 52064 Aachen, info@techaachen.de
+{% assign person = site.data.persons | first -%}
+{{person.name}}, {{site.email}}
 
 ---
 

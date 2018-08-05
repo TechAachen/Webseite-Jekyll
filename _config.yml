@@ -1,7 +1,8 @@
 # Site settings
 title: TechAachen
 email: info@techaachen.de
-description: "TechAachen - Dachverband technischer studentischer Vereine Aachen"
+description: "Der TechAachen e.V. ist ein Zusammenschluss der technischen Vereine der RWTH und FH Aachen. Wir verbinden."
+keywords: "TechAachen, Aachen, Studenten, Eigeninitiative, Technik, Bildung, Forschung, Wissenschaft, RWTH, FH Aachen, Universität, Wettbewerb"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
