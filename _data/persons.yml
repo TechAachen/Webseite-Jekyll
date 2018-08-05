@@ -1,6 +1,6 @@
 - name: Techaachen Team
   function: "nach der Gründungsversammlung"
-  active: true
+  active: false
   image: "img/persons/teamfoto.jpg"
   order: 00_team
 
@@ -21,9 +21,3 @@
   active: true
   image: "img/persons/schmachti.jpg"
   order: 0_vorstand_3
-
-- name: Schmachti
-  function: "Dritter Vorstand"
-  active: false
-  image: "img/persons/schmachti.jpg"
-  order: z_schmachti

@@ -1,5 +1,5 @@
 <section id="persons">
-    <h2 class="section-heading">Wer wir sind</h2>
+    <h2 class="section-heading">Ansprechpartner</h2>
     <hr class="primary">
     <div class="flex-grid">
     {% assign persons = site.data.persons | sort: 'order' %}
@@ -7,7 +7,7 @@
         <div class="flex-cell text-center" style="flex: 0 0 24%;">
             <div class="service-box">
                 <h3>{{person.name}}</h3>
-                <img src="{{person.image}}" height="300px">
+                <img src="{{person.image}}" style="max-width: 250px; max-height: 300px;">
                 <p>{{person.function}}</p>
             </div>
         </div>
