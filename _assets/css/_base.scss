@@ -175,9 +175,13 @@ header {
     width: 100%;
     min-height: auto;
     @include background-cover;
-    background-position: center;
-    background: center $theme-dark;
-    background-image: url('../img/header.jpg');
+    background: center no-repeat url("../img/header-960.jpg");
+    @media (min-width: 961px) {
+        background: center no-repeat url("../img/header-1920.jpg");
+    }
+    @media (min-width: 1921px) {
+        background: center no-repeat url("../img/header-3840.jpg");
+    }
     text-align: center;
     color: white;
     .header-content {

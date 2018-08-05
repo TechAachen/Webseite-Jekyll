@@ -1,17 +1,17 @@
 - name: Justus Schwarzott
-  function: "Erster Vorstand"
+  function: "1. Vorsitzender"
   active: true
   image: "img/persons/justus-schwarzott.jpg"
   order: 0_vorstand_1
 
 - name: Leo Girbig
-  function: "Zweiter Vorstand"
+  function: "2. Vorsitzender"
   active: true
   image: "img/persons/leo-girbig.jpg"
   order: 0_vorstand_2
 
 - name: Niklas Bloemen
-  function: "Dritter Vorstand"
+  function: "3. Vorsitzender"
   active: true
   image: "img/persons/niklas-bloemen.jpg"
   order: 0_vorstand_3
