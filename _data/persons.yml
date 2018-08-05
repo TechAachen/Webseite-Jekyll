@@ -7,7 +7,7 @@
 - name: Justus Schwarzott
   function: "Erster Vorstand"
   active: true
-  image: "img/persons/schmachti.jpg"
+  image: "img/persons/justus-schwarzott.jpg"
   order: 0_vorstand_1
 
 - name: Leo Girbig
@@ -19,5 +19,5 @@
 - name: Niklas Bloemen
   function: "Dritter Vorstand"
   active: true
-  image: "img/persons/schmachti.jpg"
+  image: "img/persons/niklas-bloemen.jpg"
   order: 0_vorstand_3
