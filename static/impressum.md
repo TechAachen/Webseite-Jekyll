@@ -6,10 +6,10 @@ permalink: impressum.html
 
 **Anschrift:**  
 Techaachen e.V.  
-Straße 42  
+<!-- Straße 42 -->  
 52064 Aachen
  
-**E-Mail:** info@techaachen.de  
+**E-Mail:** [info@techaachen.de](mailto:info@techaachen.de)  
  
 **Gemeinschaftlich vertretungsberechtigt sind jeweils zwei gemeinsam:**  
 Erster Vorsitzender: Justus Schwarzott  
@@ -19,10 +19,10 @@ Dritter Vorsitzender: Niklas Bloemen
 **Registereintrag**  
 Eingetragen im Vereinsregister.  
 Registergericht: Amtsgericht Aachen  
-Registernummer: VR ????
+<!-- Registernummer: VR ???? -->
  
 **Das Impressum gilt für**  
-http://techaachen.de/
+[techaachen.de](https://techaachen.de/)
  
 **Verantwortlicher für journalistisch-redaktionelle Inhalte iSd. § 55 II RStV:**  
 Justus Schwarzott, Straße 42, 52064 Aachen, info@techaachen.de

@@ -198,9 +198,12 @@ header {
             }
             p {
                 font-weight: 300;
-                color: rgba(white, .9);
                 font-size: 20px;
                 margin-bottom: 50px;
+                background-color: rgba($theme-lightgrey,0.6);
+                color: $theme-dark;
+                text-shadow: none;
+                padding: 5px;
             }
             img {
                 max-width: 90%;
@@ -225,9 +228,6 @@ header {
                     max-width: 80%;
                     margin-left: auto;
                     margin-right: auto;
-                    background-color: rgba($theme-lightgrey,0.6);
-                    color: $theme-dark;
-                    text-shadow: none;
                 }
             }
         }
@@ -244,7 +244,7 @@ header {
 
 .service-box {
     max-width: 400px;
-    margin: 50px auto 0;
+    margin: 15px auto 0;
     @media (min-width: 992px) {
         margin: 20px auto 0;
     }
@@ -396,15 +396,16 @@ header {
     transition: all 0.35s;
     border-bottom-right-radius: 25px;
     border-bottom-left-radius: 25px;
+
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
 }
 .project-extended-visible {
     visibility: visible;
-    min-height: 250px;
-    padding: 15px;
-    margin-left: 5%;
-    margin-right: 5%;
+    height: auto;
     margin-bottom: 5%;
-    width: 90%;
+    padding: 15px;
 }
 
 // Extras
