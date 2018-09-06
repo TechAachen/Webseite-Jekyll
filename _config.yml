@@ -1,8 +1,19 @@
 # Site settings
 title: TechAachen
+title_meta: "TechAachen — Technische studentische Vereine Aachen"
+author: TechAachen e.V.
 email: info@techaachen.de
-description: "Der TechAachen e.V. ist ein Zusammenschluss der technischen Vereine der RWTH und FH Aachen. Wir verbinden."
-keywords: "TechAachen, Aachen, Studenten, Eigeninitiative, Technik, Bildung, Forschung, Wissenschaft, RWTH, FH Aachen, Universität, Wettbewerb"
+description: |
+  TechAachen: Zusammenschluss technischer Vereine in Aachen.
+  Wir erarbeiten & lehren Wissen, entwickeln Ideen, bestreiten Wettkämpfe und fördern Nachhaltigkeit.
+
+keywords: |
+  TechAachen, Aachen, Studenten, Eigeninitiative, Vereine, Aachen,
+  Technik, Wissen, Bildung, Forschung, Wissenschaft, technisch,
+  RWTH, FH Aachen, Uni, Universität, studentisch,
+  Wettbewerb, Wettkampf, Nachhaltigkeit, Ideen, Förderung,
+  Ecurie Aix, Enactus, Flugwissenschaftliche Vereinigung Aachen, Mx Aix, Roboterclub, Sonnenwagen, Studiwerkstatt, Windfänger
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 

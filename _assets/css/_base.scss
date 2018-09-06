@@ -440,3 +440,28 @@ body {
     -webkit-tap-highlight-color: $theme-dark;
 }
 
+.member-image {
+    height: 350px;
+    width: 650px;
+    object-fit: cover;
+}
+
+.flex-cell-persons {
+    flex: 0 0 24%;
+}
+
+.flex-cell-persons-img {
+    max-width: 250px;
+    max-height: 300px;
+}
+
+.team-container {
+    text-align: center;
+}
+
+.team-teamfoto {
+    max-width: 80%;
+    max-height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -4,3 +4,5 @@
 #= require vendor/bootstrap.min
 #= require vendor/wow.min
 #= require vendor/creative
+
+#= require memberExtend
