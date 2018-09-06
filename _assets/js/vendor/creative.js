@@ -21,14 +21,6 @@
         $('.navbar-toggle:visible').click();
     });
 
-    // Fit Text Plugin for Main Header
-    $("h1").fitText(
-        1.2, {
-            minFontSize: '35px',
-            maxFontSize: '65px'
-        }
-    );
-
     // Offset for Main Navigation
     $('#mainNav').affix({
         offset: {

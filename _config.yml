@@ -8,11 +8,11 @@ description: |
   Wir erarbeiten & lehren Wissen, entwickeln Ideen, bestreiten Wettkämpfe und fördern Nachhaltigkeit.
 
 keywords: |
-  TechAachen, Aachen, Studenten, Eigeninitiative, Vereine, Aachen,
-  Technik, Wissen, Bildung, Forschung, Wissenschaft, technisch,
-  RWTH, FH Aachen, Uni, Universität, studentisch,
+  TechAachen, Aachen, Student, Eigeninitiative, Verein,
+  Technik, Wissen, Bildung, Forschung, Wissenschaft,
+  RWTH, FH, Uni, Universität,
   Wettbewerb, Wettkampf, Nachhaltigkeit, Ideen, Förderung,
-  Ecurie Aix, Enactus, Flugwissenschaftliche Vereinigung Aachen, Mx Aix, Roboterclub, Sonnenwagen, Studiwerkstatt, Windfänger
+  Ecurie Aix, Enactus, Flugwissenschaftliche Vereinigung, Mx Aix, Roboterclub, Sonnenwagen, Studiwerkstatt, Windfänger
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
