@@ -1,4 +1,6 @@
-headline: <img src="img/techAachen_Logo.svg" alt="TechAachen Logo" title="TechAachen Logo">
+headline: |
+  <img src="img/techAachen_Logo.svg" alt="TechAachen Logo" title="TechAachen Logo" height="250px">
+  <div id="h1-invisible" style="visibility:hidden; height:0;">TechAachen — Technische studentische Vereine Aachen</div>
 text: |
   <p>Wir sind ein Zusammenschluss von technischen und studentischen Vereinen in Aachen.</p>
   <a href="#ziele" class="btn btn-primary btn-xl page-scroll">Mehr erfahren</a>
