@@ -1,14 +1,14 @@
-- name: Interessiert?
-  since: 2018
-  #image: "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 650 350'%2F%3E"
-  image: img/persons/teamfoto.jpg
-  link: "#contact"
-  order: zzz_Ende
+- name: ADDI e.V.
+  type: Mitglied
+  since: 2019
+  image: img/members/addi.jpg
+  link: "#"
+  order: addi
   description: |
-    Wir stehen allen technischen Vereine offen. Kontaktiert uns!
+    ADDI e.V.
 
 - name: Roboterclub Aachen
-  type: Gründungsmitglied
+  type: Mitglied
   since: 2017
   image: img/members/rca.jpg
   link: http://www.roboterclub.rwth-aachen.de/
@@ -19,7 +19,7 @@
     entstehen viele Nebenprojekte in Bereich von Software, Elektronik und Mechanik.
 
 - name: Sonnenwagen
-  type: Gründungsmitglied
+  type: Mitglied
   since: 2017
   image: img/members/sonnenwagen.jpg
   link: https://www.sonnenwagen.org/
@@ -31,7 +31,7 @@
     der Bridgestone World Solar Challenge.
 
 - name: Ecurie Aix
-  type: Gründungsmitglied
+  type: Mitglied
   since: 2017
   image: img/members/ecurie.jpg
   link: http://ecurie-aix.de/
@@ -42,7 +42,7 @@
     um sich mit den Boliden anderer Hochschulen aus aller Welt in unterschiedlichen Disziplinen zu messen.
 
 - name: Flugwissenschaftliche Vereinigung Aachen
-  type: Gründungsmitglied
+  type: Mitglied
   since: 2017
   image: img/members/fva.jpg
   link: http://www.fva.rwth-aachen.de/
@@ -52,7 +52,7 @@
     Getreu unserem Motto: Forschen - Bauen - Fliegen setzen wir dabei eigene Projekte von der Idee bis zum fliegenden Prototypen um.
 
 - name: Mx Aix
-  type: Gründungsmitglied
+  type: Mitglied
   since: 2017
   image: img/members/mx-aix.jpg
   link: http://studentteam.mx-aix.de/
@@ -63,7 +63,7 @@
     Dieses Ziel setzen wir mit starken Partnern um.
 
 - name: Studiwerkstatt
-  type: Gründungsmitglied
+  type: Mitglied
   since: 2017
   image: img/members/studiwerkstatt.jpg
   link: http://studiwerkstatt.de/
@@ -74,7 +74,7 @@
     aber auch gemeinsam mit anderen Vereinsmitgliedern das Projekt weiter verbessern und die Werkstatt ausbauen. 
 
 - name: Windfänger
-  type: Gründungsmitglied
+  type: Mitglied
   since: 2018
   image: img/members/windfaenger.jpg
   link: http://windfaenger.com/
@@ -83,6 +83,7 @@
     Wir als Windfänger bringen Ideen von Studenten und Interessierten aufs Wasser und forschen intensiv an neuen Konzepten für den Windsurfsport.
 
 - name: Enactus
+  type: Mitglied
   since: 2018
   image: img/members/enactus.jpg
   link: http://aachen.enactus.de/
