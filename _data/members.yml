@@ -2,10 +2,11 @@
   type: Mitglied
   since: 2019
   image: img/members/addi.jpg
-  link: "#"
+  link: https://www.aachen-drone.de/
   order: addi
   description: |
-    ADDI e.V.
+    Wir teilen eine Begeisterung von allem was fliegt und suchen uns selbst Projekte oder nehmen an Wettbewerben teil.
+    Jeder kann an den Projekten mitarbeiten wo er möchte und bei unserem monatlichen Treffen tauschen wir uns aus.
 
 - name: Roboterclub Aachen
   type: Mitglied
