@@ -26,25 +26,11 @@ contact_address: "TechAachen e.V.<br /> Templergraben 55 <br /> 52056 Aachen"
 markdown: kramdown
 
 plugins:
-  - jekyll-minifier
-  - jekyll-paginate
-  - jekyll-assets
   - jekyll-bootstrap-sass
-  - jekyll-font-awesome-sass
+#  - jekyll-font-awesome-sass
 
-assets:
-  digest: true
-  prefix: "/assets"
-  sources:
-    - "_assets/css"
-    - "_assets/js"
-  compress:
-    css: sass
-    js: uglifier
-  source_maps: false
-
-bootstrap:
-  assets: true
+#bootstrap:
+#  assets: true
 
 font-awesome:
   assets: true
