@@ -2,7 +2,9 @@
 ---
 
 function futureDate(a) {
-	return a[0] > new Date();
+	var yesterday = new Date();
+	yesterday.setDate(yesterday.getDate() - 1);
+	return a[0] > yesterday;
 }
 
 function sortDates(a,b) {
