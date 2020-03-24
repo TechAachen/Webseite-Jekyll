@@ -9,9 +9,9 @@ New Webside structure:
   - [ ] Networking in TechAachen
   - [ ] Sharing Knowledge
 - [ ] Contact
-  - [ ] Impressum
-  - [ ] Datenschutz
-  - [ ] Satzung
+  - [x] Impressum
+  - [x] Datenschutz
+  - [x] Satzung
 
 
 
