@@ -1,0 +1,37 @@
+<footer class="pt-4 my-md-5 pt-md-5 border-top ">
+  <div class="container">
+    <div class="row justify-content-md-center">
+      <div class="col-12 col-md">
+        <img class="mb-2" src="img/techAachen_Logo.svg" alt="TechAachen e.V. Logo" width="80" height="80">
+      </div>
+      <div class="col-6 col-md ">
+        {{ site.contact_address }}
+      </div>
+      <div class="col-6 col-md">
+        <ul>
+          <li><a href="mailto:{{ site.email }}" class="btn btn-light btn-sm">{{ site.email}}</a></li>
+          <li><a href="tel:{{ site.telefon }}" class="btn btn-light btn-sm">{{ site.telefon }}</a></li>
+        </ul>
+      </div>
+      <div class="col-6 col-md">
+        <ul>
+          <li><a href="{{ site.url }}/impressum.html" class="btn btn-light btn-sm">Impressum</a></li>
+          <li><a href="{{ site.url }}/datenschutz.html" class="btn btn-light btn-sm">Datenschutz</a></li>
+          <li><a href="{{ site.url }}/satzung.html" class="btn btn-light btn-sm">Satzung</a></li>
+        </ul>
+      </div>
+      <div class="col-6 col-md">
+        <ul>
+          <li><a href="https://techaachen.slack.com" class="btn btn-light btn-sm">Slack</a></li>
+          <li><a href="https://wiki.techaachen.de/" class="btn btn-light btn-sm">Wiki</a></li>
+        </ul>
+      </div>
+    </div>
+    <!-- {% include socialmedia.html %} -->
+  </div>
+</footer>
+<!-- <section id="goback" class="only-bottom-padding">
+<div class="impressum text-center">
+<a href="{{ site.baseurl }}/" class="btn btn-default btn-xl">Zurück zur Startseite</a>
+</div>
+</section> -->

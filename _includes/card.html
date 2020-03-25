@@ -1,0 +1,27 @@
+<!--
+Variables:
+
+title
+image
+imagealt
+overlayheadline
+content
+buttonlink
+buttontext
+-->
+
+<section id="card">
+  <h2>{{include.title}}</h2>
+  <div class="card" style="height: 400px">
+    <img src="{{include.image}}" class="card-img" alt="{{include.imagealt}}">
+    <div class="card-img-overlay">
+      <div class="text-white">
+        <h1>{{include.overlayheadline}}</h1>
+        <p>{{ content }}</p>
+      </div>
+      <div class="d-flex justify-content-end">
+        <a href="/{{include.buttonlink}}" class="btn btn-primary btn-xl page-scroll mt-auto">{{include.buttontext}}</a>
+      </div>
+    </div>
+  </div>
+</section>

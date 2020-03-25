@@ -1,11 +1,8 @@
 ---
-layout: page
-title: Kontakt
+layout: contactpage
+title: Tritt mit uns in Kontakt!
+paperwork: Weitere Informationen zu unserem Verein findest du hier...
 ---
 
-# Tritt mit uns in Kontakt!
-
-Wir freuen uns auf deine Anfrage!
-E-Mail: {{ site.email }}
-Telefon: {{ site.telefon}}
-Adresse: {{ site.contact_address }}
+Wir freuen uns über jede Anmerkung oder Frage!
+{{ site.contact_address }}

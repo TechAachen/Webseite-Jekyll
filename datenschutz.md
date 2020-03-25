@@ -1,5 +1,5 @@
 ---
-layout: planepage
+layout: paperwork
 title: Datenschutzerklärung
 ---
 

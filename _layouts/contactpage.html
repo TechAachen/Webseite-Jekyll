@@ -1,0 +1,21 @@
+---
+layout: page
+---
+<section id="content">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6">
+          <p class="text-left">{{ content }}</p>
+
+      </div>
+      <div class="col-lg-3">
+          <img src="img/techAachen_Logo.svg" alt="TechAachen e.V. Logo">
+      </div>
+    </div>
+  </div>
+</section>
+{% include socialmedia.html %}
+<section id="paperwork" class="only-bottom-padding">
+<p class="text-center">{{page.paperwork}}</p>
+{% include paperwork.html %}
+</section>

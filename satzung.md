@@ -1,5 +1,5 @@
 ---
-layout: planepage
+layout: paperwork
 title: Satzung des TechAachen e.V.
 ---
 
@@ -138,7 +138,7 @@ prüfer/innen beizulegen.
 Tätigkeiten des Verein und des Vorstands, insbesondere:
 - (a) die Verwendung des Vereinsvermögens
 - (b) die Aufnahme von Fördermitgliedern
-- (c) die Erfüllung des Vereinszwecks gemäß [§ 3.2](##§-3-Zweck-des-Vereins) im Geschäftsjahr
+- (c) die Erfüllung des Vereinszwecks gemäß [§ 3.2](#-3-Zweck-des-Vereins) im Geschäftsjahr
 10. Die Tagesordnung ist zu ergänzen, wenn dies ein Mitglied bis spätestens eine Woche vor dem angesetzten Termin schriftlich oder per E-Mail beantragt. Die Ergänzung ist zu Beginn der Versammlung bekanntzumachen.
 11. Anträge
 - (a) über die Abwahl des Vorstands
@@ -239,7 +239,7 @@ versammlung, den Vorstand oder das Team selbst berufen werden.
 ## § 16 Kassenprüfung
 1. Die Mitgliederversammlung wählt für die Dauer von einem Jahr zwei Kassenprüfer/innen.
 2. Diese/r darf nicht Mitglied des Vorstands sein.
-3. Die Kassenprüfer/innen dürfen nicht Angehörige desselben Mitglieds gemäß [§ 7.1](##§-7-Mitgliedschaft) wie
+3. Die Kassenprüfer/innen dürfen nicht Angehörige desselben Mitglieds gemäß [§ 7.1](#-7-Mitgliedschaft) wie
 die Vorstände sein.
 4. Wiederwahl ist zulässig.
 5. Soll der Vorstand entlastet werden, ist der Mitgliederversammlung eine Woche vor deren

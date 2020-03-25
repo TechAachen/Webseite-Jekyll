@@ -2,7 +2,7 @@
 
 It is going to be the second Version of TechAachen's Webpage.
 
-New Webside structure:
+Webside structure:
 - [ ] Mainpage
   - [ ] About us, Our Mission
   - [ ] Mx Academic Cup
@@ -13,11 +13,34 @@ New Webside structure:
   - [x] Datenschutz
   - [x] Satzung
 
+All those bulled-points represent a `*.md`-file in root with a corresponding layout, stored in `_layouts`, as so:
 
+| Page           | Layouts-Name     | Info                           |
+| :------------- | :-------------   | :-------------                 |
+| index.html     | front.html       | Front-Page                     |
+| about.md       | page.html        | About us and Mission           |
+| [project].html | page.html        | individual Projectpage         |
+| contact.md     | contactpage.html | contactpage inherits page.html |
+| impressum.md   | paperwork.html   | impressum                      |
+| datenschutz.md | paperwork.html   | Datenschutzerklärung           |
+| satzung.md     | paperwork.html   | Satzung TechAachen             |
 
-Other To-Dos:
+The front-page contains mostly subpages, stored in `_includes`.
+Other includes are:
 - [ ] Header
 - [ ] Footer
+  - [ ] Logo
+  - [ ] remove bulled-points
+  - [ ] alignment
+  - [ ] border-top
+
+Variables accessable all over the webside are stored in `config.yml`
+
+Data like members, project on front etc. are stored in `_data`.
+
+
+***
+
 
 
 ## Creative Theme for Jekyll

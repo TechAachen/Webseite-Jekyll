@@ -6,15 +6,30 @@
 <body id="page-top">
   {% include nav-front.html %}
   {% include header.html %}
-  {% include ziele.html %}
-  {% include members.html %}
-  {% include projekte.html %}
-  {% include contact.html %}
-  {% include team.html %}
-  {% include mitgliederversammlung.html %}
-  {% include persons.html %}
-  {% include impressum.html %}
-  {% include scripts.html %}
+
+  <div class="container">
+    <!-- {% include ziele.html %} -->
+    {% include card.html title="Unsere Mission" image="img/cards/placeholder.svg"
+    imagealt="Straßenbild" overlayheadline="Studierende durch Technik verbinden" content="" buttonlink="{site}/aboutus.md"
+    buttontext="Erfahre mehr!" %}
+
+    {% include members.html %}
+    {% include projekte.html %}
+
+    {% include card.html title="Unterstützer" image="img/cards/placeholder.svg"
+    imagealt="Gruppenfoto" overlayheadline="Zeigen was neben dem Studium geht" content="" buttonlink="/contact.html"
+    buttontext="Auch Unterstützer werden" %}
+
+    {% include card.html title="Kontakt" image="img/cards/placeholder.svg"
+    imagealt="Gruppenfoto" overlayheadline="Mitglied werden?" content="" buttonlink="/contact.html"
+    buttontext="Nimm Kontakt mit uns auf!" %}
+
+    {% include mitgliederversammlung.html %}
+    <!-- {% include persons.html %} -->
+    <!-- {% include impressum.html %} -->
+    {% include footer.html %}
+    {% include scripts.html %}
+  </div>
 </body>
 
 </html>

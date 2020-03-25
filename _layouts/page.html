@@ -3,10 +3,9 @@
 
 {% include head.html %}
 
-<body id="page-top" class="bg-dark">
+<body id="page-top" class="bg-light">
 
 {% include nav-page.html %}
-{% include nav-front.html %}
 
   <section id="content">
     <div class="container">
@@ -23,12 +22,7 @@
         </div>
     </div>
   </section>
-  <section id="goback" class="only-bottom-padding">
-    <div class="impressum text-center">
-      <a href="{{ site.baseurl }}/" class="btn btn-primary btn-xl">Zurück zur Startseite</a>
-    </div>
-  </section>
-
+{% include footer.html %}
 {% include scripts.html %}
 </body>
 
