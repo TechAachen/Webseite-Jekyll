@@ -5,9 +5,8 @@ It is going to be the second Version of TechAachen's Webpage.
 Webside structure:
 - [ ] Mainpage
   - [ ] About us, Our Mission
-  - [ ] Mx Academic Cup
-  - [ ] Networking in TechAachen
-  - [ ] Sharing Knowledge
+  - [ ] Projects
+    - [ ] Add Texts, Files and better images
 - [ ] Contact
   - [x] Impressum
   - [x] Datenschutz
@@ -25,14 +24,28 @@ All those bulled-points represent a `*.md`-file in root with a corresponding lay
 | datenschutz.md | paperwork.html   | Datenschutzerklärung           |
 | satzung.md     | paperwork.html   | Satzung TechAachen             |
 
-The front-page contains mostly subpages, stored in `_includes`.
+Layout-ToDos:
+- [ ] Paperwork add Download as PDF-Button
+
+The front-page contains mostly subpages, created from card in `_includes`.
 Other includes are:
+- [ ] navbar
+  - [ ] implementation of dynamic navbar
+- [ ] socialmedia
+  - [ ] smaller version suitable for Footer
+- [ ] members (images and links to all members)
+- [ ] mitgliederversammlung
+- [ ] paperwork (links to all paperworks) (maybe obsolete as include)
+- [ ] persons (board members etc.)
+  - [ ] needs to become cards and replaced on aboutus
+- [ ]
 - [ ] Header
 - [ ] Footer
-  - [ ] Logo
+  - [x] Logo
   - [ ] remove bulled-points
-  - [ ] alignment
-  - [ ] border-top
+  - [x] alignment
+  - [x] border-top
+  - [ ] socialmedia buttons
 
 Variables accessable all over the webside are stored in `config.yml`
 

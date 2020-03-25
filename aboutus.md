@@ -5,4 +5,5 @@ title: About us
 
 # TechAachen e.V.
 
-Wir sind die technischen studentischen Vereine in Aachen. Unser Ziel ist es uns im TechAachen e.V. auszutausche und zu unterhalten.
+{% include members.html %}
+Wir sind die technischen studentischen Vereine in Aachen. Unser Ziel ist es uns im TechAachen e.V. auszutauschen und zu unterhalten.

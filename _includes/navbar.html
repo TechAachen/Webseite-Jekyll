@@ -1,3 +1,8 @@
+
+
+
+<!-- Neues Element, soll später mal zusammen mit einer data datei nav-front und nav-page dynamisch ersetzen -->
+
 <nav id="mainNav" class="navbar navbar-expand-lg navbar-default navbar-fixed-top">
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
@@ -8,10 +13,10 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a href="{{ site.baseurl }}/">
+            <a href="{{include.logolink}}">
               <img class="navbar-brand page-scroll navbar-logo" src="img/techAachen_Logo.svg" alt="TechAachen Logo" title="TechAachen Logo">
             </a>
-            <a class="navbar-brand page-scroll" href="{{ site.baseurl }}/">{{ site.title }}</a>
+            <a class="navbar-brand page-scroll" href="{{site.url}}#page-top">{{ site.title }}</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -31,8 +36,5 @@
                 </li>
             </ul>
         </div>
-        <!-- /.navbar-collapse -->
-        <!-- /.navbar-collapse -->
     </div>
-    <!-- /.container-fluid -->
 </nav>
