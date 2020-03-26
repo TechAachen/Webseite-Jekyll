@@ -175,18 +175,18 @@ header {
     width: 100%;
     min-height: auto;
     @include background-cover;
-    background: center no-repeat url("../img/header-960.jpg");
+    background: center no-repeat url("../img/header/header-960.jpg");
     @media (min-width: 961px) {
-        background: center no-repeat url("../img/header-1920.jpg");
+        background: center no-repeat url("../img/header/header-1920.jpg");
     }
     @media (min-width: 1921px) {
-        background: center no-repeat url("../img/header-3840.jpg");
+        background: center no-repeat url("../img/header/header-3840.jpg");
     }
     text-align: center;
     color: white;
     .header-content {
         position: relative;
-        text-align: center;
+        text-align: left;
         padding: 100px 15px 100px;
         width: 100%;
         .header-content-inner {
@@ -202,12 +202,12 @@ header {
             }
             p {
                 font-weight: 300;
-                font-size: 20px;
-                margin-bottom: 50px;
-                background-color: rgba($theme-lightgrey,0.6);
-                color: $theme-dark;
+                font-size: 40px;
+                margin-bottom: 0px;
+                // background-color: rgba($theme-lightgrey,0.6);
+                color: $theme-darkgrey;
                 text-shadow: none;
-                padding: 5px;
+                // padding: 0px;
             }
             img {
                 max-width: 90%;
@@ -218,7 +218,7 @@ header {
         min-height: 100%;
         .header-content {
             position: absolute;
-            top: 40%;
+            top: 30%;
             -webkit-transform: translateY(-50%);
             -ms-transform: translateY(-50%);
             transform: translateY(-50%);
@@ -228,7 +228,7 @@ header {
                 margin-left: auto;
                 margin-right: auto;
                 p {
-                    font-size: 22px;
+                    font-size: 40px;
                     max-width: 80%;
                     margin-left: auto;
                     margin-right: auto;

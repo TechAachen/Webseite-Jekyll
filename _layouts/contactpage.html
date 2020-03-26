@@ -2,7 +2,7 @@
 layout: page
 ---
 <section id="content">
-  <div class="container">
+  <div class="container-fluid">
 
     <div class="row">
       <div class="col-lg-6 col-12">
@@ -48,30 +48,33 @@ layout: page
 <section id="paperwork">
   <div class="container-fluid">
     <div class="row">
-      <div class="col-lg-6 col-12">
-        <div class="card h-100 w-100">
+<div class="col-lg-6 col-12 p-3">
+        <div class="card h-100 w-100 shadow">
           <div class="card-header">
             <strong>Nächste Versammlung</strong>
           </div>
           <div class="card-body">
-            {% include mitgliederversammlung.html %}
+            <div class="align-items-center">
+              {% include mitgliederversammlung.html %}
+            </div>
+
           </div>
         </div>
       </div>
-      <div class="col-lg-6 col-12">
-        <div class="card h-100 w-100">
+      <div class="col-lg-6 col-12 p-3">
+        <div class="card h-100 w-100 shadow">
           <div class="card-header">
             <strong>Weitere Informationen</strong>
           </div>
           <div class="card-body">
-            <div class="row d-flex">
-              <div class="col-lg-4 col-12 align-items-lg-center">
+            <div class="row h-100">
+              <div class="col-lg-4 col-12 align-self-center">
                 <a href="{{ site.url }}/impressum.html" class="btn btn-default btn-xl">Impressum</a>
               </div>
-              <div class="col-lg-4 col-12">
+              <div class="col-lg-4 col-12 align-self-center">
                 <a href="{{ site.url }}/datenschutz.html" class="btn btn-default btn-xl">Datenschutz</a>
               </div>
-              <div class="col-lg-4 col-12">
+              <div class="col-lg-4 col-12 align-self-center">
                 <a href="{{ site.url }}/satzung.html" class="btn btn-default btn-xl">Satzung</a>
               </div>
             </div>

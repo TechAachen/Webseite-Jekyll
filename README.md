@@ -2,15 +2,15 @@
 
 It is going to be the second Version of TechAachen's Webpage.
 
-Webside structure:
+Website structure:
 - [ ] Mainpage
   - [ ] About us, Our Mission
   - [ ] Projects
     - [ ] Add Texts, Files and better images
 - [ ] Contact
   - [ ] Logo-position
-  - [ ] Hallo-size in smartphone view
-  - [ ] legal: vertical alignment
+  - [x] Hallo-size in smartphone view
+  - [x] legal: vertical alignment
   - [x] Impressum
   - [x] Datenschutz
   - [x] Satzung
@@ -34,13 +34,14 @@ Layout-ToDos:
 
 The front-page contains mostly subpages, created from card in `_includes`.
 Other includes are:
+- [ ] card
 - [ ] navbar
   - [ ] implementation of dynamic navbar
   - [ ] error in tabled view
 - [x] socialmedia
   - [x] smaller version suitable for Footer
   - [x] removed from includes
-- [ ] members (images and links to all members)
+- [x] members (images and links to all members)
   - [x] ugly workaround
 - [x] mitgliederversammlung
   - [x] on contact
@@ -48,14 +49,18 @@ Other includes are:
 - [ ] persons (board members etc.)
   - [ ] needs to become cards and replaced on aboutus
 - [ ] Header
+  - [x] general design
+  - [ ] responsive design not working really good
+  - [ ] scroll down button or smaller background image
 - [x] Footer
+  - [x] responsivnes
   - [x] Logo
   - [x] remove bulled-points
   - [x] alignment
   - [x] border-top
   - [x] socialmedia buttons
 
-Variables accessable all over the webside are stored in `config.yml`
+Variables accessible all over the website are stored in `config.yml`
 
 Data like members, project on front etc. are stored in `_data`.
 

@@ -1,6 +1,6 @@
 - title: "Gemeinschaftswerkstatt"
   image: "img/projects/gemeinschaftswerkstatt.svg"
-  link: ""
+  link: "/static/projects/2020_03_26_Gemeinschaftswerkstatt.pdf"
   text_english: |
     We are MX Academic Cup, a competition for university student-teams that aims to propagate sustainable mobility technology through Motocross Racing.
     The driving idea is to compare different kinds of powertrain technologies in order to find out which solution is the most suitable for the purpose of motorsport and sustainability.
@@ -10,7 +10,7 @@
     Der TechAachen e.V. wird die Räumlichkeiten für Veranstaltungen und Präsentationen nutzen.
 
 - title: "MX Academic Cup"
-  image: "img/projects/mx_adademic_cup.jpg"
+  image: "img/projects/mx_adademic_cup.svg"
   link: "https://www.mx-academic-cup.com/"
   text_english: |
     We are MX Academic Cup, a competition for university student-teams that aims to propagate sustainable mobility technology through Motocross Racing.

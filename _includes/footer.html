@@ -1,45 +1,60 @@
-<footer class="pt-4 my-md-5 pt-md-5 border-top ">
+<footer class="pt-4 my-md-5 border-top ">
   <div class="container">
-    <div class="row justify-content-md-center">
-      <div class="col-12 col-md">
-        <img class="mb-2" src="img/techAachen_Logo.svg" alt="TechAachen e.V. Logo" width="86" height="86">
+    <div class="row justify-content-center px-5">
+      <!-- Logo -->
+      <div class="col-7 col-lg-3 col-md p-3 pb-5">
+        <img  style="width: 90px;" src="img/techAachen_Logo.svg" alt="TechAachen e.V. Logo">
       </div>
-      <div class="col-6 col-md ">
+
+      <!-- Adresse -->
+      <div class="col-5 col-lg-3 col-md p-3 pb-5">
         {{ site.contact_address }}
       </div>
+
       <!-- Rechtliches -->
-      <div class="col-6 col-md">
-        <ul style="list-style: none;">
-          <li><a href="{{ site.url }}/impressum.html" class="btn btn-light btn-sm">Impressum</a></li>
-          <li><a href="{{ site.url }}/datenschutz.html" class="btn btn-light btn-sm">Datenschutz</a></li>
-          <li><a href="{{ site.url }}/satzung.html" class="btn btn-light btn-sm">Satzung</a></li>
-        </ul>
+      <div class="col-12 col-lg-3 col-md p-3 pb-0">
+            <div class="row">
+              <div class="col-lg-12 col-4">
+                <a href="{{ site.url }}/impressum.html" class="btn btn-light btn-sm">Impressum</a>
+              </div>
+              <div class="col-lg-12 col-4">
+                <a href="{{ site.url }}/datenschutz.html" class="btn btn-light btn-sm">Datenschutz</a>
+              </div>
+              <div class="col-lg-12 col-4">
+                <a href="{{ site.url }}/satzung.html" class="btn btn-light btn-sm">Satzung</a>
+              </div>
+            </div>
       </div>
+
       <!-- Für Mitglieder -->
-      <div class="col-6 col-md">
-        <ul style="list-style: none;">
-          <li><a href="https://techaachen.slack.com" class="btn btn-light btn-sm">Slack</a></li>
-          <li><a href="https://wiki.techaachen.de/" class="btn btn-light btn-sm">Wiki</a></li>
-        </ul>
+      <div class="col-12 col-lg-2 col-md p-3">
+        <div class="row">
+          <div class="col-lg-12 col-4">
+            <a href="https://techaachen.slack.com" class="btn btn-light btn-sm">Slack</a>
+          </div>
+          <div class="col-lg-12 col">
+            <a href="https://wiki.techaachen.de/" class="btn btn-light btn-sm">Wiki</a>
+          </div>
+        </div>
       </div>
+
       <!-- Kontakt -->
-      <div class="col-6 col-md">
-        <ul style="list-style: none;">
-          <li><a href="mailto:{{ site.email }}">
-            <i class="fa fa-envelope fa-lg wow bounceIn" data-wow-delay=".1s"></i></a></li>
-        <li><a href="https://twitter.com/{{ site.contact_twitter_username }}">
-          <i class="fa fa-twitter fa-lg wow bounceIn" data-wow-delay=".1s"></i></a></li>
-        <li><a href="https://facebook.com/{{ site.contact_facebook_username }}" >
-          <i class="fa fa-facebook fa-lg wow bounceIn" data-wow-delay=".1s"></i></a></li>
-        <li><a href="https://instagram.com/{{ site.contact_instagram_username }}">
-          <i class="fa fa-instagram fa-lg wow bounceIn" data-wow-delay=".1s"></i></a></li>
-        </ul>
+      <div class="col-12 col-lg-1 col-md p-3">
+        <div class="row pb-5">
+          <div class="col-lg-12 col-3 text-center">
+            <a href="mailto:{{ site.email }}"><i class="fa fa-envelope fa-lg wow bounceIn" data-wow-delay=".1s"></i></a>
+          </div>
+          <div class="col-lg-12 col-3 text-center">
+            <a href="https://twitter.com/{{ site.contact_twitter_username }}"><i class="fa fa-twitter fa-lg wow bounceIn" data-wow-delay=".1s"></i></a>
+          </div>
+          <div class="col-lg-12 col-3 text-center">
+            <a href="https://facebook.com/{{ site.contact_facebook_username }}" ><i class="fa fa-facebook fa-lg wow bounceIn" data-wow-delay=".1s"></i></a>
+          </div>
+          <div class="col-lg-12 col-3 text-center">
+            <a href="https://instagram.com/{{ site.contact_instagram_username }}"><i class="fa fa-instagram fa-lg wow bounceIn" data-wow-delay=".1s"></i></a>
+          </div>
+        </div>
       </div>
     </div>
   </div>
 </footer>
-        <!-- <section id="goback" class="only-bottom-padding">
-        <div class="impressum text-center">
-        <a href="{{ site.baseurl }}/" class="btn btn-default btn-xl">Zurück zur Startseite</a>
-      </div>
-    </section> -->
