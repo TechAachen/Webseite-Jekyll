@@ -8,6 +8,9 @@ Webside structure:
   - [ ] Projects
     - [ ] Add Texts, Files and better images
 - [ ] Contact
+  - [ ] Logo-position
+  - [ ] Hallo-size in smartphone view
+  - [ ] legal: vertical alignment
   - [x] Impressum
   - [x] Datenschutz
   - [x] Satzung
@@ -26,26 +29,31 @@ All those bulled-points represent a `*.md`-file in root with a corresponding lay
 
 Layout-ToDos:
 - [ ] Paperwork add Download as PDF-Button
+- [ ] Paperwork make goback-button floating
+- [ ] Struktur die von default.html erben soll erstellen.
 
 The front-page contains mostly subpages, created from card in `_includes`.
 Other includes are:
 - [ ] navbar
   - [ ] implementation of dynamic navbar
-- [ ] socialmedia
-  - [ ] smaller version suitable for Footer
+  - [ ] error in tabled view
+- [x] socialmedia
+  - [x] smaller version suitable for Footer
+  - [x] removed from includes
 - [ ] members (images and links to all members)
-- [ ] mitgliederversammlung
-- [ ] paperwork (links to all paperworks) (maybe obsolete as include)
+  - [x] ugly workaround
+- [x] mitgliederversammlung
+  - [x] on contact
+- [x] deleted paperwork.html
 - [ ] persons (board members etc.)
   - [ ] needs to become cards and replaced on aboutus
-- [ ]
 - [ ] Header
-- [ ] Footer
+- [x] Footer
   - [x] Logo
-  - [ ] remove bulled-points
+  - [x] remove bulled-points
   - [x] alignment
   - [x] border-top
-  - [ ] socialmedia buttons
+  - [x] socialmedia buttons
 
 Variables accessable all over the webside are stored in `config.yml`
 

@@ -24,7 +24,7 @@ function Mitgliederversammlung() {
     	"Die nächste <i>Geschäftsführende Mitgliederversammlung</i> findet am " +
     	next_meeting[0].toLocaleDateString("de-DE", {day: "numeric", month: 'long', year: "numeric"}) +
     	" um " + next_meeting[1] +
-    	" statt. " +
+    	" statt. </br>" +
     	"Versammlungsort: " + next_meeting[2];
 
 }

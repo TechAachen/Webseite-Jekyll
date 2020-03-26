@@ -1,16 +1,20 @@
 <section id="projects">
   <h2 class="section-heading">Projekte</h2>
   <hr class="primary">
-<div class="card-deck">
-    {% for projekt in site.data.projekte %}
-      <div class="card" >
-        <img src="{{projekt.image}}" class="card-img" alt="{{projekt.title}}">
-        <div class="card-body d-flex flex-column">
-          <h3>{{projekt.title}}</h3>
-          <p>{{projekt.text}}</p>
-          <a href="{{ projekt.link }}" class="btn btn-primary btn-xl align-self-center mt-auto" title="{{projekt.title}}">Mehr erfahren</a>
+  <div class="container-fluid">
+    <div class="row">
+        {% for projekt in site.data.projekte %}
+        <div class="col-lg-4 col-12">
+          <div class="card h-100" >
+            <img src="{{projekt.image}}" class="card-img" alt="{{projekt.title}}">
+            <div class="card-body d-flex flex-column">
+              <h3>{{projekt.title}}</h3>
+              <p>{{projekt.text}}</p>
+              <a href="{{ projekt.link }}" class="btn btn-primary btn-xl align-self-center mt-auto" title="{{projekt.title}}">Mehr erfahren</a>
+            </div>
+          </div>
         </div>
-      </div>
-    {% endfor %}
-</div>
+        {% endfor %}
+    </div>
+  </div>
 </section>

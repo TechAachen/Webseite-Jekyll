@@ -1,8 +1,10 @@
 ---
 layout: contactpage
-title: Tritt mit uns in Kontakt!
+title: Hallo!
 paperwork: Weitere Informationen zu unserem Verein findest du hier...
 ---
 
-Wir freuen uns über jede Anmerkung oder Frage!
-{{ site.contact_address }}
+
+Wir freuen uns über jede Idee, Anmerkung oder Frage!
+
+Schreibe uns doch direkt an:

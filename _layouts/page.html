@@ -6,14 +6,15 @@
 <body id="page-top" class="bg-light">
 
 {% include nav-page.html %}
+<div class="container">
 
-  <section id="content">
+
+<section id="content">
     <div class="container">
       <div class="text-center">
-          <br />
-          <br />
-          <h2 class="section-heading">{{ page.title }}</h2>
-          <hr class="primary">
+        <br />
+        <br />
+          <!-- <h2 class="section-heading">{{ page.title }}</h2> -->
       </div>
     </div>
     <div class="container">
@@ -21,8 +22,10 @@
           {{ content }}
         </div>
     </div>
-  </section>
+</section>
 {% include footer.html %}
+
+</div>
 {% include scripts.html %}
 </body>
 
