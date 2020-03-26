@@ -52,6 +52,8 @@ Other includes are:
   - [x] general design
   - [ ] responsive design not working really good
   - [ ] scroll down button or smaller background image
+- [ ] Persons ist hässlich und muss schöner werden
+- [ ] Persons um Mittmachen Feld ergänzen
 - [x] Footer
   - [x] responsivnes
   - [x] Logo

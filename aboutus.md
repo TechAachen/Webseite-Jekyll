@@ -19,6 +19,11 @@ In unserem Dachverband TechAachen e.V. bündeln wir unsere Kräfte.
 ***
 {% include ziele.html %}
 
+## Das Team
+***
+
+{% include persons.html %}
+
 ## Historie
 ***
 Im Jahr 2018 hat das Team Sonnenwagen e.V. seinen ersten Solar-Wagen gebaut.
