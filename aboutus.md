@@ -5,6 +5,7 @@ title: Über uns
 
 <!-- ![Gruppenfoto](img/techaachen-1920.jpg) -->
 
+
 Wir sind circa 400 Studierende der RWTH und FH-Aachen, die neben ihrem Studium Wettbewerbe bestreiten, Ideen realisieren und sich für Nachhaltigkeit und Soziales einsetzen.
 Wir bestehen aus aktuell neun Vereinen mit jeweils unterschiedlichen Schwerpunkten.
 

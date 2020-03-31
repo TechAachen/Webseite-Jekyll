@@ -175,7 +175,7 @@ header {
     width: 100%;
     min-height: auto;
     @include background-cover;
-    background: center no-repeat url("../img/header/header-960.jpg");
+    background: center 10px no-repeat url("../img/header/header-960.jpg");
     @media (min-width: 961px) {
         background: center no-repeat url("../img/header/header-1920.jpg");
     }
