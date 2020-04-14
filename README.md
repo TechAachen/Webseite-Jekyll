@@ -7,6 +7,7 @@ Website structure:
   - [ ] About us, Our Mission
   - [ ] Projects
     - [ ] Add Texts, Files and better images
+    - [ ] Add Kompetenztreffenpage
 - [ ] Contact
   - [ ] Logo-position
   - [x] Hallo-size in smartphone view
