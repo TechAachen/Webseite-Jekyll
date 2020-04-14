@@ -2,6 +2,9 @@
 
 It is going to be the second Version of TechAachen's Webpage.
 
+See how it looks right now here:
+[l'preview](https://preview.techaachen.de/v2/)
+
 Website structure:
 - [ ] Mainpage
   - [ ] About us, Our Mission
