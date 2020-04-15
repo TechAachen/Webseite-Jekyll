@@ -1,4 +1,4 @@
-<section id="persons">
+
 <div class="container-fluid">
   <div class="row justify-content-center">
     {% assign persons = site.data.persons | sort: 'order' %}
@@ -6,10 +6,18 @@
     {% if person.active %}
     <div class="col-lg-2 col-12 p-3">
       <div class="card h-100 shadow">
-        <img src="{{person.image}}" alt="{{person.name}}">
-        <div class="card-footer">
-          <h3>{{person.name}}</h3>
-          <p>{{person.function}}</p>
+        <img src="{{person.image}}" style="object-fit:cover;" alt="{{person.name}}">
+        <div class="card-body h-100">
+          <div class="row">
+            <div class="col w-100">
+              <h3 class="card-title">{{person.name}}</h3>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col w-100">
+              <p class="card-text">{{person.function}}</p>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -17,21 +25,3 @@
     {% endfor %}
   </div>
 </div>
-
-
-</section>
-
-
-<!--     <div class="flex-grid">
-    {% assign persons = site.data.persons | sort: 'order' %}
-    {% for person in persons %} {% if person.active %}
-        <div class="flex-cell text-center flex-cell-persons">
-            <div class="service-box">
-                <h3>{{person.name}}</h3>
-                <img src="{{person.image}}" class="flex-cell-persons-img" alt="{{person.name}}" title="{{person.name}}">
-                <p>{{person.function}}</p>
-            </div>
-        </div>
-    {% endif %}
-    {% endfor %}
-    </div> -->

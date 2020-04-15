@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="de">
+
+{% include head.html %}
+
+<body id="page-top" class="bg-light">
+
+  {% include nav-page.html %}
+
+  <div class="container pt-5">
+    <section id="aboutus" class="pb-0">
+      <div class="card shadow text-white" style="height: 400px;">
+        <img src="{{ page.titleimg }}" class="card-img" style="height: 400px; object-fit:cover;" alt="Gruppenbild">
+        <div class="card-img-overlay d-flex flex-column">
+          <div class="pr-3 d-flex justify-content-end align-self-end mt-auto">
+            <h1>{{ page.slogan }}</h1>
+          </div>
+        </div>
+      </div>
+      <div class="pt-4">
+        <p>{{ page.abouttext }}</p>
+      </div>
+    </section>
+    <section id="clubs" class="py-0">
+      {% include members.html %}
+    </section>
+    <section id="content">
+      {{ content }}
+    </section>
+    <section id="team">
+      {% include persons.html %}
+    </section>
+    <section id="history" class="py-0">
+      <h2 class="section-heading">{{ page.historieheader }}</h2>
+      <hr class="primary">
+      <div class="card mb-3" style="max-width:100%">
+        <div class="row no-gutters">
+          <div class="col-md-4">
+            <img src="{{ page.historieimg }}" alt="Bild Gründungsversammlung.">
+          </div>
+          <div class="col-md-8 p-3">
+            <div class="p-3">
+              <p>{{ page.historietext }}</p>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </section>
+    {% include card.html title="Kontakt" image="img/aboutus/sonnenwagen_schieben.jpeg"
+    imagealt="Gruppenfoto" overlayheadline="Du willst uns unterstützen und mithelfen?" text="" buttonlink="contact.html"
+    buttontext="Nimm Kontakt mit uns auf!" %}
+    {% include footer.html %}
+
+  </div>
+  {% include scripts.html %}
+</body>
+
+</html>

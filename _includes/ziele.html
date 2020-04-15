@@ -1,7 +1,9 @@
 <section id="ziele">
-    <div class="flex-grid">
+    <h2 class="section-heading">Was uns Vereine verbindet</h2>
+    <hr class="primary">
+    <div class="row">
     {% for ziel in site.data.ziele %}
-        <div class="flex-cell text-center">
+        <div class="col-lg-4 col-12 text-center">
             <div class="service-box">
                 <i class="fa fa-4x fa-{{ ziel.fontawesome-icon }} wow bounceIn text-primary"></i>
                 <h3>{{ ziel.title }}</h3>

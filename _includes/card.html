@@ -5,23 +5,21 @@ title
 image
 imagealt
 overlayheadline
-content
+text
 buttonlink
 buttontext
 -->
 
 <section id="card">
   <h2>{{include.title}}</h2>
-  <div class="card shadow" style="height: 400px;">
-    <img src="{{include.image}}" class="card-img" alt="{{include.imagealt}}">
+  <div class="card rounded shadow" style="height: 400px;">
+    <img src="{{include.image}}" class="card-img" style="height: 400px; object-fit:cover" alt="{{include.imagealt}}">
     <div class="card-img-overlay d-flex flex-column">
-      <div class="text-white">
+      <div class="text-white text-left col-6 pl-3">
         <h1>{{include.overlayheadline}}</h1>
-        <p>{{ content }}</p>
+        <p>{{ include.text }}</p>
       </div>
       <a href="{{include.buttonlink}}" class="btn btn-primary btn-xl page-scroll align-self-end mt-auto">{{include.buttontext}}</a>
     </div>
   </div>
-
-
 </section>

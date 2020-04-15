@@ -1,0 +1,32 @@
+- name: Faserverbund-Workshop
+  date: 2019
+  image: img/members/addi.jpg
+  link: https://www.aachen-drone.de/
+  text: |
+    Wir teilen eine Begeisterung von allem was fliegt und suchen uns selbst Projekte oder nehmen an Wettbewerben teil.
+    Jeder kann an den Projekten mitarbeiten wo er möchte und bei unserem monatlichen Treffen tauschen wir uns aus.
+- name: Batterie-Workshop
+  date:
+  image:
+  link:
+  text: |
+    Ein Großteil der Vereine plant, konzeptiert oder baut aktuell an Batterieelektrischen oder hybridelektrischen Antriebssträngen für Ihre Fahr- und Flugzeuge.
+    Um das anspruchsvolle Thema in den Griff zu bekommen haben sich die Experten aus den Teams zusammengesetzt und über die unterschiedlichen
+    Herausforderungen gesprochen. Wie immer waren auch neue interessierte Studierenden eingeladen um sich zu informieren und mitzudiskuttieren.
+- name: Arbeitsschutz-Workshop
+  date:
+  image:
+  link:
+  text: |
+    Allen uns Studierenden liegt die Sicherheit und Gesundheit der anderen Mitglieder in unseren Vereinen und uns selber am Herzen.
+    Um unsere Konzepte jedoch in die Wirklichkeit werden zu lassen, ist der regelmäßige Umgang mit gefährlichen Stoffen und Maschinen notwendig.
+    Das macht einen aktiven Austausch über Schutzmaßnahmen, Prozesse, Kontrollinstanzen und Versicherungen notwendig.
+    In unserem Kompetenztreffen Arbeitschutz befassen wir uns gemeinsam mit dem wichtigen Thema Arbeitsschutz um für den bestmöglichen Schutz
+    für uns Studierende zu sorgen.
+- name: Geschäftsführende Versammlung
+  date: alle zwei Wochen
+  image:
+  link:
+  text: |
+    Für die viele kleinen Themen und Fragen, die in den Vereinen aufkommen, wäre ein eigener Workshop überflüssig.
+    Speziell hierfür haben wir mit unserer zweiwöchendlichen Geschäftsführenden Versammlung die Möglichkeit und schnell und effizient in der Gruppe auszutauschen.

@@ -15,3 +15,9 @@
   active: true
   image: "img/persons/niklas-bloemen.jpg"
   order: 0_vorstand_3
+
+- name: Und Du?
+  function: <a href="contact.html" class="btn btn-primary page-scroll">Mitmachen!</a>
+  active: true
+  image: "img/persons/blank.svg"
+  order: 1
