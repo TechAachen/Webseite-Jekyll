@@ -11,9 +11,9 @@ permalink: impressum.html
 
 **Gemeinschaftlich vertretungsberechtigt sind jeweils zwei gemeinsam:**
 {% assign persons = site.data.persons | sort: 'order' -%}
-{% for person in persons %} {% if person.active -%}
+{% for person in persons %} {% if person.active -%} {% if person.boardmember -%}
 <br>{{person.function}}: {{person.name}}
-{% endif %}{% endfor %}
+{% endif %}{% endif %}{% endfor %}
 
 **Registereintrag**  
 Eingetragen im Vereinsregister.  

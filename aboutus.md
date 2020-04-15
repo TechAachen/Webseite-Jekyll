@@ -14,12 +14,8 @@ historietext: |
   Nach wiederholten Treffen wurde beschlossen dem ganzen einen Namen und eine Satzung zu geben und nach viel Arbeit letztendlich am
   <!-- Datum einfügen -->
   der TechAachen e.V. gegründet.
-historieimg: img/
+historieimg: img/aboutus/gruendung.jpg
 ---
-
-
-## Wir stehen für
-***
 
 
 {% include ziele.html %}

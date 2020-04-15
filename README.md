@@ -7,10 +7,13 @@ See how it looks right now here:
 
 Website structure:
 - [ ] Mainpage
-  - [ ] About us, Our Mission
+  - [ ] About us, Our Mission:
+    - [ ] Ziele ergänzen.
+    - [ ] Fenstergröße anpassen
   - [ ] Projects
     - [ ] Add Texts, Files and better images
-    - [ ] Add Kompetenztreffenpage
+    - [x] Add Kompetenztreffenpage
+    - [ ] finalize Kompetenztreffen
 - [ ] Contact
   - [ ] Logo-position
   - [x] Hallo-size in smartphone view
@@ -35,10 +38,11 @@ Layout-ToDos:
 - [ ] Paperwork add Download as PDF-Button
 - [ ] Paperwork make goback-button floating
 - [ ] Struktur die von default.html erben soll erstellen.
+- [ ] Add pictures
 
 The front-page contains mostly subpages, created from card in `_includes`.
 Other includes are:
-- [ ] card
+- [x] card
 - [ ] navbar
   - [ ] implementation of dynamic navbar
   - [ ] error in tabled view
@@ -51,13 +55,13 @@ Other includes are:
   - [x] on contact
 - [x] deleted paperwork.html
 - [ ] persons (board members etc.)
-  - [ ] needs to become cards and replaced on aboutus
+  - [x] needs to become cards and replaced on aboutus
+  - [ ] sizing
 - [ ] Header
   - [x] general design
   - [ ] responsive design not working really good
   - [ ] scroll down button or smaller background image
-- [ ] Persons ist hässlich und muss schöner werden
-- [ ] Persons um Mittmachen Feld ergänzen
+- [x] persons um Mittmachen Feld ergänzen
 - [x] Footer
   - [x] responsivnes
   - [x] Logo
