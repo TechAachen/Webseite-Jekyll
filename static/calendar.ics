@@ -30,10 +30,11 @@ END:VTIMEZONE
 {% assign end = termin.datum | remove: "-" | append: "T" | append: end_uhrzeit -%}
 BEGIN:VEVENT
 UID:meeting+{{ start }}@techaachen.de
-SUMMARY: TechAachen - {{ termin.title }}
-LOCATION: {{ termin.ort }}
-DTSTART;TZID=Europe/Berlin: {{ start }}
-DTEND;TZID=Europe/Berlin: {{ end }}
+SUMMARY:TechAachen - {{ termin.title }}
+LOCATION:{{ termin.ort }}
+DTSTART;TZID=Europe/Berlin:{{ start }}
+DTEND;TZID=Europe/Berlin:{{ end }}
+DTSTAMP:{{ site.time | date: '%Y%m%dT%H%M%SZ' }}
 END:VEVENT
 {% endfor -%}
 END:VCALENDAR
