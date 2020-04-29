@@ -10,7 +10,7 @@
   <div class="container pt-5">
     <section id="aboutus" class="pb-0">
       <div class="card shadow text-white" style="height: 400px;">
-        <img src="{{ page.titleimg }}" class="card-img" style="height: 400px; object-fit:cover;" alt="Gruppenbild">
+        <img srcset="{{ page.titleimg375 }} 375w, {{page.titleimg690}} 690w, {{page.titleimg1110}} 1110w" sizes="100vw" class="card-img" style="height: 400px; object-fit:cover;" alt="Gruppenbild">
         <div class="card-img-overlay d-flex flex-column">
           <div class="pr-3 d-flex justify-content-end align-self-end mt-auto">
             <h1>{{ page.slogan }}</h1>
@@ -46,7 +46,7 @@
           </div>
     </section>
     {% include card.html title="Kontakt" image375="img/aboutus/sonnenwagenschieben_375x400.png" image690="img/aboutus/sonnenwagenschieben_690x400.png" image1110="img/aboutus/sonnenwagenschieben_1110x400.png"
-    imagealt="Gruppenfoto" overlayheadline="Du willst uns unterstützen und mithelfen?" text="" buttonlink="contact.html"
+    imagealt="Gruppenfoto" overlayheadline="Du willst uns unterstützen und mitanpacken?" text="" buttonlink="contact.html"
     buttontext="Nimm Kontakt mit uns auf!" %}
     {% include footer.html %}
 

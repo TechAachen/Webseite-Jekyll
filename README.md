@@ -34,7 +34,7 @@ All those bulled-points represent a `*.md`-file in root with a corresponding lay
 | datenschutz.md | paperwork.html   | Datenschutzerklärung           |
 | satzung.md     | paperwork.html   | Satzung TechAachen             |
 
-Layout-ToDos:
+Unimportant Layout-ToDos:
 - [ ] Paperwork add Download as PDF-Button
 - [ ] Paperwork make goback-button floating
 - [ ] Struktur die von default.html erben soll erstellen.

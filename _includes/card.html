@@ -15,12 +15,12 @@ buttontext
 <section id="card">
   <h2>{{include.title}}</h2>
   <div class="card rounded shadow" style="height: 400px;">
-    <img srcset="{{include.image375}} 375w, {{include.image690}} 690w, {{include.image1110}} 1110w" sizes="(max-width: 400px) 375w, (max-width: 700px) 690w, 1110w" class="card-img" style="height: 400px; object-fit:cover" alt="{{include.imagealt}}">
+    <img srcset="{{include.image375}} 375w,
+                 {{include.image690}} 690w,
+                {{include.image1110}} 1110w" sizes="100vw" class="card-img" style="height: 400px; object-fit:cover; " alt="{{include.imagealt}}">
     <div class="card-img-overlay d-flex flex-column">
-      <div class="text-white text-left col-lg-6 col-12 pl-3">
-        <h1>{{include.overlayheadline}}</h1>
-        <p>{{ include.text }}</p>
-      </div>
+      <h1 class="text-white pl-3">{{include.overlayheadline}}</h1>
+      <p class="text.white pl-3">{{ include.text }}</p>
       <a href="{{include.buttonlink}}" class="btn btn-primary btn-xl page-scroll align-self-end mt-auto">{{include.buttontext}}</a>
     </div>
   </div>

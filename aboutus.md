@@ -1,7 +1,9 @@
 ---
 layout: aboutuspage
 title: Über uns
-titleimg: img/techaachen-1920.jpg
+titleimg375: img/aboutus/gruppenbild_375x400.jpg
+titleimg690: img/aboutus/gruppenbild_690x400.jpg
+titleimg1110: img/aboutus/gruppenbild_1110x400.jpg
 slogan: Gemeinsam Träume verwirklichen.
 abouttext: |
   Wir sind circa 400 Studierende der RWTH und FH-Aachen, die neben ihrem Studium Wettbewerbe bestreiten, Ideen realisieren und sich für Nachhaltigkeit und Soziales einsetzen.
