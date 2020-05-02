@@ -1,5 +1,6 @@
 - name: Faserverbund-Workshop
   date: 2019
+  time:
   image: img/members/addi.jpg
   link: https://www.aachen-drone.de/
   text: |
@@ -7,14 +8,26 @@
     Jeder kann an den Projekten mitarbeiten wo er möchte und bei unserem monatlichen Treffen tauschen wir uns aus.
 - name: Batterie-Workshop
   date:
-  image:
+  time:
+  image: img/projects/workshops/batterieworkshop.jpg
   link:
   text: |
     Ein Großteil der Vereine plant, konzeptiert oder baut aktuell an Batterieelektrischen oder hybridelektrischen Antriebssträngen für Ihre Fahr- und Flugzeuge.
     Um das anspruchsvolle Thema in den Griff zu bekommen haben sich die Experten aus den Teams zusammengesetzt und über die unterschiedlichen
     Herausforderungen gesprochen. Wie immer waren auch neue interessierte Studierenden eingeladen um sich zu informieren und mitzudiskuttieren.
+- name: Schaltplan- & Platinendesign mit Kicad
+  date: 2020-01-22
+  time: 19.00h
+  image: img/projects/workshops/kicad.jpg
+  link: https://www.roboterclub.rwth-aachen.de/
+  text: |
+    Wie man mit dem leistungsfähigen EDA-Tool KiCad Schaltkreise zeichnet und daraus Platinen designed,
+    können Studierende bei diesem Workshop lernen.
+    In einem interaktiven Format bringen wir den Studierenden neben den Grundlagen beim Zeichnen von Schaltplänen und PCB Layouts
+    auch wertvolle Tipps und Tricks im Umgang mit KiCad bei.
 - name: Arbeitsschutz-Workshop
   date:
+  time:
   image:
   link:
   text: |
@@ -25,7 +38,8 @@
     für uns Studierende zu sorgen.
 - name: Geschäftsführende Versammlung
   date: alle zwei Wochen
-  image:
+  time: 20.00h
+  image: img/projects/workshops/versammlung.jpg
   link: "../contact.html"
   text: |
     Für die viele kleinen Themen und Fragen, die in den Vereinen aufkommen, wäre ein eigener Workshop überflüssig.
