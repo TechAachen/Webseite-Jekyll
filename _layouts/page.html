@@ -5,28 +5,31 @@
 
 <body id="page-top" class="bg-light">
 
-{% include navbar.html %}
-<div class="container">
+  {% include navbar.html %}
+  <div data-spy="scroll" data-target="#navbar" data-offset="0">
+    <div class="container">
 
 
-<section id="content">
-    <div class="container">
-      <div class="text-justify">
-        <br />
-        <br />
-          <!-- <h2 class="section-heading">{{ page.title }}</h2> -->
-      </div>
-    </div>
-    <div class="container">
-        <div class="text-center">
-          {{ content }}
+      <section id="content">
+
+        <div class="container">
+          <div class="text-justify">
+            <br />
+            <br />
+            <!-- <h2 class="section-heading">{{ page.title }}</h2> -->
+          </div>
         </div>
-    </div>
-</section>
-{% include footer.html %}
+        <div class="container">
+          <div class="text-center">
+            {{ content }}
+          </div>
+        </div>
+      </section>
+      {% include footer.html %}
 
-</div>
-{% include scripts.html %}
+    </div>
+  </div>
+  {% include scripts.html %}
 </body>
 
 </html>

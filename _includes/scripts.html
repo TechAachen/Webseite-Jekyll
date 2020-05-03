@@ -9,6 +9,18 @@
     // Enables popover
     $("[data-toggle=popover]").popover({
       container: 'body'
-});
+      });
+      // Highlight the top nav as scrolling occurs
+      $('body').scrollspy({
+          target: '.navbar',
+          offset: 51
+      })
+
+      // Closes the Responsive Menu on Menu Item Click
+      $('.navbar-collapse ul li a').click(function() {
+          $('.navbar-toggle:visible').click();
+      });
+
+  })
 });
 </script>
