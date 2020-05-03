@@ -1,9 +1,9 @@
 <section>
   <h2>{{include.title}}</h2>
-  <div class="card rounded shadow">
+  <div class="card rounded shadow" style="height: 400px;">
     <img srcset="{{include.image375}} 375w,
                  {{include.image690}} 690w,
-                {{include.image1110}} 1110w" sizes="100vw" class="card-img" alt="{{include.imagealt}}">
+                {{include.image1110}} 1110w" sizes="100vw" class="card-img" style="height: 400px; object-fit:cover;" alt="{{include.imagealt}}">
     <div class="card-img-overlay d-flex flex-column">
       <h1 class="text-white pl-3">{{include.overlayheadline}}</h1>
       <p class="text.white pl-3">{{ include.text }}</p>
