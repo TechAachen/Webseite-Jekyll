@@ -15,6 +15,6 @@ Bereits stattgefundene haben:
 
 {% include events.html %}
 
-{% include card.html title="Kontakt" image375="img/cards/batterieworkshop_375x400.jpg" image690="img/cards/batterieworkshop_690x400.jpg" image1110="img/cards/batterieworkshop_1110x400.jpg"
+{% include card.html title="" image375="img/cards/batterieworkshop_375x400.jpg" image690="img/cards/batterieworkshop_690x400.jpg" image1110="img/cards/batterieworkshop_1110x400.jpg"
     imagealt="Batterieworkshop" overlayheadline="Du willst unsere Workshops unterstützen und die Studierenden hinter den Projekten kennenlernen?" text="" buttonlink="contact.html"
     buttontext="Nimm Kontakt mit uns auf!" %}
