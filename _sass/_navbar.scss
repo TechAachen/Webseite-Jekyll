@@ -1,21 +1,26 @@
 .navbar {
   background-color: inherit;
+  font-weight: 700;
+
   .nav-link{
       color: $theme-darkgrey;
       &:hover {
           color: $theme-primary;
-}
-}
+      }
+  }
+
   .navbar-brand{
       color: $theme-darkgrey;
       text-transform: uppercase;
-}
+  }
+
   .navbar-logo {
       // padding-top: 5px;
       // padding-bottom: 10px;
       width: 3rem;
   }
+
   &.affix {
   background-color: white;
-}
+  }
 }
