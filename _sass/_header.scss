@@ -8,12 +8,12 @@ header {
     background-repeat: no-repeat;
     background-size: auto;
     background-image: url("../img/header/header-960.jpg");
-    @media (min-width: 961px) {
+    @media (min-width: 961px), (min-height: 635px) {
         background-image: url("../img/header/header-1920.jpg");
         background-size: cover;
         background-position-y: -40px;
     }
-    @media (min-width: 1921px) {
+    @media (min-width: 1921px), (min-height: 1268px) {
         background-image: url("../img/header/header-3840.jpg");
         background-size: cover;
         background-position-y: -60px;
