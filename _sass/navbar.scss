@@ -1,0 +1,18 @@
+.navbar {
+  background-color: inherit;
+  .nav-link{
+      color: $theme-darkgrey;
+
+      &:hover {
+          color: $theme-primary;
+}
+}
+  .navbar-brand{
+      color: $theme-darkgrey;
+}
+  .navbar-logo {
+      padding-top: 5px;
+      padding-bottom: 10px;
+      width: 5%;
+  }
+}
