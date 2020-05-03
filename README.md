@@ -6,7 +6,7 @@ See how it looks right now here:
 [l'preview](https://preview.techaachen.de/v2/)
 
 Website structure:
-- [ ] Mainpage
+- [X] Mainpage
   - [ ] About us, Our Mission:
     - [ ] Ziele ergänzen.
     - [ ] Fenstergröße anpassen
@@ -43,9 +43,7 @@ Unimportant Layout-ToDos:
 The front-page contains mostly subpages, created from card in `_includes`.
 Other includes are:
 - [x] card
-- [ ] navbar
-  - [ ] implementation of dynamic navbar
-  - [ ] error in tabled view
+- [x] navbar
 - [x] socialmedia
   - [x] smaller version suitable for Footer
   - [x] removed from includes
@@ -57,7 +55,7 @@ Other includes are:
 - [ ] persons (board members etc.)
   - [x] needs to become cards and replaced on aboutus
   - [ ] sizing
-- [ ] Header
+- [x] Header
   - [x] general design
   - [ ] responsive design not working really good
   - [ ] scroll down button or smaller background image
@@ -69,6 +67,7 @@ Other includes are:
   - [x] alignment
   - [x] border-top
   - [x] socialmedia buttons
+
 
 Variables accessible all over the website are stored in `config.yml`
 

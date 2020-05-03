@@ -4,23 +4,20 @@
 <script src="ext/bootstrap-4.4.1.min.js"></script>
 
 <!-- Enables Popovers
-      Needs alot of change to do it right -->
- <script>$(function(){
-    // Enables popover
-    $("[data-toggle=popover]").popover({
-      container: 'body'
-      });
-      // Highlight the top nav as scrolling occurs
-      $('body').scrollspy({
-          target: '.navbar',
-          offset: 51
-      })
+Needs alot of change to do it right -->
+<script>$(function(){
+  // Enables popover
+  $("[data-toggle=popover]").popover({
+    container: 'body'
+  });
+  $(window).scroll(function(){
+    $('nav').toggleClass('scrolled', $(this).scrollTop() > $('nav').height());
+  });
 
-      // Closes the Responsive Menu on Menu Item Click
-      $('.navbar-collapse ul li a').click(function() {
-          $('.navbar-toggle:visible').click();
-      });
+  // Closes the Responsive Menu on Menu Item Click
+  // $('.navbar-collapse ul li a').click(function() {
+  //   $('.navbar-toggle:visible').click();
+  // });
 
-  })
 });
 </script>

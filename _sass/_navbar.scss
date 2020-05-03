@@ -1,21 +1,33 @@
 .navbar {
-  background-color: inherit;
-  .nav-link{
+  @include transition-all;
+  background-color: transparent !important;
+  @media (max-width: 961px) {
+    background-color: inherit !important;
+  }
+
+
+  // Farbe der Links im Header
+  .navbar-nav{
+    .nav-link{
       color: $theme-darkgrey;
       &:hover {
-          color: $theme-primary;
-}
-}
-  .navbar-brand{
-      color: $theme-darkgrey;
-      text-transform: uppercase;
-}
-  .navbar-logo {
-      // padding-top: 5px;
-      // padding-bottom: 10px;
-      width: 3rem;
+        color: $theme-primary;
+      }
+    }
   }
-  &.affix {
-  background-color: white;
-}
+
+  // Hintergrundfarbe nachdem heruntergescrolled wurde
+  &.scrolled {
+    background-color: inherit !important;
+  }
+  // Farbe des TechAachen Schriftzugs
+  .navbar-brand{
+    color: $theme-darkgrey;
+    text-transform: uppercase;
+
+  }
+  // Groesse des Logos
+  .navbar-logo {
+    width: 3rem;
+  }
 }
