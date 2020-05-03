@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="de">
+{% include head.html %}
+<body id="page-top" class="bg-light">
+{% include navbar.html %}
+  <section id="content">
+    <div class="container">
+      <div class="text-center">
+          <br />
+          <br />
+          <h2 class="section-heading">{{ page.title }}</h2>
+          <hr class="primary">
+      </div>
+    </div>
+    <div class="container">
+        <div class="text-left">
+          {{ content }}
+        </div>
+    </div>
+  </section>
+  <section id="goback" class="only-bottom-padding">
+    <div class="text-center">
+      <a href="#top" class="btn btn-primary btn-xl">Nach oben</a>
+    </div>
+  </section>
+{% include footer.html %}
+{% include scripts.html %}
+</body>
+</html>

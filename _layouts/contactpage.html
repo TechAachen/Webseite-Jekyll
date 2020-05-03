@@ -1,0 +1,88 @@
+---
+layout: page
+---
+<section id="content">
+  <div class="container-fluid">
+
+    <div class="row">
+      <div class="col-lg-6 col-12">
+        <div class="row ">
+          <h1 style="font-size:8vw;">{{page.title}}</h1>
+        </div>
+        <div class="row">
+          <strong class="text-left">{{ content }}</strong>
+        </div>
+        <div class="row justify-content-start">
+          <div class="col-2">
+            <a href="mailto:{{ site.email }}">
+              <i class="fa fa-envelope fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+            </a>
+          </div>
+          <div class="col-2">
+            <a href="https://twitter.com/{{ site.contact_twitter_username }}" title="TechAachen auf Twitter">
+              <i class="fa fa-twitter fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+            </a>
+          </div>
+          <div class="col-2">
+            <a href="https://facebook.com/{{ site.contact_facebook_username }}" title="TechAachen auf Facebook">
+              <i class="fa fa-facebook fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+            </a>
+          </div>
+          <div class="col-2">
+            <a href="https://instagram.com/{{ site.contact_instagram_username }}" title="TechAachen auf Instagram">
+              <i class="fa fa-instagram fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+            </a>
+          </div>
+        </div>
+
+      </div>
+      <div class="col-lg-6 col-12 d-none d-lg-block">
+        <img src="img/techAachen_Logo.svg" alt="TechAachen e.V. Logo">
+      </div>
+    </div>
+  </div>
+</section>
+<br>
+<hr class="primary">
+
+<section id="paperwork">
+  <div class="container-fluid">
+    <div class="row">
+<div class="col-lg-6 col-12 p-3">
+        <div class="card h-100 w-100 shadow">
+          <div class="card-header">
+            <strong>Nächste Versammlung</strong>
+          </div>
+          <div class="card-body">
+            <div class="align-items-center">
+              {% include mitgliederversammlung.html %}
+            </div>
+
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6 col-12 p-3">
+        <div class="card h-100 w-100 shadow">
+          <div class="card-header">
+            <strong>Weitere Informationen</strong>
+          </div>
+          <div class="card-body">
+            <div class="row h-100">
+              <div class="col-lg-4 col-12 align-self-center">
+                <a href="impressum.html" class="btn btn-default">Impressum</a>
+              </div>
+              <div class="col-lg-4 col-12 align-self-center">
+                <a href="datenschutz.html" class="btn btn-default">Datenschutz</a>
+              </div>
+              <div class="col-lg-4 col-12 align-self-center">
+                <a href="satzung.html" class="btn btn-default">Satzung</a>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</section>

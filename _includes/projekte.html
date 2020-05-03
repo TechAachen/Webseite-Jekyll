@@ -1,45 +1,21 @@
-<section id="projekte">
-    <h2 class="section-heading">Projekte</h2>
-    <hr class="primary">
-    <div class="flex-grid">
-    {% for projekt in site.data.projekte %}
-        <div class="flex-cell text-center" style="background-color: #bccf00;">
-            <img src="{{projekt.image}}" style="max-width: 100%; width: 100%; margin: 0px;" alt="{{projekt.title}}" title="{{projekt.title}}">
-            <div class="service-box" style="max-width: 500px;">
-                <p class="text-muted text_german" style="color: #555;">{{ projekt.text }}</p>
-                <!-- <p class="text-muted text_english" style="color: #555;">{{ projekt.text_english }}</p> -->
-                <br />
-                <a href="{{ projekt.link }}" class="btn btn-default btn-xl" title="{{projekt.title}}">Mehr erfahren</a>
-                <br /><br />
+<section id="projects">
+<br>
+  <h2 class="section-heading">Projekte im Dachverband</h2>
+  <hr class="primary">
+  <div class="container-fluid">
+    <div class="row">
+        {% for projekt in site.data.projekte %}
+        <div class="col-lg-4 col-12 p-3">
+          <div class="card h-100 shadow" >
+            <img src="{{projekt.image}}" class="card-img" alt="{{projekt.title}}">
+            <div class="card-body d-flex flex-column">
+              <h3>{{projekt.title}}</h3>
+              <p>{{projekt.text}}</p>
+              <a href="{{ projekt.link }}" class="btn btn-primary btn-xl align-self-center mt-auto" title="{{projekt.title}}">Mehr erfahren</a>
             </div>
+          </div>
         </div>
-    {% endfor %}
-    <!-- <script type="text/javascript">
-    var userLang = navigator.language || navigator.userLanguage;
-    if(userLang == "de") {
-        var divsToHide = document.getElementsByClassName("text_english");
-        for(var i = 0; i < divsToHide.length; i++){
-            divsToHide[i].style.visibility = "hidden";
-            //divsToHide[i].style.display = "none";
-        }
-        var divsToShow = document.getElementsByClassName("text_german");
-        for(var i = 0; i < divsToShow.length; i++){
-            divsToShow[i].style.visibility = "visible";
-            //divsToShow[i].style.display = "block";
-        }
-    }
-    else {
-        var divsToHide = document.getElementsByClassName("text_german");
-        for(var i = 0; i < divsToHide.length; i++){
-            divsToHide[i].style.visibility = "hidden";
-            //divsToHide[i].style.display = "none";
-        }
-        var divsToShow = document.getElementsByClassName("text_english");
-        for(var i = 0; i < divsToShow.length; i++){
-            divsToShow[i].style.visibility = "visible";
-            //divsToShow[i].style.display = "block";
-        }
-    }
-    </script> -->
+        {% endfor %}
     </div>
+  </div>
 </section>

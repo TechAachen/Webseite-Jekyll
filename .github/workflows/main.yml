@@ -21,7 +21,7 @@ jobs:
 
     - name: Build website
       run: |
-       bundle install
+       sudo bundle install
        bundle exec jekyll --version
        bundle exec jekyll build
 

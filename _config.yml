@@ -3,9 +3,13 @@ title: TechAachen
 title_meta: "TechAachen — Technische studentische Vereine Aachen"
 author: TechAachen e.V.
 email: info@techaachen.de
+telefon: +49 176 66889668
+
 description: |
   TechAachen: Zusammenschluss technischer Vereine in Aachen.
   Wir erarbeiten & lehren Wissen, entwickeln Ideen, bestreiten Wettkämpfe und fördern Nachhaltigkeit.
+
+slogan: Gemeinsam Träume verwirklichen.
 
 keywords: |
   TechAachen, Aachen, Student, Eigeninitiative, Verein,
@@ -20,7 +24,7 @@ url: "" # the base hostname & protocol for your site
 contact_twitter_username: techaachen
 contact_facebook_username: techaachen
 contact_instagram_username: techaachen
-contact_address: "TechAachen e.V.<br /> Templergraben 55 <br /> 52056 Aachen"
+contact_address: "TechAachen e.V.<br /> c.o. FVA <br /> Templergraben 55 <br /> 52056 Aachen"
 
 # Build settings
 markdown: kramdown
@@ -29,8 +33,9 @@ plugins:
   - jekyll-bootstrap-sass
 #  - jekyll-font-awesome-sass
 
-#bootstrap:
-#  assets: true
+sass:
+  style: compressed
+  sass_dir: _sass
 
 font-awesome:
   assets: true

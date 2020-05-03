@@ -1,21 +1,18 @@
 ---
 ---
 @charset "utf-8";
+@import "variables";
 
 @import "bootstrap";
 
 $fa-font-path: "../font-awesome/fonts";
 @import 'font-awesome/font-awesome';
 
-// variables.less
-$theme-primary: #bccf00;
-$theme-dark: #000;
-$theme-darkgrey: #555;
-$theme-lightgrey: #b1b1b1;
-
-$flex-break-dual: 1200px;
-$flex-break-single: 480px;
-
 @import "mixins";
+
 @import "base";
-//@import "animate";
+@import "navbar";
+@import "button";
+@import "header";
+@import "section";
+@import "card";

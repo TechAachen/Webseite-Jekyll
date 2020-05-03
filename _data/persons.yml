@@ -3,15 +3,25 @@
   active: true
   image: "img/persons/justus-schwarzott.jpg"
   order: 0_vorstand_1
+  boardmember: true
 
 - name: Leo Girbig
   function: "2. Vorsitzender"
   active: true
   image: "img/persons/leo-girbig.jpg"
   order: 0_vorstand_2
+  boardmember: true
 
 - name: Niklas Bloemen
   function: "3. Vorsitzender"
   active: true
   image: "img/persons/niklas-bloemen.jpg"
   order: 0_vorstand_3
+  boardmember: true
+
+- name: Und Du?
+  function: <a href="contact.html" class="btn btn-primary page-scroll">Mitmachen!</a>
+  active: true
+  image: "img/persons/blank.svg"
+  order: 1
+  boardmember: false

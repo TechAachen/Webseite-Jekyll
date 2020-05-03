@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="de">
+
+{% include head.html %}
+
+<body id="page-top" class="bg-light">
+
+  {% include navbar.html %}
+
+  <div class="container pt-5">
+    <section id="aboutus" class="pb-0">
+      <div class="card shadow text-white" style="height: 400px;">
+        <img srcset="{{ page.titleimg375 }} 375w, {{page.titleimg690}} 690w, {{page.titleimg1110}} 1110w" sizes="100vw" class="card-img" style="height: 400px; object-fit:cover;" alt="Gruppenbild">
+        <div class="card-img-overlay d-flex flex-column">
+          <div class="pr-3 d-flex justify-content-end align-self-end mt-auto">
+            <h1>{{ page.slogan }}</h1>
+          </div>
+        </div>
+      </div>
+      <div class="pt-4">
+        <p>{{ page.abouttext }}</p>
+      </div>
+    </section>
+    <section id="clubs" class="py-0">
+      {% include members.html %}
+    </section>
+    <section id="content">
+      {{ content }}
+    </section>
+    <section id="team">
+      <h2 class="section-heading">Das Team</h2>
+      <hr class="primary">
+      {% include persons.html %}
+    </section>
+    <section id="history" class="py-0">
+      <h2 class="section-heading">{{ page.historieheader }}</h2>
+      <hr class="primary">
+          <div class="row">
+            <div class="col-md-5 pt-2">
+              <img src="{{ page.historieimg }}" class="img-fluid rounded shadow" alt="Bild Gründungsversammlung.">
+            </div>
+            <div class="col-md-7 text-justify">
+                <p>{{ page.historietext }}</p>
+
+            </div>
+          </div>
+    </section>
+    {% include card.html title="Kontakt" image375="img/aboutus/sonnenwagenschieben_375x400.jpg" image690="img/aboutus/sonnenwagenschieben_690x400.jpg" image1110="img/aboutus/sonnenwagenschieben_1110x400.jpg"
+    imagealt="Gruppenfoto" overlayheadline="Du willst uns unterstützen und mitanpacken?" text="" buttonlink="contact.html"
+    buttontext="Nimm Kontakt mit uns auf!" %}
+    {% include footer.html %}
+
+  </div>
+  {% include scripts.html %}
+</body>
+
+</html>

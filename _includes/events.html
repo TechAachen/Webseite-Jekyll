@@ -1,0 +1,30 @@
+<section id="events">
+  <hr class="primary">
+  <div class="container-fluid">
+    <div class="row">
+        {% for event in site.data.events %}
+        <div class="col-lg-3 col-12 p-3">
+          <div class="card h-100 shadow" >
+            <img src="{{event.image}}"  class="card-img" alt="{{event.title}}">
+            <div class="card-body d-flex flex-column">
+              <h3>{{event.name}}</h3>
+              <div class="justify-content-center mt-auto">
+                    <a tabindex="0"
+                    class="btn btn-primary btn-sm page-scroll px-5"
+                    role="button"
+                    data-html="true"
+                    data-toggle="popover"
+                    data-trigger="focus"
+                    data-placement="top"
+                    title="<b>{{ event.name }}</b> "
+                    data-content="<div>
+                      {{event.text}}
+                    </div>">Info</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+    </div>
+  </div>
+</section>

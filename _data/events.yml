@@ -1,0 +1,45 @@
+- name: Faserverbund-Workshop
+  date: 2019
+  time:
+  image: img/members/addi.jpg
+  link:
+  text: |
+    Viele unserer Projekte sind mit hohem Anspruch an die Materialien verbunden. So haben die Fahr- und Flugzeuge komplexe Formen, um ihre anspruchsvollen aerodynamischen Eigenschaften erreichen zu können. Auch müssen sie äußerst leicht sein und gleichzeitig hohen Kräften standhalten. In der Nähe von Motoren, Batterien und Personen, müssen hohe Temperaturen ausgehalten werden, sichergestellt werden, dass es zu keinen Kurzschlüssen kommen kann, und die Personen, im Falle eines hypotetischen Crash, bestmöglich geschützt werden.
+- name: Batterie-Workshop
+  date:
+  time:
+  image: img/projects/workshops/batterieworkshop.jpg
+  link:
+  text: |
+    Ein Großteil der Vereine plant, konzeptiert oder baut aktuell an Batterieelektrischen oder hybridelektrischen Antriebssträngen für Ihre Fahr- und Flugzeuge.
+    Um das anspruchsvolle Thema in den Griff zu bekommen haben sich die Experten aus den Teams zusammengesetzt und über die unterschiedlichen
+    Herausforderungen gesprochen. Wie immer waren auch neue interessierte Studierenden eingeladen um sich zu informieren und mitzudiskuttieren.
+- name: Schaltplan- & Platinendesign mit Kicad
+  date: 2020-01-22
+  time: 19.00h
+  image: img/projects/workshops/kicad.jpg
+  link: https://www.roboterclub.rwth-aachen.de/
+  text: |
+    Wie man mit dem leistungsfähigen EDA-Tool KiCad Schaltkreise zeichnet und daraus Platinen designed,
+    können Studierende bei diesem Workshop lernen.
+    In einem interaktiven Format bringen wir den Studierenden neben den Grundlagen beim Zeichnen von Schaltplänen und PCB Layouts
+    auch wertvolle Tipps und Tricks im Umgang mit KiCad bei.
+- name: Arbeitsschutz-Workshop
+  date:
+  time:
+  image:
+  link:
+  text: |
+    Allen uns Studierenden liegt die Sicherheit und Gesundheit der anderen Mitglieder in unseren Vereinen und uns selber am Herzen.
+    Um unsere Konzepte jedoch in die Wirklichkeit werden zu lassen, ist der regelmäßige Umgang mit gefährlichen Stoffen und Maschinen notwendig.
+    Das macht einen aktiven Austausch über Schutzmaßnahmen, Prozesse, Kontrollinstanzen und Versicherungen notwendig.
+    In unserem Kompetenztreffen Arbeitschutz befassen wir uns gemeinsam mit dem wichtigen Thema Arbeitsschutz um für den bestmöglichen Schutz
+    für uns Studierende zu sorgen.
+- name: Geschäftsführende Versammlung
+  date: alle zwei Wochen
+  time: 20.00h
+  image: img/projects/workshops/versammlung.jpg
+  link: "../contact.html"
+  text: |
+    Nicht wirklich ein Workshop. Für die viele kleinen Themen und Fragen, die in den Vereinen aufkommen, wäre ein eigener Workshop allerdings überflüssig.
+    Speziell hierfür haben wir mit unserer zweiwöchendlichen Geschäftsführenden Versammlung die Möglichkeit und schnell und effizient in der Gruppe auszutauschen.
