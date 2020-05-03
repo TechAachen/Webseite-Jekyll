@@ -32,12 +32,6 @@ p {
     margin-bottom: 20px;
 }
 
-.row {
-  display: flex;
-  display: -webkit-flex;
-  flex-wrap: wrap;
-}
-
 #content img {
     width: 100%;
 }
@@ -68,4 +62,3 @@ p {
 @import "header";
 @import "section";
 @import "navbar-old";
-@import "flex-things-old";
