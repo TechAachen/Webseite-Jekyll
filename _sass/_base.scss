@@ -17,6 +17,10 @@ h6 {
     @include sans-serif-font;
 }
 
+h3 {
+    font-size: 1.5rem;
+}
+
 a {
     @include transition-all;
     color: $theme-primary;
@@ -27,7 +31,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 1rem;
     line-height: 1.5;
     margin-bottom: 20px;
 }
@@ -41,24 +45,6 @@ p {
     padding-bottom: 20px;
 }
 
-.service-box {
-    max-width: 400px;
-    margin: 15px auto 0;
-    @media (min-width: 992px) {
-        margin: 20px auto 0;
-    }
-    p {
-        margin-bottom: 0;
-    }
-    padding: 5px;
-}
-
-
 .text-white {
     text-shadow: 0 0 5pt rgba(0, 0, 0, 0.5);
 }
-
-@import "button";
-@import "header";
-@import "section";
-@import "navbar-old";

@@ -9,4 +9,9 @@ $fa-font-path: "../font-awesome/fonts";
 @import 'font-awesome/font-awesome';
 
 @import "mixins";
+
 @import "base";
+@import "button";
+@import "header";
+@import "section";
+@import "navbar-old";
