@@ -8,9 +8,9 @@
       <div class="col-lg-4 col-12 p-3">
         <div class="card shadow rounded h-100 card-member">
           {% if member.image %}
-          <img src="{{ member.image }}" class="img-responsive member-image" alt="{{member.name}}" title="{{member.name}}">
+          <img src="{{ member.image }}" class="img-responsive member-image h-100" alt="{{member.name}}" title="{{member.name}}">
           {% else %}
-          <img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 650 350'%2F%3E" class="img-responsive member-image" alt="leeres Bild">
+          <img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 650 350'%2F%3E" class="img-responsive member-image h-100" alt="leeres Bild">
           {% endif %}
           <div class="card-img-overlay d-flex flex-column">
             <div class="d-flex justify-content-end align-self-end mt-auto">

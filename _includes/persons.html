@@ -3,21 +3,20 @@
     {% assign persons = site.data.persons | sort: 'order' %}
     {% for person in persons %}
     {% if person.active %}
-    <div class="col-lg-2 col-12 p-3">
-      <div class="card h-100 shadow">
-          <img src="{{person.image}}" style="height: 250px; object-fit:cover;" alt="{{person.name}}">
+    <div class="col-lg-3 col-md-6 col-12 p-3">
+      <div class="card h-100 shadow card-person">
+          <img src="{{person.image}}" class="h-75" alt="{{person.name}}">
 
-        <div class="card-body text-center h-100">
-          <div class="row h-75">
+        <div class="card-body text-center h-25">
+          <div class="row h-50">
             <div class="col">
               <h3 class="card-title mt-1">{{person.name}}</h3>
             </div>
           </div>
           <div class="row">
-            <div class="col">
+            <div class="col align-bottom">
               <p class="card-text">{{person.function}}</p>
             </div>
-
           </div>
 
         </div>

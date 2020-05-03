@@ -5,3 +5,14 @@
         height: 400px;
     }
 }
+
+.card-person {
+    img {
+        height: 250px;
+        object-fit: cover;
+    }
+    @include media-breakpoint-between(sm, md) {
+        max-width: 70vw;
+        margin: auto;
+    }
+}
