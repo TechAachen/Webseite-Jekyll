@@ -23,6 +23,15 @@ h3 {
 
 a {
     @include transition-all;
+    color: darken($theme-primary, 10%);
+    &:hover,
+    &:focus {
+        color: $theme-primary;
+    }
+}
+
+.fa {
+    @include transition-all;
     color: $theme-primary;
     &:hover,
     &:focus {
