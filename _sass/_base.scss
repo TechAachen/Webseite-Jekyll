@@ -23,6 +23,15 @@ h3 {
 
 a {
     @include transition-all;
+    color: darken($theme-primary, 10%);
+    &:hover,
+    &:focus {
+        color: $theme-primary;
+    }
+}
+
+.fa {
+    @include transition-all;
     color: $theme-primary;
     &:hover,
     &:focus {
@@ -48,3 +57,11 @@ p {
 .text-white {
     text-shadow: 0 0 5pt rgba(0, 0, 0, 0.5);
 }
+
+// Fix anchor links hidden by navbar
+:target::before {
+    content: "";
+    display: block;
+    height: 5rem;
+    margin: -5rem 0 0;
+  }

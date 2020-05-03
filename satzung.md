@@ -23,15 +23,15 @@ weiterhin ist der Verein eine Mittelbeschaffungskörperschaft nach [§ 58 AO](ht
 der Vereinszwecke tätig sind, u.a. die sog. technischen studentischen Eigeninitiativen
 der RWTH Aachen und der FH Aachen;
 - (b) die Beschaffung von Mitteln und deren Weiterleitung zur Förderung der steuer-
-begünstigten Zwecke im Sinne der Absätze § 3.2 (a) und § 3.2 (b);
+begünstigten Zwecke im Sinne der Absätze [§ 3.2 (a)](#-3-zweck-des-vereins) und [§ 3.2 (b)](#-3-zweck-des-vereins);
 - (c) Förderung des Dialogs zwischen Organisationen und der Öffentlichkeit, der Politik,
 der Wirtschaft, den Hochschulen und Forschungseinrichtungen in der Region;
 - (d) Durchführung und Förderung von Informationsveranstaltungen und Bildungsver-
 anstaltungen, insbesondere in den Bereichen Ingenieurwesen, Marketing, Recht,
 Buchführung.
 - (e) Schaffung einer Plattform für das Umsetzen gemeinnütziger Projekte im Sinne der
-Absätze § 3.2 (a) und § 3.2 (b). Diese sind insbesondere Entwicklungen in den Berei-
-chen Ingenieurwesen, Marketing, Recht, Buchführung.
+Absätze [§ 3.2 (a)](#-3-zweck-des-vereins) und [§ 3.2 (b)](#-3-zweck-des-vereins).
+Diese sind insbesondere Entwicklungen in den Bereichen Ingenieurwesen, Marketing, Recht, Buchführung.
 4. Der Verein ist parteipolitisch und religiös neutral.
 
 ## § 4 Selbstlose Tätigkeit
@@ -138,7 +138,7 @@ prüfer/innen beizulegen.
 Tätigkeiten des Verein und des Vorstands, insbesondere:
 - (a) die Verwendung des Vereinsvermögens
 - (b) die Aufnahme von Fördermitgliedern
-- (c) die Erfüllung des Vereinszwecks gemäß [§ 3.2](#-3-Zweck-des-Vereins) im Geschäftsjahr
+- (c) die Erfüllung des Vereinszwecks gemäß [§ 3.2](#-3-zweck-des-vereins) im Geschäftsjahr
 10. Die Tagesordnung ist zu ergänzen, wenn dies ein Mitglied bis spätestens eine Woche vor dem angesetzten Termin schriftlich oder per E-Mail beantragt. Die Ergänzung ist zu Beginn der Versammlung bekanntzumachen.
 11. Anträge
 - (a) über die Abwahl des Vorstands
@@ -239,7 +239,7 @@ versammlung, den Vorstand oder das Team selbst berufen werden.
 ## § 16 Kassenprüfung
 1. Die Mitgliederversammlung wählt für die Dauer von einem Jahr zwei Kassenprüfer/innen.
 2. Diese/r darf nicht Mitglied des Vorstands sein.
-3. Die Kassenprüfer/innen dürfen nicht Angehörige desselben Mitglieds gemäß [§ 7.1](#-7-Mitgliedschaft) wie
+3. Die Kassenprüfer/innen dürfen nicht Angehörige desselben Mitglieds gemäß [§ 7.1](#-7-mitgliedschaft) wie
 die Vorstände sein.
 4. Wiederwahl ist zulässig.
 5. Soll der Vorstand entlastet werden, ist der Mitgliederversammlung eine Woche vor deren

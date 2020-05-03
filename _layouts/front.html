@@ -1,39 +1,29 @@
 <!DOCTYPE html>
 <html lang="de">
-
 {% include head.html %}
-
 <body id="page-top">
+{% include navbar.html %}
+{% include header.html %}
+  
+<div class="container">
 
-  {% include navbar.html %}
-  {% include header.html %}
-  <!-- style="background-color: white; transform: translate(0px, -230px);" -->
-  <div class="container">
+{% include card.html title="Unsere Mission" image375="img/cards/fvaarbeitet_375x400.jpg" image690="img/cards/fvaarbeitet_690x400.jpg" image1110="img/cards/fvaarbeitet_1110x400.jpg"
+    imagealt="Unsere Mission" overlayheadline="Studierende durch Technik verbinden." text="" buttonlink="aboutus.html"
+    buttontext="Erfahre mehr!" %}
 
+{% include projekte.html %}
 
+{% include card.html title="Unterstützer und Partner" image375="img/cards/placeholder_quote_375.svg" image690="img/cards/placeholder_quote_690.svg" image1110="img/cards/placeholder_quote_1110.svg"
+imagealt="Gruppenfoto" overlayheadline="\"...Zeigen was neben dem Studium geht.\"" text="" buttonlink="contact.html"
+buttontext="Auch Unterstützer werden" %}
 
-    {% include card.html title="Unsere Mission" image375="img/cards/fvaarbeitet_375x400.jpg" image690="img/cards/fvaarbeitet_690x400.jpg" image1110="img/cards/fvaarbeitet_1110x400.jpg"
-        imagealt="Unsere Mission" overlayheadline="Studierende durch Technik verbinden." text="" buttonlink="aboutus.html"
-        buttontext="Erfahre mehr!" %}
+{% include card.html title="Kontakt" image375="img/cards/batterieworkshop_375x400.jpg" image690="img/cards/batterieworkshop_690x400.jpg" image1110="img/cards/batterieworkshop_1110x400.jpg"
+    imagealt="Sonnenwagenschieben" overlayheadline="Mit anpacken?" text="" buttonlink="contact.html"
+    buttontext="Nimm Kontakt mit uns auf!" %}
 
+{% include footer.html %}
+{% include scripts.html %}
 
-
-    {% include projekte.html %}
-
-
-    {% include card.html title="Unterstützer und Partner" image375="img/cards/placeholder_quote_375.svg" image690="img/cards/placeholder_quote_690.svg" image1110="img/cards/placeholder_quote_1110.svg"
-    imagealt="Gruppenfoto" overlayheadline="\"...Zeigen was neben dem Studium geht.\"" text="" buttonlink="contact.html"
-    buttontext="Auch Unterstützer werden" %}
-
-
-    {% include card.html title="Kontakt" image375="img/cards/batterieworkshop_375x400.jpg" image690="img/cards/batterieworkshop_690x400.jpg" image1110="img/cards/batterieworkshop_1110x400.jpg"
-        imagealt="Sonnenwagenschieben" overlayheadline="Mit anpacken?" text="" buttonlink="contact.html"
-        buttontext="Nimm Kontakt mit uns auf!" %}
-
-
-    {% include footer.html %}
-    {% include scripts.html %}
-  </div>
+</div>
 </body>
-
 </html>

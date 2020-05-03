@@ -1,21 +1,21 @@
-# TechAachen Webpage v2
+# TechAachen Webseite
 
-It is going to be the second Version of TechAachen's Webpage.
+It is ~~going to be~~ the second Version of TechAachen's Webpage.
 
-See how it looks right now here:
-[l'preview](https://preview.techaachen.de/v2/)
+"l'preview" for every branch pushed to this Github repository is automatiocally build using *Github Actions* and published on https://preview.techaachen.de/.
+Note: This feature does not work for forks of this repository.
 
 Website structure:
 - [X] Mainpage
   - [ ] About us, Our Mission:
     - [ ] Ziele ergänzen.
     - [ ] Fenstergröße anpassen
-  - [ ] Projects
-    - [ ] Add Texts, Files and better images
+  - [x] Projects
+    - [x] Add Texts, Files and better images
     - [x] Add Kompetenztreffenpage
-    - [ ] finalize Kompetenztreffen
-- [ ] Contact
-  - [ ] Logo-position
+    - [x] finalize Kompetenztreffen
+- [x] Contact
+  - [x] Logo-position
   - [x] Hallo-size in smartphone view
   - [x] legal: vertical alignment
   - [x] Impressum
@@ -24,11 +24,11 @@ Website structure:
 
 All those bulled-points represent a `*.md`-file in root with a corresponding layout, stored in `_layouts`, as so:
 
-| Page           | Layouts-Name     | Info                           |
+| Page            | Layouts-Name     | Info                           |
 | :------------- | :-------------   | :-------------                 |
 | index.html     | front.html       | Front-Page                     |
 | about.md       | page.html        | About us and Mission           |
-| [project].html | page.html        | individual Projectpage         |
+| *{project}*.html | page.html      | individual Projectpage         |
 | contact.md     | contactpage.html | contactpage inherits page.html |
 | impressum.md   | paperwork.html   | impressum                      |
 | datenschutz.md | paperwork.html   | Datenschutzerklärung           |
@@ -38,7 +38,7 @@ Unimportant Layout-ToDos:
 - [ ] Paperwork add Download as PDF-Button
 - [ ] Paperwork make goback-button floating
 - [ ] Struktur die von default.html erben soll erstellen.
-- [ ] Add pictures
+- [x] Add pictures
 
 The front-page contains mostly subpages, created from card in `_includes`.
 Other includes are:
@@ -52,7 +52,7 @@ Other includes are:
 - [x] mitgliederversammlung
   - [x] on contact
 - [x] deleted paperwork.html
-- [ ] persons (board members etc.)
+- [x] persons (board members etc.)
   - [x] needs to become cards and replaced on aboutus
   - [ ] sizing
 - [x] Header
@@ -72,22 +72,3 @@ Other includes are:
 Variables accessible all over the website are stored in `config.yml`
 
 Data like members, project on front etc. are stored in `_data`.
-
-
-***
-
-
-
-## Creative Theme for Jekyll
-
-A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
-
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
-The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project!
-
-See it live in action at <https://volny.github.io/creative-theme-jekyll/>
-
-### To use the Creative Theme template in your project
-
-- Start by adding your info in `_config.yml`
-- In `_layouts/front.html` reorder or remove section as you prefer.
