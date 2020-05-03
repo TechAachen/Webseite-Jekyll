@@ -2,10 +2,9 @@
   date: 2019
   time:
   image: img/members/addi.jpg
-  link: https://www.aachen-drone.de/
+  link:
   text: |
-    Wir teilen eine Begeisterung von allem was fliegt und suchen uns selbst Projekte oder nehmen an Wettbewerben teil.
-    Jeder kann an den Projekten mitarbeiten wo er möchte und bei unserem monatlichen Treffen tauschen wir uns aus.
+    Viele unserer Projekte sind mit hohem Anspruch an die Materialien verbunden. So haben die Fahr- und Flugzeuge komplexe Formen, um ihre anspruchsvollen aerodynamischen Eigenschaften erreichen zu können. Auch müssen sie äußerst leicht sein und gleichzeitig hohen Kräften standhalten. In der Nähe von Motoren, Batterien und Personen, müssen hohe Temperaturen ausgehalten werden, sichergestellt werden, dass es zu keinen Kurzschlüssen kommen kann, und die Personen, im Falle eines hypotetischen Crash, bestmöglich geschützt werden.
 - name: Batterie-Workshop
   date:
   time:
@@ -42,5 +41,5 @@
   image: img/projects/workshops/versammlung.jpg
   link: "../contact.html"
   text: |
-    Für die viele kleinen Themen und Fragen, die in den Vereinen aufkommen, wäre ein eigener Workshop überflüssig.
+    Nicht wirklich ein Workshop. Für die viele kleinen Themen und Fragen, die in den Vereinen aufkommen, wäre ein eigener Workshop allerdings überflüssig.
     Speziell hierfür haben wir mit unserer zweiwöchendlichen Geschäftsführenden Versammlung die Möglichkeit und schnell und effizient in der Gruppe auszutauschen.
