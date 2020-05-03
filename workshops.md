@@ -17,6 +17,6 @@ Bereits stattgefundene haben:
 
 # Impressionen aus den Workshops
 
-{% include card.html title="Kontakt" image="img/projects/fva_vortrag.png"
+{% include card.html title="Kontakt" image="img/projects/fva_vortrag.jpg"
 imagealt="Workshop" overlayheadline="Du willst unsere Workshops unterstützen und die Studierenden hinter den Projekten kennenlernen?" text="" buttonlink="contact.html"
 buttontext="Nimm Kontakt mit uns auf!" %}
