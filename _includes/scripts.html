@@ -3,24 +3,23 @@
 <script src="ext/popper-1.16.0.min.js"></script>
 <script src="ext/bootstrap-4.4.1.min.js"></script>
 
-<!-- Enables Popovers
-      Needs alot of change to do it right -->
- <script>$(function(){
-    // Enables popover
-    $("[data-toggle=popover]").popover({
-      container: 'body'
-      });
-      // Highlight the top nav as scrolling occurs
-      $('body').scrollspy({
-          target: '.navbar',
-          offset: 51
-      })
+<!-- Enables Popovers; Needs alot of change to do it right -->
+<script type="text/javascript">
+    $(function () {
+        // Enables popover
+        $("[data-toggle=popover]").popover({
+            container: 'body'
+        });
 
-      // Closes the Responsive Menu on Menu Item Click
-      $('.navbar-collapse ul li a').click(function() {
-          $('.navbar-toggle:visible').click();
-      });
+        // Highlight the top nav as scrolling occurs
+        $('body').scrollspy({
+            target: '.navbar',
+            offset: 51
+        })
 
-  })
-});
+        // Closes the Responsive Menu on Menu Item Click
+        $('.navbar-collapse ul li a').click(function () {
+            $('.navbar-toggle:visible').click();
+        });
+    });
 </script>
