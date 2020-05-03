@@ -15,8 +15,6 @@ Bereits stattgefundene haben:
 
 {% include events.html %}
 
-# Impressionen aus den Workshops
-
-{% include card.html title="Kontakt" image="img/projects/fva_vortrag.jpg"
-imagealt="Workshop" overlayheadline="Du willst unsere Workshops unterstützen und die Studierenden hinter den Projekten kennenlernen?" text="" buttonlink="contact.html"
-buttontext="Nimm Kontakt mit uns auf!" %}
+{% include card.html title="Kontakt" image375="img/cards/batterieworkshop_375x400.jpg" image690="img/cards/batterieworkshop_690x400.jpg" image1110="img/cards/batterieworkshop_1110x400.jpg"
+    imagealt="Batterieworkshop" overlayheadline="Du willst unsere Workshops unterstützen und die Studierenden hinter den Projekten kennenlernen?" text="" buttonlink="contact.html"
+    buttontext="Nimm Kontakt mit uns auf!" %}
