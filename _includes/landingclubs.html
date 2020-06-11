@@ -1,13 +1,27 @@
 <section>
-
-  <div class="card rounded shadow" style="height: 400px;">
-    <img srcset="{{include.image375}} 375w,
-                 {{include.image690}} 690w,
-                {{include.image1110}} 1110w" sizes="100vw" class="card-img" style="height: 400px; object-fit:cover;" alt="{{include.imagealt}}">
-    <div class="card-img-overlay d-flex flex-column">
-      <h1 class="text-white pl-3">{{include.overlayheadline}}</h1>
-      <p class="text.white pl-3">{{ include.text }}</p>
-      <a href="{{include.buttonlink}}" class="btn btn-primary btn-xl page-scroll align-self-end mt-auto">{{include.buttontext}}</a>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-lg-6 col-12">
+        <p>Bei uns kannst du an coolen technischen Projekten mitwirken. Zusammen mit deinen Kommilitonen von FH und RWTH Aachen kannst du technische Meisterleistungen mit tüfteln. Und diese auf die Straße, in den Racepit, in die Luft oder in den Weltraum bringen, oder damit deinen Mitmenschen zu helfen. Wenn du dich dieser Herausforderungen annehmen willst bist du bei uns genau richtig!</p>
+      </div>
+      <div class="col-lg-6 col-12">
+        <div class="container-fluid">
+          <div class="row">
+            {% assign clubs_sorted = site.data.clubs | sort: 'order' %}
+            {% for club in clubs_sorted %}
+            <div class="col-3 p-3">
+              <a href="{{ club.link }}">
+                {% if club.logo %}
+                <img src="{{ club.logo }}" class="img-responsive h-100" alt="{{club.name}}" title="{{club.name}}">
+                {% else %}
+                <img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 650 350'%2F%3E" class="img-responsive club-image h-100" alt="leeres Bild">
+                {% endif %}
+              </a>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </section>
