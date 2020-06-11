@@ -1,16 +1,16 @@
-<section id="members">
+<section id="clubs">
   <h2 class="section-heading">Die Vereine</h2>
   <hr class="primary">
   <div class="container-fluid">
     <div class="row">
-      {% assign members_sorted = site.data.members | sort: 'order' %}
-      {% for member in members_sorted %}
+      {% assign clubs_sorted = site.data.clubs | sort: 'order' %}
+      {% for club in clubs_sorted %}
       <div class="col-lg-4 col-12 p-3">
-        <div class="card shadow rounded h-100 card-member">
-          {% if member.image %}
-          <img src="{{ member.image }}" class="img-responsive member-image h-100" alt="{{member.name}}" title="{{member.name}}">
+        <div class="card shadow rounded h-100 card-club">
+          {% if club.image %}
+          <img src="{{ club.image }}" class="img-responsive club-image h-100" alt="{{club.name}}" title="{{club.name}}">
           {% else %}
-          <img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 650 350'%2F%3E" class="img-responsive member-image h-100" alt="leeres Bild">
+          <img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 650 350'%2F%3E" class="img-responsive club-image h-100" alt="leeres Bild">
           {% endif %}
           <div class="card-img-overlay d-flex flex-column">
             <div class="d-flex justify-content-end align-self-end mt-auto">
@@ -23,13 +23,13 @@
                   data-toggle="popover"
                   data-trigger="focus"
                   data-placement="top"
-                  title="<b>{{ member.name }}</b> "
+                  title="<b>{{ club.name }}</b> "
                   data-content="<div>
-                    {{member.description}}
+                    {{club.description}}
                   </div>">Info</a>
                 </div>
                 <div class="col p-1">
-                  <a href="{{ member.link }}" tabindex="0" class="btn btn-light btn-sm page-scroll">Webseite</a>
+                  <a href="{{ club.link }}" tabindex="0" class="btn btn-light btn-sm page-scroll">Webseite</a>
                 </div>
               </div>
 

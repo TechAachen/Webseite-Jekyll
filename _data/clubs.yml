@@ -1,7 +1,7 @@
 - name: ADDI e.V.
   type: Mitglied
   since: 2019
-  image: img/members/addi.jpg
+  image: img/clubs/addi.jpg
   link: https://www.aachen-drone.de/
   order: addi
   description: |
@@ -10,7 +10,7 @@
 - name: Roboterclub Aachen
   type: Mitglied
   since: 2017
-  image: img/members/rca.jpg
+  image: img/clubs/rca.jpg
   link: http://www.roboterclub.rwth-aachen.de/
   order: roboterclub
   description: |
@@ -21,7 +21,7 @@
 - name: Sonnenwagen
   type: Mitglied
   since: 2017
-  image: img/members/sonnenwagen.jpg
+  image: img/clubs/sonnenwagen.jpg
   link: https://www.sonnenwagen.org/
   order: sonnewagen
   description: |
@@ -33,7 +33,7 @@
 - name: Ecurie Aix
   type: Mitglied
   since: 2017
-  image: img/members/ecurie.jpg
+  image: img/clubs/ecurie.jpg
   link: http://ecurie-aix.de/
   order: ecurie
   description: |
@@ -44,7 +44,7 @@
 - name: Flugwissenschaftliche Vereinigung Aachen
   type: Mitglied
   since: 2017
-  image: img/members/fva.jpg
+  image: img/clubs/fva.jpg
   link: http://www.fva.rwth-aachen.de/
   order: flugwissenschaftliche-vereinigung-aachen
   description: |
@@ -54,7 +54,7 @@
 - name: Mx Aix
   type: Mitglied
   since: 2017
-  image: img/members/mx-aix.jpg
+  image: img/clubs/mx-aix.jpg
   link: http://studentteam.mx-aix.de/
   order: mxaix
   description: |
@@ -65,7 +65,7 @@
 - name: Studiwerkstatt
   type: Mitglied
   since: 2017
-  image: img/members/studiwerkstatt.jpg
+  image: img/clubs/studiwerkstatt.jpg
   link: http://studiwerkstatt.de/
   order: studiwerkstatt
   description: |
@@ -76,7 +76,7 @@
 - name: Windfänger
   type: Mitglied
   since: 2018
-  image: img/members/windfaenger.jpg
+  image: img/clubs/windfaenger.jpg
   link: http://windfaenger.com/
   order: windfaenger
   description: |
@@ -85,7 +85,7 @@
 - name: Enactus
   type: Mitglied
   since: 2018
-  image: img/members/enactus.jpg
+  image: img/clubs/enactus.jpg
   link: http://aachen.enactus.de/
   order: enactus
   description: |
@@ -96,6 +96,6 @@
 
 #- name: Energybirds
 #  since: 2018
-#  image: img/members/energybirds.jpg
+#  image: img/clubs/energybirds.jpg
 #  link: https://www.energybirds.org/
 #  order: energybirds
