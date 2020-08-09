@@ -1,13 +1,18 @@
-- title: "Gemeinschaftswerkstatt"
-  image: "img/projects/gemeinschaftswerkstatt.svg"
-  link: "static/projects/2020_03_26_Gemeinschaftswerkstatt.pdf"
+- title: "Summer School"
+  image: "img/projects/summer-school.svg"
+  link: "static/projects/TechAachen_Summer-School_Informations.pdf"
   text_english: |
-    We are MX Academic Cup, a competition for university student-teams that aims to propagate sustainable mobility technology through Motocross Racing.
-    The driving idea is to compare different kinds of powertrain technologies in order to find out which solution is the most suitable for the purpose of motorsport and sustainability.
-    Our ecosystem also nurtures connections between industrial partners and innovations by the student community through various events and activities.
+    Sustainable Mobility Label - Development of an Evaluation Procedure for Sustainable Mobility and Production.
   text: |
-    Nahe des Stadtzentrum Aachens soll in naher Zukunft eine Gemeinschaftswerkstatt entstehen. Diese wird hauptsächlich von Team Windfänger und dem neu gegründeten Verein Space-Team Aachen verwendet werden.
-    Der TechAachen e.V. wird die Räumlichkeiten für Veranstaltungen und Präsentationen nutzen.
+    Sustainable Mobility Label - Development of an Evaluation Procedure for Sustainable Mobility and Production.
+
+- title: "Kompetenztreffen"
+  image: "img/projects/technik-verbinden.svg"
+  link: "workshops.html"
+  text_english: |
+    We organise regular workshops in which students from the various associations talk about relevant topics. Examples are: battery technology, fibre composite production, insurance or safety.
+  text: |
+    Wir organisieren regelmäßige Workshops, in denen sich Studierende aus den unterschiedlichen Vereinen über relevante Themen unterhalten. Beispiele sind hierfür: Batterietechnologie, Faserverbund-Fertigung, Versicherung oder Arbeitsicherheit.
 
 - title: "MX Academic Cup"
   image: "img/projects/mx_adademic_cup.svg"
@@ -21,20 +26,12 @@
     Die Antriebsidee ist es, verschiedene Arten von Antriebstechnologien zu vergleichen, um herauszufinden, welche Lösung für den Motorsport und die Nachhaltigkeit am besten geeignet ist.
     Unser Ökosystem pflegt auch die Verbindungen zwischen Industriepartnern und Innovationen der Studentengemeinschaft durch verschiedene Veranstaltungen und Aktivitäten.
 
-- title: "Kompetenztreffen"
-  image: "img/projects/technik-verbinden.svg"
-  link: "workshops.html"
+- title: "Gemeinschaftswerkstatt"
+  image: "img/projects/gemeinschaftswerkstatt.svg"
+  link: "static/projects/2020_03_26_Gemeinschaftswerkstatt.pdf"
   text_english: |
-    We are MX Academic Cup, a competition for university student-teams that aims to propagate sustainable mobility technology through Motocross Racing.
-    The driving idea is to compare different kinds of powertrain technologies in order to find out which solution is the most suitable for the purpose of motorsport and sustainability.
-    Our ecosystem also nurtures connections between industrial partners and innovations by the student community through various events and activities.
+    A joint workshop is to be built near the city centre of Aachen in the near future. It will be used mainly by Team Windfänger and the newly founded association Space-Team Aachen.
+    The TechAachen e.V. will use the premises for events and presentations.
   text: |
-    Wir organisieren regelmäßige Workshops, in denen sich Studierende aus den unterschiedlichen Vereinen über relevante Themen unterhalten. Beispiele sind hierfür: Batterietechnologie, Faserverbund-Fertigung, Versicherung oder Arbeitsicherheit.
-
-- title: "Summer School"
-  image: "img/projects/summer-school.svg"
-  link: "static/projects/TechAachen_Summer-School_Informations.pdf"
-  text_english: |
-    Sustainable Mobility Label - Development of an Evaluation Procedure for Sustainable Mobility and Production.
-  text: |
-    Sustainable Mobility Label - Development of an Evaluation Procedure for Sustainable Mobility and Production.
+    Nahe des Stadtzentrum Aachens soll in naher Zukunft eine Gemeinschaftswerkstatt entstehen. Diese wird hauptsächlich von Team Windfänger und dem neu gegründeten Verein Space-Team Aachen verwendet werden.
+    Der TechAachen e.V. wird die Räumlichkeiten für Veranstaltungen und Präsentationen nutzen.
