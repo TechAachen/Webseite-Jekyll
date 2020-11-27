@@ -3,8 +3,6 @@ layout: paperwork
 title: Datenschutzerklärung
 ---
 
-## Datenschutz auf einen Blick
-
 ### Allgemeine Hinweise
 
 Wir freuen uns über Ihren Besuch auf unserer Website sowie über Ihr Interesse an unserem gemeinnützigen Verein TechAachen e.V. Wir nehmen den Schutz Ihrer Daten ernst und wir möchten, dass Sie sich beim Besuch unserer Internet-Seiten wohl fühlen. Der Schutz Ihrer Privatsphäre bei der Verarbeitung personenbezogener Daten ist für uns ein wichtiges Anliegen, welches wir stets berücksichtigen. Wir verarbeiten personenbezogene Daten, die beim Besuch unserer Webseiten erhoben werden gemäß den datenschutzrechtlichen Bestimmungen der europäischen Datenschutzgrundverordnung (DSGVO).
@@ -46,8 +44,6 @@ Zuständige Aufsichtsbehörde:
     Tel.: 0211/38424-0
     Fax: 0211/38424-10
     E-Mail: poststelle@ldi.nrw.de
- 
-## Datenerfassung auf unserer Website
 
 ### Erhebung, Verarbeitung und Speicherung persönlicher Daten
 
