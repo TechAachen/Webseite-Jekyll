@@ -23,7 +23,7 @@ Darüber hinaus haben Sie das Recht auf Beschwerde bei einer Aufsichtsbehörde, 
 
 Verantwortliche Stelle i.S.d. DSGVO ist:
 
-    TechAachen e.V..
+    TechAachen e.V.
     Templergraben 55
     52062 Aachen
  
