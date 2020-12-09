@@ -86,10 +86,22 @@
   datum: "2020-11-11"
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: "DSGVO Kompetenztreffen"
+  datum: "2020-11-19"
+  uhrzeit: "17.00h"
+  ort: "Online"
 - title: Geschäftsführende Mitgliederversammlung
   datum: "2020-11-25"
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: "DSGVO Kompetenztreffen DSGVO"
+  datum: "2020-11-26"
+  uhrzeit: "17.00h"
+  ort: "Online"
+- title: "Kompetenztreffen DSGVO"
+  datum: "2020-12-03"
+  uhrzeit: "17.00h"
+  ort: "Online"
 - title: Geschäftsführende Mitgliederversammlung
   datum: "2020-12-09"
   uhrzeit: "20.00h"
@@ -97,11 +109,15 @@
 - title: "TechAachen Gamenight"
   datum: "2020-12-09"
   uhrzeit: "18.00h"
-  ort: "Discord: LINK HIER EINFÜGEN"
+  ort: "https://discord.com/invite/yqaTc38qyb"
 - title: Geschäftsführende Mitgliederversammlung
   datum: "2021-01-06"
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: TechNight - Patente und Gebrauchsmuster
+  datum: "2021-01-06"
+  uhrzeit: "21.00h"
+  ort: "Zoom..."
 - title: Jährliche Mitgliederversammlung
   datum: "2021-01-20"
   uhrzeit: "20.00h"
@@ -110,7 +126,39 @@
   datum: "2021-02-03"
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: TechNight - IT-Infrastruktur
+  datum: "2021-02-03"
+  uhrzeit: "21.00h"
+  ort: "Zoom..."
 - title: Geschäftsführende Mitgliederversammlung
   datum: "2021-02-17"
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: TechNight - Batterie
+  datum: "2021-02-17"
+  uhrzeit: "21.00h"
+  ort: "Zoom..."
+- title: TechNight - Mitgliederverwaltung
+  datum: "2021-03-03"
+  uhrzeit: "21.00h"
+  ort: "Zoom..."
+# - title: TechNight - Strukturmechanik
+#   datum: "2021-01-06"
+#   uhrzeit: "21.00h"
+#   ort: "Zoom..."
+# - title: TechNight - Finanzen
+#   datum: "2021-01-06"
+#   uhrzeit: "21.00h"
+#   ort: "Zoom..."
+# - title: TechNight - Leistungselektronik
+#   datum: "2021-01-06"
+#   uhrzeit: "21.00h"
+#   ort: "Zoom..."
+# - title: TechNight - Mitgliedermotivation
+#   datum: "2021-01-06"
+#   uhrzeit: "21.00h"
+#   ort: "Zoom..."
+# - title: TechNight - Aerodynamik
+#   datum: "2021-01-06"
+#   uhrzeit: "21.00h"
+#   ort: "Zoom..."
