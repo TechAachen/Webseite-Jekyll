@@ -138,10 +138,55 @@
   datum: "2021-02-17"
   uhrzeit: "21.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
-- title: TechNight - Versammlung
+- title: Geschäftsführende Versammlung
+  datum: "2021-03-03"
+  uhrzeit: "20.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: TechNight - Struktur und Mechanik
   datum: "2021-03-03"
   uhrzeit: "21.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: Geschäftsführende Versammlung
+  datum: "2021-03-17"
+  uhrzeit: "20.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: TechNight - Finanzen
+  datum: "2021-03-17"
+  uhrzeit: "21.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: Geschäftsführende Versammlung
+  datum: "2021-03-31"
+  uhrzeit: "20.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: TechNight - Leistungselektronik
+  datum: "2021-03-31"
+  uhrzeit: "21.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: Geschäftsführende Versammlung
+  datum: "2021-04-14"
+  uhrzeit: "20.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: TechNight - Motivation im Verein
+  datum: "2021-04-14"
+  uhrzeit: "21.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: Geschäftsführende Versammlung
+  datum: "2021-04-28"
+  uhrzeit: "20.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: TechNight - Aerodynamik
+  datum: "2021-04-28"
+  uhrzeit: "21.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: Geschäftsführende Versammlung
+  datum: "2021-05-12"
+  uhrzeit: "20.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: TechNight - IT-Systeme
+  datum: "2021-05-12"
+  uhrzeit: "21.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+  
 # - title: TechNight - Strukturmechanik
 #   datum: "2021-01-06"
 #   uhrzeit: "21.00h"
