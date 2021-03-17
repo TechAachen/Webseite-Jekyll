@@ -186,24 +186,35 @@
   datum: "2021-05-12"
   uhrzeit: "21.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
-  
-# - title: TechNight - Strukturmechanik
-#   datum: "2021-01-06"
-#   uhrzeit: "21.00h"
-#   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
-# - title: TechNight - Finanzen
-#   datum: "2021-01-06"
-#   uhrzeit: "21.00h"
-#   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
-# - title: TechNight - Leistungselektronik
-#   datum: "2021-01-06"
-#   uhrzeit: "21.00h"
-#   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
-# - title: TechNight - Mitgliedermotivation
-#   datum: "2021-01-06"
-#   uhrzeit: "21.00h"
-#   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
-# - title: TechNight - Aerodynamik
-#   datum: "2021-01-06"
-#   uhrzeit: "21.00h"
-#   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: Geschäftsführende Versammlung
+  datum: "2021-05-26"
+  uhrzeit: "20.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: Geschäftsführende Versammlung
+  datum: "2021-06-09"
+  uhrzeit: "20.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: Geschäftsführende Versammlung
+  datum: "2021-06-23"
+  uhrzeit: "20.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: Geschäftsführende Versammlung
+  datum: "2021-07-07"
+  uhrzeit: "20.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: Geschäftsführende Versammlung
+  datum: "2021-07-21"
+  uhrzeit: "20.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: Geschäftsführende Versammlung
+  datum: "2021-08-04"
+  uhrzeit: "20.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: Geschäftsführende Versammlung
+  datum: "2021-08-18"
+  uhrzeit: "20.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: Geschäftsführende Versammlung
+  datum: "2021-09-01"
+  uhrzeit: "20.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
