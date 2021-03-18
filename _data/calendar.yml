@@ -114,7 +114,7 @@
   datum: "2021-01-06"
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
-- title: TechNight - Patente und Gebrauchsmuster
+- title: TechTreff - Patente und Gebrauchsmuster
   datum: "2021-01-06"
   uhrzeit: "21.00h"
   ort: "Online"
@@ -126,7 +126,7 @@
   datum: "2021-02-03"
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
-- title: TechNight - IT-Infrastruktur
+- title: TechTreff - IT-Infrastruktur
   datum: "2021-02-03"
   uhrzeit: "21.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
@@ -134,7 +134,7 @@
   datum: "2021-02-17"
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
-- title: TechNight - Batterie
+- title: TechTreff - Batterie
   datum: "2021-02-17"
   uhrzeit: "21.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
@@ -142,7 +142,7 @@
   datum: "2021-03-03"
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
-- title: TechNight - Struktur und Mechanik
+- title: TechTreff - Struktur und Mechanik
   datum: "2021-03-03"
   uhrzeit: "21.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
@@ -150,7 +150,7 @@
   datum: "2021-03-17"
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
-- title: TechNight - Finanzen
+- title: TechTreff - Finanzen
   datum: "2021-03-17"
   uhrzeit: "21.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
@@ -158,7 +158,7 @@
   datum: "2021-03-31"
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
-- title: TechNight - Leistungselektronik
+- title: TechTreff - Leistungselektronik
   datum: "2021-03-31"
   uhrzeit: "21.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
@@ -166,7 +166,7 @@
   datum: "2021-04-14"
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
-- title: TechNight - Motivation im Verein
+- title: TechTreff - Motivation im Verein
   datum: "2021-04-14"
   uhrzeit: "21.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
@@ -174,7 +174,7 @@
   datum: "2021-04-28"
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
-- title: TechNight - Aerodynamik
+- title: TechTreff - Aerodynamik
   datum: "2021-04-28"
   uhrzeit: "21.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
@@ -182,39 +182,84 @@
   datum: "2021-05-12"
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
-- title: TechNight - IT-Systeme
+- title: TechTreff - IT-Systeme
   datum: "2021-05-12"
   uhrzeit: "21.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
 - title: Geschäftsführende Versammlung
   datum: "2021-05-26"
   uhrzeit: "20.00h"
+- title: TechTreff - Anträge an RWTH und FH Aachen
+  datum: "2021-05-26"
+  uhrzeit: "21.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
 - title: Geschäftsführende Versammlung
   datum: "2021-06-09"
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: TechTreff - Arbeitschutz
+  datum: "2021-06-09"
+  uhrzeit: "21.00h"
 - title: Geschäftsführende Versammlung
   datum: "2021-06-23"
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: TechTreff - DSGVO
+  datum: "2021-06-23"
+  uhrzeit: "21.00h"
 - title: Geschäftsführende Versammlung
   datum: "2021-07-07"
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: TechTreff - Doppelte Buchführung
+  datum: "2021-07-07"
+  uhrzeit: "21.00h"
 - title: Geschäftsführende Versammlung
   datum: "2021-07-21"
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: TechTreff - Verchwiegenheitserklärungen
+  datum: "2021-07-21"
+  uhrzeit: "21.00h"
 - title: Geschäftsführende Versammlung
   datum: "2021-08-04"
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: TechTreff - Mechatronische Systeme
+  datum: "2021-08-04"
+  uhrzeit: "21.00h"
 - title: Geschäftsführende Versammlung
   datum: "2021-08-18"
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: TechTreff - Pressearbeit
+  datum: "2021-08-18"
+  uhrzeit: "21.00h"
 - title: Geschäftsführende Versammlung
   datum: "2021-09-01"
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: TechTreff - Additives Fertigen
+  datum: "2021-09-01"
+  uhrzeit: "21.00h"
+- title: Geschäftsführende Versammlung
+  datum: "2021-09-15"
+  uhrzeit: "20.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: TechTreff - Faserverbund
+  datum: "2021-09-15"
+  uhrzeit: "21.00h"
+- title: Geschäftsführende Versammlung
+  datum: "2021-09-29"
+  uhrzeit: "20.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: TechTreff - Sponsoring
+  datum: "2021-09-29"
+  uhrzeit: "21.00h"
+- title: Geschäftsführende Versammlung
+  datum: "2021-09-13"
+  uhrzeit: "20.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: TechTreff - Marketing
+  datum: "2021-09-13"
+  uhrzeit: "21.00h"
