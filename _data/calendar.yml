@@ -178,13 +178,9 @@
   datum: "2021-04-28"
   uhrzeit: "21.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
-- title: Geschäftsführende Versammlung
+- title: Außerordentliche Mitgliederversammlung
   datum: "2021-05-12"
   uhrzeit: "20.00h"
-  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
-- title: TechTreff - IT-Systeme
-  datum: "2021-05-12"
-  uhrzeit: "21.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
 - title: Geschäftsführende Versammlung
   datum: "2021-05-26"
@@ -263,3 +259,7 @@
 - title: TechTreff - Marketing
   datum: "2021-09-13"
   uhrzeit: "21.00h"
+- title: TechTreff - IT-Systeme
+  datum: "2021-09-27"
+  uhrzeit: "21.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
