@@ -1,21 +1,21 @@
-- name: Justus Schwarzott
+- name: Kathrin Böttger
   function: "1. Vorsitzender"
   active: true
-  image: "img/persons/justus-schwarzott.jpg"
+  image: "img/persons/kathrin-boettger.jpg"
   order: 0_vorstand_1
   boardmember: true
 
-- name: Leo Girbig
+- name: Raphael Lehmann
   function: "2. Vorsitzender"
   active: true
-  image: "img/persons/leo-girbig.jpg"
+  image: "img/persons/raphael-lehmann.jpg"
   order: 0_vorstand_2
   boardmember: true
 
-- name: Niklas Bloemen
+- name: Silas Weidenmüller
   function: "3. Vorsitzender"
   active: true
-  image: "img/persons/niklas-bloemen.jpg"
+  image: "img/persons/silas-weidenmueller.jpg"
   order: 0_vorstand_3
   boardmember: true
 
