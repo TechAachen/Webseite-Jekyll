@@ -1,18 +1,21 @@
 <section id="projects">
-<br>
-  <h2 class="section-heading">Projekte im Dachverband</h2>
+  {% if include.heading %}
+  <h2 class="section-heading">{{ include.heading }}</h2>
   <hr class="primary">
+  {% endif %}
   <div class="container-fluid">
     <div class="row">
         {% for projekt in site.data.projekte %}
-        {% if projekt.archived == false %}
+        {% if projekt.archived == include.archived %}
         <div class="col-lg-4 col-12 p-3">
           <div class="card h-100 shadow" >
             <img src="{{projekt.image}}" class="card-img" alt="{{projekt.title}}">
             <div class="card-body d-flex flex-column">
               <h3>{{projekt.title}}</h3>
               <p>{{projekt.text}}</p>
+              {% if projekt.link != '' %}
               <a href="{{ projekt.link }}" class="btn btn-primary btn-xl align-self-center mt-auto" title="{{projekt.title}}">Mehr erfahren</a>
+              {% endif %}
             </div>
           </div>
         </div>
