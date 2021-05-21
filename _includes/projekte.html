@@ -5,6 +5,7 @@
   <div class="container-fluid">
     <div class="row">
         {% for projekt in site.data.projekte %}
+        {% if projekt.archived == false %}
         <div class="col-lg-4 col-12 p-3">
           <div class="card h-100 shadow" >
             <img src="{{projekt.image}}" class="card-img" alt="{{projekt.title}}">
@@ -15,6 +16,7 @@
             </div>
           </div>
         </div>
+        {% endif %}
         {% endfor %}
     </div>
   </div>
