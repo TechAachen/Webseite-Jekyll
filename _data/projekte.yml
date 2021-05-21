@@ -16,6 +16,19 @@
   text: |
     Wir organisieren regelmäßige Workshops, in denen sich Studierende aus den unterschiedlichen Vereinen über relevante Themen unterhalten. Beispiele sind hierfür: Batterietechnologie, Faserverbund-Fertigung, Versicherung oder Arbeitsicherheit.
 
+- title: Diversität
+  archived: false
+  image: "img/projects/diversitaet.svg"
+  link: "#"
+  text_english: |
+    Wir sehen die Förderung von Frauen in technischen Studiengängen als großes Potential für die Vereine.
+    Durch eine ausgeglichene Repräsentanz von allen Geschlechtern erhoffen wir uns auch in den Vereinen
+    ein realistisches Abbild unserer Gesellschaft zu sein und so Lösungen für alle zu schaffen.
+  text: |
+    Wir sehen die Förderung von Frauen in technischen Studiengängen als großes Potential für die Vereine.
+    Durch eine ausgeglichene Repräsentanz von allen Geschlechtern erhoffen wir uns auch in den Vereinen
+    ein realistisches Abbild unserer Gesellschaft zu sein und so Lösungen für alle zu schaffen.
+
 - title: "MX Academic Cup"
   archived: true
   image: "img/projects/mx_adademic_cup.svg"
