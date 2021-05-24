@@ -1,5 +1,16 @@
 # TechAachen Webseite
 
+## How to build locally
+
+```bash
+docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle" -p 4000:4000 -it jekyll/jekyll jekyll serve
+```
+
+and open http://localhost:4000/ in your web browser for a live preview.
+
+
+## Website
+
 It is ~~going to be~~ the second Version of TechAachen's Webpage.
 
 "l'preview" for every branch pushed to this Github repository is automatiocally build using *Github Actions* and published on https://preview.techaachen.de/.

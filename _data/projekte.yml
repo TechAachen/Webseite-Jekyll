@@ -1,4 +1,5 @@
 - title: "Summer School"
+  archived: true
   image: "img/projects/summer-school.svg"
   link: "static/projects/TechAachen_Summer-School_Informations.pdf"
   text_english: |
@@ -7,6 +8,7 @@
     Sustainable Mobility Label - Development of an Evaluation Procedure for Sustainable Mobility and Production.
 
 - title: "Kompetenztreffen"
+  archived: false
   image: "img/projects/technik-verbinden.svg"
   link: "workshops.html"
   text_english: |
@@ -14,7 +16,21 @@
   text: |
     Wir organisieren regelmäßige Workshops, in denen sich Studierende aus den unterschiedlichen Vereinen über relevante Themen unterhalten. Beispiele sind hierfür: Batterietechnologie, Faserverbund-Fertigung, Versicherung oder Arbeitsicherheit.
 
+- title: Diversität
+  archived: false
+  image: "img/projects/diversitaet.svg"
+  link: "diversitaet.html"
+  text_english: |
+    Wir sehen die Förderung von Frauen in technischen Studiengängen als großes Potential für die Vereine.
+    Durch eine ausgeglichene Repräsentanz von allen Geschlechtern erhoffen wir uns auch in den Vereinen
+    ein realistisches Abbild unserer Gesellschaft zu sein und so Lösungen für alle zu schaffen.
+  text: |
+    Wir sehen die Förderung von Frauen in technischen Studiengängen als großes Potential für die Vereine.
+    Durch eine ausgeglichene Repräsentanz von allen Geschlechtern erhoffen wir uns auch in den Vereinen
+    ein realistisches Abbild unserer Gesellschaft zu sein und so Lösungen für alle zu schaffen.
+
 - title: "MX Academic Cup"
+  archived: true
   image: "img/projects/mx_adademic_cup.svg"
   link: ""
   text_english: |
@@ -27,6 +43,7 @@
     Unser Ökosystem pflegt auch die Verbindungen zwischen Industriepartnern und Innovationen der Studentengemeinschaft durch verschiedene Veranstaltungen und Aktivitäten.
 
 - title: "Gemeinschaftswerkstatt"
+  archived: false
   image: "img/projects/gemeinschaftswerkstatt.svg"
   link: "static/projects/2020_03_26_Gemeinschaftswerkstatt.pdf"
   text_english: |
