@@ -202,7 +202,7 @@
   datum: "2021-06-23"
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
-- title: TechTreff - DSGVO
+- title: TechTreff - Anträge an RWTH und FH Aachen, Teil 2
   datum: "2021-06-23"
   uhrzeit: "21.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
@@ -272,5 +272,9 @@
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
 - title: TechTreff - IT-Systeme
   datum: "2021-10-27"
+  uhrzeit: "21.00h"
+  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+- title: TechTreff - DSGVO
+  datum: "2021-11-10"
   uhrzeit: "21.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
