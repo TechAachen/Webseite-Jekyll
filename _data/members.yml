@@ -7,6 +7,7 @@
   description: |
     Wir teilen eine Begeisterung von allem was fliegt und suchen uns selbst Projekte oder nehmen an Wettbewerben teil.
     Jeder kann an den Projekten mitarbeiten wo er möchte und bei unserem monatlichen Treffen tauschen wir uns aus.
+
 - name: Roboterclub Aachen
   type: Mitglied
   since: 2017
@@ -93,6 +94,45 @@
     Nach dem Prinzip des Social Entrepreneuship geben wir unseren Projekten eine unternehmerische Grundlage
     und schaffen einen langfristigen wirtschaftlichen Nutzen für unsere Zielgruppen.
     So liefern wir Hilfe zur Selbsthilfe.
+
+- name: Autak
+  type: Mitglied
+  since: 2021
+  image: img/members/autak.jpg
+  link: https://autak.org/
+  order: autak
+  description: |
+    Inklusion durch Innovation.
+    Barrierefreiheit mit Hardware, Software und Social-Media-Awareness.
+    „Wir erfinden das Rad neu“ und bauen daraus einen treppensteigenden Rollstuhl.
+    Aber auch andere Ideen setzen wir um: Roboterarme zum Türöffnen, barrierefreie Navigation, eine Lernplattform für Behinderungen und vieles mehr!
+
+- name: Ecogenium
+  type: Mitglied
+  since: 2021
+  image: img/members/black.png
+  link: https://www.ecogenium.com/
+  order: ecogenium
+  description: |
+    ...
+
+- name: Tachyon Hyperloop
+  type: Mitglied
+  since: 2021
+  image: img/members/black.png
+  link: https://www.tachyonhyperloop.de/
+  order: tachyon
+  description: |
+    ...
+
+- name: Space Team Aachen
+  type: Mitglied
+  since: 2020
+  image: img/members/black.png
+  link: https://www.spaceteamaachen.de/
+  order: spaceteam
+  description: |
+    ...
 
 #- name: Energybirds
 #  since: 2018
