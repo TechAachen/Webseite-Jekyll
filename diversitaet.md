@@ -16,5 +16,5 @@ Durch eine ausgeglichene Repräsentanz von allen Geschlechtern erhoffen wir uns 
 ### Veranstaltungen
 
 {% include card.html title="" image375="img/cards/placeholder_quote_375.svg" image690="img/cards/placeholder_quote_690.svg" image1110="img/cards/placeholder_quote_1110.svg"
-    imagealt="Film 'Picture a Scientist'" overlayheadline="Picture a Scientist: Filmvorführung und anschließende Podiumsdiskussion" text="" buttonlink="https://www.pictureascientist.com/media"
-    buttontext="Demnächst mehr Infos" %}
+    imagealt="Film 'Picture a Scientist'" overlayheadline="Picture a Scientist: Filmvorführung und anschließende Podiumsdiskussion" text="" buttonlink="https://asta.ac/pas"
+    buttontext="Mehr Infos" %}
