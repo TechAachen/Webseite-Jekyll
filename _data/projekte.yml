@@ -32,7 +32,7 @@
 - title: "TechTurbo"
   archived: false
   image: "img/projects/rursee.jpg"
-  link: "#" ## TODO
+  link: "" ## TODO
   text_english: |
     Fortbildungs- und Arbeits-Wochenende mit allen TechAachen-Vereinen in der Eifel.
     Interdisziplinärer Wissensautausch und Vernetzung zwischen den Teams.
@@ -44,18 +44,29 @@
     Und selbstverständlich auch ganz viel Spaß!
     Weitere Informationen folgen in Kürze...
 
-- title: Diversität
+- title: Dritti-Woche
   archived: false
-  image: "img/projects/diversitaet.svg"
-  link: "diversitaet.html"
+  image: "img/projects/dritti-woche.svg"
+  link: "" ## TODO
   text_english: |
-    Wir sehen die Förderung von Frauen in technischen Studiengängen als großes Potential für die Vereine.
-    Durch eine ausgeglichene Repräsentanz von allen Geschlechtern erhoffen wir uns auch in den Vereinen
-    ein realistisches Abbild unserer Gesellschaft zu sein und so Lösungen für alle zu schaffen.
+    Die Idee: Studierende aus dem dritten Semester und TechAachen Vereine zusammenbringen,
+    in Form einer Ersti-Woche mit Besichtungen und Aktionen bei allen TechAachen-Vereinen.
   text: |
-    Wir sehen die Förderung von Frauen in technischen Studiengängen als großes Potential für die Vereine.
-    Durch eine ausgeglichene Repräsentanz von allen Geschlechtern erhoffen wir uns auch in den Vereinen
-    ein realistisches Abbild unserer Gesellschaft zu sein und so Lösungen für alle zu schaffen.
+    Die Idee: Studierende aus dem dritten Semester und TechAachen Vereine zusammenbringen,
+    in Form einer Ersti-Woche mit Besichtungen und Aktionen bei allen TechAachen-Vereinen.
+
+# - title: Diversität
+#   archived: false
+#   image: "img/projects/diversitaet.svg"
+#   link: "diversitaet.html"
+#   text_english: |
+#     Wir sehen die Förderung von Frauen in technischen Studiengängen als großes Potential für die Vereine.
+#     Durch eine ausgeglichene Repräsentanz von allen Geschlechtern erhoffen wir uns auch in den Vereinen
+#     ein realistisches Abbild unserer Gesellschaft zu sein und so Lösungen für alle zu schaffen.
+#   text: |
+#     Wir sehen die Förderung von Frauen in technischen Studiengängen als großes Potential für die Vereine.
+#     Durch eine ausgeglichene Repräsentanz von allen Geschlechtern erhoffen wir uns auch in den Vereinen
+#     ein realistisches Abbild unserer Gesellschaft zu sein und so Lösungen für alle zu schaffen.
 
 - title: "MX Academic Cup"
   archived: true
