@@ -1,12 +1,3 @@
-- title: "Summer School"
-  archived: true
-  image: "img/projects/summer-school.svg"
-  link: "static/projects/TechAachen_Summer-School_Informations.pdf"
-  text_english: |
-    Sustainable Mobility Label - Development of an Evaluation Procedure for Sustainable Mobility and Production.
-  text: |
-    Sustainable Mobility Label - Development of an Evaluation Procedure for Sustainable Mobility and Production.
-
 - title: "Kompetenztreffen"
   archived: false
   image: "img/projects/kompetenz.jpg"
@@ -29,18 +20,20 @@
     Durch eine ausgeglichene Repräsentanz von allen Geschlechtern erhoffen wir uns auch in den Vereinen
     ein realistisches Abbild unserer Gesellschaft zu sein und so Lösungen für alle zu schaffen.
 
-- title: "TechTurbo"
+- title: "Sprint-Wochenende"
   archived: false
   image: "img/projects/rursee.jpg"
   link: "" ## TODO
   text_english: |
     Fortbildungs- und Arbeits-Wochenende mit allen TechAachen-Vereinen in der Eifel.
     Interdisziplinärer Wissensautausch und Vernetzung zwischen den Teams.
+    Spannende Workshops, Schulungen und Vorträge.
     Und selbstverständlich auch ganz viel Spaß!
     Weitere Informationen folgen in Kürze...
   text: |
     Fortbildungs- und Arbeits-Wochenende mit allen TechAachen-Vereinen in der Eifel.
     Interdisziplinärer Wissensautausch und Vernetzung zwischen den Teams.
+    Spannende Workshops, Schulungen und Vorträge.
     Und selbstverständlich auch ganz viel Spaß!
     Weitere Informationen folgen in Kürze...
 
@@ -67,19 +60,6 @@
 #     Wir sehen die Förderung von Frauen in technischen Studiengängen als großes Potential für die Vereine.
 #     Durch eine ausgeglichene Repräsentanz von allen Geschlechtern erhoffen wir uns auch in den Vereinen
 #     ein realistisches Abbild unserer Gesellschaft zu sein und so Lösungen für alle zu schaffen.
-
-- title: "MX Academic Cup"
-  archived: true
-  image: "img/projects/mx_adademic_cup.svg"
-  link: ""
-  text_english: |
-    We are MX Academic Cup, a competition for university student-teams that aims to propagate sustainable mobility technology through Motocross Racing.
-    The driving idea is to compare different kinds of powertrain technologies in order to find out which solution is the most suitable for the purpose of motorsport and sustainability.
-    Our ecosystem also nurtures connections between industrial partners and innovations by the student community through various events and activities.
-  text: |
-    MX Academic Cup ist ein Wettbewerb für Studententeams, der darauf abzielt, nachhaltige Mobilitätstechnologien durch Motocross Racing zu verbreiten.
-    Die Antriebsidee ist es, verschiedene Arten von Antriebstechnologien zu vergleichen, um herauszufinden, welche Lösung für den Motorsport und die Nachhaltigkeit am besten geeignet ist.
-    Unser Ökosystem pflegt auch die Verbindungen zwischen Industriepartnern und Innovationen der Studentengemeinschaft durch verschiedene Veranstaltungen und Aktivitäten.
 
 - title: "Gemeinschaftswerkstatt"
   archived: false
@@ -117,3 +97,25 @@
     Zusammen mit AStA von RWTH und FH Aachen, Female Network Melaten, Gleichstellungsprojekt und IGaD haben wir Studierenden ermöglicht
     kostenfrei den Film <i>Picture A Scientist</i> anzugucken und anschließend eine Podiumsdiskussion veranstaltet um auf
     das Thema der Benachteiligung und Diskriminierung von Frauen in Wissenschaft und Forschung aufmerksam zu machen.
+
+- title: "Summer School"
+  archived: true
+  image: "img/projects/summer-school.svg"
+  link: "static/projects/TechAachen_Summer-School_Informations.pdf"
+  text_english: |
+    Sustainable Mobility Label - Development of an Evaluation Procedure for Sustainable Mobility and Production.
+  text: |
+    Sustainable Mobility Label - Development of an Evaluation Procedure for Sustainable Mobility and Production.
+
+- title: "MX Academic Cup"
+  archived: true
+  image: "img/projects/mx_adademic_cup.svg"
+  link: ""
+  text_english: |
+    We are MX Academic Cup, a competition for university student-teams that aims to propagate sustainable mobility technology through Motocross Racing.
+    The driving idea is to compare different kinds of powertrain technologies in order to find out which solution is the most suitable for the purpose of motorsport and sustainability.
+    Our ecosystem also nurtures connections between industrial partners and innovations by the student community through various events and activities.
+  text: |
+    MX Academic Cup ist ein Wettbewerb für Studententeams, der darauf abzielt, nachhaltige Mobilitätstechnologien durch Motocross Racing zu verbreiten.
+    Die Antriebsidee ist es, verschiedene Arten von Antriebstechnologien zu vergleichen, um herauszufinden, welche Lösung für den Motorsport und die Nachhaltigkeit am besten geeignet ist.
+    Unser Ökosystem pflegt auch die Verbindungen zwischen Industriepartnern und Innovationen der Studentengemeinschaft durch verschiedene Veranstaltungen und Aktivitäten.
