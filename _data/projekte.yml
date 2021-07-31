@@ -1,24 +1,15 @@
-- title: "Summer School"
-  archived: true
-  image: "img/projects/summer-school.svg"
-  link: "static/projects/TechAachen_Summer-School_Informations.pdf"
-  text_english: |
-    Sustainable Mobility Label - Development of an Evaluation Procedure for Sustainable Mobility and Production.
-  text: |
-    Sustainable Mobility Label - Development of an Evaluation Procedure for Sustainable Mobility and Production.
-
 - title: "Kompetenztreffen"
   archived: false
-  image: "img/projects/technik-verbinden.svg"
+  image: "img/projects/kompetenz.jpg"
   link: "workshops.html"
   text_english: |
     We organise regular workshops in which students from the various associations talk about relevant topics. Examples are: battery technology, fibre composite production, insurance or safety.
   text: |
     Wir organisieren regelmäßige Workshops, in denen sich Studierende aus den unterschiedlichen Vereinen über relevante Themen unterhalten. Beispiele sind hierfür: Batterietechnologie, Faserverbund-Fertigung, Versicherung oder Arbeitsicherheit.
 
-- title: Diversität
+- title: "Women @ TechAachen"
   archived: false
-  image: "img/projects/diversitaet.svg"
+  image: "img/projects/ci-julia-beamer.jpg"
   link: "diversitaet.html"
   text_english: |
     Wir sehen die Förderung von Frauen in technischen Studiengängen als großes Potential für die Vereine.
@@ -28,6 +19,93 @@
     Wir sehen die Förderung von Frauen in technischen Studiengängen als großes Potential für die Vereine.
     Durch eine ausgeglichene Repräsentanz von allen Geschlechtern erhoffen wir uns auch in den Vereinen
     ein realistisches Abbild unserer Gesellschaft zu sein und so Lösungen für alle zu schaffen.
+
+- title: "Sprint-Wochenende"
+  archived: false
+  image: "img/projects/rursee.jpg"
+  link: "" ## TODO
+  text_english: |
+    Fortbildungs- und Arbeits-Wochenende mit allen TechAachen-Vereinen in der Eifel.
+    Interdisziplinärer Wissensautausch und Vernetzung zwischen den Teams.
+    Spannende Workshops, Schulungen und Vorträge.
+    Und selbstverständlich auch ganz viel Spaß!
+    Weitere Informationen folgen in Kürze...
+  text: |
+    Fortbildungs- und Arbeits-Wochenende mit allen TechAachen-Vereinen in der Eifel.
+    Interdisziplinärer Wissensautausch und Vernetzung zwischen den Teams.
+    Spannende Workshops, Schulungen und Vorträge.
+    Und selbstverständlich auch ganz viel Spaß!
+    Weitere Informationen folgen in Kürze...
+
+- title: Dritti-Woche
+  archived: false
+  image: "img/projects/dritti-woche.svg"
+  link: "" ## TODO
+  text_english: |
+    Die Idee: Studierende aus dem dritten Semester und TechAachen Vereine zusammenbringen,
+    in Form einer Ersti-Woche mit Besichtungen und Aktionen bei allen TechAachen-Vereinen.
+  text: |
+    Die Idee: Studierende aus dem dritten Semester und TechAachen Vereine zusammenbringen,
+    in Form einer Ersti-Woche mit Besichtungen und Aktionen bei allen TechAachen-Vereinen.
+
+# - title: Diversität
+#   archived: false
+#   image: "img/projects/diversitaet.svg"
+#   link: "diversitaet.html"
+#   text_english: |
+#     Wir sehen die Förderung von Frauen in technischen Studiengängen als großes Potential für die Vereine.
+#     Durch eine ausgeglichene Repräsentanz von allen Geschlechtern erhoffen wir uns auch in den Vereinen
+#     ein realistisches Abbild unserer Gesellschaft zu sein und so Lösungen für alle zu schaffen.
+#   text: |
+#     Wir sehen die Förderung von Frauen in technischen Studiengängen als großes Potential für die Vereine.
+#     Durch eine ausgeglichene Repräsentanz von allen Geschlechtern erhoffen wir uns auch in den Vereinen
+#     ein realistisches Abbild unserer Gesellschaft zu sein und so Lösungen für alle zu schaffen.
+
+- title: "Gemeinschaftswerkstatt"
+  archived: false
+  image: "img/projects/rca-labor.jpg"
+  link: "static/projects/2020_03_26_Gemeinschaftswerkstatt.pdf"
+  text_english: |
+    A joint workshop is to be built near the city centre of Aachen in the near future. It will be used mainly by Team Windfänger and the newly founded association Space-Team Aachen.
+    The TechAachen e.V. will use the premises for events and presentations.
+  text: |
+    Nahe des Stadtzentrum Aachens soll in naher Zukunft eine Gemeinschaftswerkstatt entstehen. Diese wird hauptsächlich von Team Windfänger und dem neu gegründeten Verein Space-Team Aachen verwendet werden.
+    Der TechAachen e.V. wird die Räumlichkeiten für Veranstaltungen und Präsentationen nutzen.
+
+- title: "Mefferdatisstraße - <i>meffi.s</i>"
+  archived: false
+  image: "img/projects/meffis.jpg"
+  link: "https://www.meffis.org/"
+  text_english: |
+    Wir unterstützen das zusammen weiteren Initiativen und Stadtmacher:innen die Schaffung eines Orts für sozial-ökologische Transformation der Stadt Aachen in der Mefferdatisstraße 14 bis 18.
+    Dort entsteht am Büchel ein Freiraum für Begegnung, gesellschaftliches Engagement und kreative Entfaltung... 
+  text: |
+    Wir unterstützen das zusammen weiteren Initiativen und Stadtmacher:innen die Schaffung eines Orts für sozial-ökologische Transformation der Stadt Aachen in der Mefferdatisstraße 14 bis 18.
+    Dort entsteht am Büchel ein Freiraum für Begegnung, gesellschaftliches Engagement und kreative Entfaltung...
+
+- title: "Picture A Scientist"
+  archived: true
+  image: "img/projects/picture-a-scientist.svg"
+  link: "https://www.asta.rwth-aachen.de/projekte/picture-a-scientist/"
+  text_english: |
+    <b>Filmvorführung und Podiumsdiskussion</b><br />
+    Zusammen mit AStA von RWTH und FH Aachen, Female Network Melaten, Gleichstellungsprojekt und IGaD haben wir Studierenden ermöglicht
+    kostenfrei den Film <i>Picture A Scientist</i> anzugucken und anschließend eine Podiumsdiskussion veranstaltet um auf
+    das Thema der Benachteiligung und Diskriminierung von Frauen in Wissenschaft und Forschung aufmerksam zu machen.
+  text: |
+    <b>Filmvorführung und Podiumsdiskussion</b><br />
+    Zusammen mit AStA von RWTH und FH Aachen, Female Network Melaten, Gleichstellungsprojekt und IGaD haben wir Studierenden ermöglicht
+    kostenfrei den Film <i>Picture A Scientist</i> anzugucken und anschließend eine Podiumsdiskussion veranstaltet um auf
+    das Thema der Benachteiligung und Diskriminierung von Frauen in Wissenschaft und Forschung aufmerksam zu machen.
+
+- title: "Summer School"
+  archived: true
+  image: "img/projects/summer-school.svg"
+  link: "static/projects/TechAachen_Summer-School_Informations.pdf"
+  text_english: |
+    Sustainable Mobility Label - Development of an Evaluation Procedure for Sustainable Mobility and Production.
+  text: |
+    Sustainable Mobility Label - Development of an Evaluation Procedure for Sustainable Mobility and Production.
 
 - title: "MX Academic Cup"
   archived: true
@@ -41,14 +119,3 @@
     MX Academic Cup ist ein Wettbewerb für Studententeams, der darauf abzielt, nachhaltige Mobilitätstechnologien durch Motocross Racing zu verbreiten.
     Die Antriebsidee ist es, verschiedene Arten von Antriebstechnologien zu vergleichen, um herauszufinden, welche Lösung für den Motorsport und die Nachhaltigkeit am besten geeignet ist.
     Unser Ökosystem pflegt auch die Verbindungen zwischen Industriepartnern und Innovationen der Studentengemeinschaft durch verschiedene Veranstaltungen und Aktivitäten.
-
-- title: "Gemeinschaftswerkstatt"
-  archived: false
-  image: "img/projects/gemeinschaftswerkstatt.svg"
-  link: "static/projects/2020_03_26_Gemeinschaftswerkstatt.pdf"
-  text_english: |
-    A joint workshop is to be built near the city centre of Aachen in the near future. It will be used mainly by Team Windfänger and the newly founded association Space-Team Aachen.
-    The TechAachen e.V. will use the premises for events and presentations.
-  text: |
-    Nahe des Stadtzentrum Aachens soll in naher Zukunft eine Gemeinschaftswerkstatt entstehen. Diese wird hauptsächlich von Team Windfänger und dem neu gegründeten Verein Space-Team Aachen verwendet werden.
-    Der TechAachen e.V. wird die Räumlichkeiten für Veranstaltungen und Präsentationen nutzen.
