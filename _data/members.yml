@@ -128,11 +128,13 @@
 - name: Space Team Aachen
   type: Mitglied
   since: 2020
-  image: img/members/black.png
+  image: img/members/spaceteam.png
   link: https://www.spaceteamaachen.de/
   order: spaceteam
   description: |
-    ...
+    Wir entwickeln und bauen alles, was mit Raumfahrt zutun hat:
+    Vom Satelliten über wissenschaftliche Projekte, die ins Weltall fliegen bis hin zur Experimentalrakete.
+    Mit unsern Experimentalraketen nehmen wir jährlich an internationalen Studenten Wettbewerben teil und messen uns in verschiedenen Kategorien.
 
 #- name: Energybirds
 #  since: 2018
