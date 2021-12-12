@@ -26,13 +26,15 @@ END:VTIMEZONE
 {% for termin in site.data.calendar -%}
 {% assign start_uhrzeit = termin.uhrzeit | remove: "h" | remove: "." | append: "00" -%}
 {% assign start = termin.datum | remove: "-" | append: "T" | append: start_uhrzeit -%}
-{%- if termin.dauer -%}
-{% assign dauer = termin.dauer * 100 -%}
-{%- else -%}
-{% assign dauer = 100 -%}
-{%- endif -%}
-{% assign end_uhrzeit = termin.uhrzeit | remove: "h" | remove: "." | plus: dauer | append: "00" -%}
-{% assign end = termin.datum | remove: "-" | append: "T" | append: end_uhrzeit -%}
+{% if termin.dauer -%}
+{%  assign dauer = termin.dauer | times: 100 -%}
+{% else -%}
+{%  assign dauer = 100 -%}
+{% endif -%}
+{% assign end_uhrzeit = termin.uhrzeit | remove: "h" | remove: "." | plus: dauer -%}
+{% assign dauer_tage = end_uhrzeit | divided_by: 2400 -%}
+{% assign end_uhrzeit = end_uhrzeit | modulo: 2400 -%}
+{% assign end = termin.datum | remove: "-" | plus: dauer_tage | append: "T" | append: end_uhrzeit | append: "00" -%}
 BEGIN:VEVENT
 UID:meeting+{{ start }}@techaachen.de
 SUMMARY:TechAachen - {{ termin.title }}
