@@ -26,7 +26,12 @@ END:VTIMEZONE
 {% for termin in site.data.calendar -%}
 {% assign start_uhrzeit = termin.uhrzeit | remove: "h" | remove: "." | append: "00" -%}
 {% assign start = termin.datum | remove: "-" | append: "T" | append: start_uhrzeit -%}
-{% assign end_uhrzeit = termin.uhrzeit | remove: "h" | remove: "." | plus: 200 | append: "00" -%}
+{%- if termin.dauer -%}
+{% assign dauer = termin.dauer * 100 -%}
+{%- else -%}
+{% assign dauer = 100 -%}
+{%- endif -%}
+{% assign end_uhrzeit = termin.uhrzeit | remove: "h" | remove: "." | plus: dauer | append: "00" -%}
 {% assign end = termin.datum | remove: "-" | append: "T" | append: end_uhrzeit -%}
 BEGIN:VEVENT
 UID:meeting+{{ start }}@techaachen.de
