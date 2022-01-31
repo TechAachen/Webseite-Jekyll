@@ -24,10 +24,11 @@
     können Studierende bei diesem Workshop lernen.
     In einem interaktiven Format bringen wir den Studierenden neben den Grundlagen beim Zeichnen von Schaltplänen und PCB Layouts
     auch wertvolle Tipps und Tricks im Umgang mit KiCad bei.
+
 - name: Arbeitsschutz-Workshop
   date:
   time:
-  image:
+  image: img/projects/arbeitsschutz-rca2.jpg
   link:
   text: |
     Allen uns Studierenden liegt die Sicherheit und Gesundheit der anderen Mitglieder in unseren Vereinen und uns selber am Herzen.
@@ -35,6 +36,7 @@
     Das macht einen aktiven Austausch über Schutzmaßnahmen, Prozesse, Kontrollinstanzen und Versicherungen notwendig.
     In unserem Kompetenztreffen Arbeitschutz befassen wir uns gemeinsam mit dem wichtigen Thema Arbeitsschutz um für den bestmöglichen Schutz
     für uns Studierende zu sorgen.
+
 - name: Geschäftsführende Versammlung
   date: alle zwei Wochen
   time: 20.00h
@@ -43,3 +45,13 @@
   text: |
     Nicht wirklich ein Workshop. Für die viele kleinen Themen und Fragen, die in den Vereinen aufkommen, wäre ein eigener Workshop allerdings überflüssig.
     Speziell hierfür haben wir mit unserer zweiwöchendlichen Geschäftsführenden Versammlung die Möglichkeit und schnell und effizient in der Gruppe auszutauschen.
+
+- name: Embedded Systems
+  date: 2022-01-21
+  time: 14.00h
+  image: img/projects/kompetenztreffen-embedded2.jpg
+  link:
+  text: |
+    Beim Kompetenztreffen Embedded Systems tauschen sich die Studierenden der verschiedenen Teams über ihr Technologien und Tools aus.
+    Themen von Raspberry Pi und Linux über modernes C++ oder Rust, Cross-Compiler, Build-Systeme bis hin zu unterschiedlichen Microcontroller-Serien sind vertreten.
+    Wenn sich gegenseitig nicht weitergeholfen werden kann organisiert TechAachen Workshops und Trainings mit externen Referenten.

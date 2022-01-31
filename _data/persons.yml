@@ -19,9 +19,16 @@
   order: 0_vorstand_3
   boardmember: true
 
+- name: Federica Azzalin
+  function: "4. Vorsitzende"
+  active: true
+  image: "img/persons/federica-azzalin.jpg"
+  order: 0_vorstand_4
+  boardmember: true
+
 - name: Und Du?
   function: <a href="contact.html" class="btn btn-primary page-scroll">Mitmachen!</a>
-  active: true
+  active: false
   image: "img/persons/blank.svg"
   order: 1
   boardmember: false
