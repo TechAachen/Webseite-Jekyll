@@ -113,7 +113,9 @@
   image: img/members/black.png
   link: https://www.ecogenium.com/
   order: ecogenium
-  description: |
+  description: Wir sind ein multidisziplinäres Team motivierter Studierenden, die sich im Bereich der  Wasserstoffmobilität engagieren. 
+Unser Hauptziel ist es, ein Wasserstoff-Brennstoffzellenfahrzeug zu entwickeln und zu bauen, 
+das beim jährlichen Shell Eco-Marathon auf den Prüfstand gestellt wird.
     ...
 
 - name: Tachyon Hyperloop
