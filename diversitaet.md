@@ -11,6 +11,7 @@ Wir sehen die Förderung von Frauen in technischen Studiengängen als großes Po
 
 Durch eine ausgeglichene Repräsentanz von allen Geschlechtern erhoffen wir uns auch in den Vereinen ein realistisches Abbild unserer Gesellschaft zu sein und so Lösungen für alle zu schaffen. 
 
+Das Projekt Women@TechAachen wurde im Jahr 2021 initiiert. Seit dem haben wir mehrere Networking-Events für alle Frauen des TechAachen organisiert.
 ***
 
 ### Veranstaltungen
