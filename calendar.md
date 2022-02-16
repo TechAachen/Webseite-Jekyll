@@ -1,0 +1,69 @@
+---
+layout: page
+title: Kalender
+titleimg375: img/aboutus/gruppenbild_375x400.jpg
+titleimg690: img/aboutus/gruppenbild_690x400.jpg
+titleimg1110: img/aboutus/gruppenbild_1110x400.jpg
+slogan: Termine
+---
+
+<div class="card shadow text-white" style="height: 400px;">
+ <img srcset="{{ page.titleimg375 }} 375w, {{page.titleimg690}} 690w, {{page.titleimg1110}} 1110w" sizes="100vw" class="card-img" style="height: 400px; object-fit:cover;" alt="Gruppenbild">
+ <div class="card-img-overlay d-flex flex-column">
+  <div class="pr-3 d-flex justify-content-end align-self-end mt-auto">
+   <h1>{{ page.slogan }}</h1>
+  </div>
+ </div>
+</div>
+
+<section id="paperwork">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-lg-6 col-12 p-3">
+        <div class="card h-100 w-100 shadow">
+          <div class="card-header">
+            <strong>Geschäftsführende Versammlung und TechTreffen</strong>
+          </div>
+          <div class="card-body">
+            <div class="align-items-center">
+                {% for termin in site.data.calendar -%}
+                {% if termin.title contains "Geschäftsführende Versammlung" or termin.title contains "TechTreff" -%}
+                <div class="termin" date="{{ termin.datum }}"><p><b>{{ termin.title }}</b><br /> {{ termin.datum }}, {{ termin.uhrzeit }}<br /> Ort: {{ termin.ort }}</p></div>
+                {% endif -%}
+                {% endfor -%}
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6 col-12 p-3">
+        <div class="card h-100 w-100 shadow">
+          <div class="card-header">
+            <strong>Weitere Events</strong>
+          </div>
+          <div class="card-body">
+            <div class="align-items-center">
+                {% for termin in site.data.calendar -%}
+                {% unless termin.title contains "Geschäftsführende Versammlung" or termin.title contains "TechTreff" -%}
+                <div class="termin" date="{{ termin.datum }}"><p><b>{{ termin.title }}</b><br /> {{ termin.datum }}, {{ termin.uhrzeit }}<br /> Ort: {{ termin.ort }}</p></div>
+                {% endunless -%}
+                {% endfor -%}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<script type="text/javascript">
+var termine = document.getElementsByClassName("termin");
+var today = new Date();
+today.setHours(0,0,0,0);
+for (let termin of termine) {
+    let date = Date.parse(termin.getAttribute("date"));
+    if(date-today < 0) {
+        termin.style.display = 'none';
+    }
+}
+</script>
+
+</section>
