@@ -359,15 +359,32 @@
   uhrzeit: "20.00h"
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
 
+- title: "Diverse Algorithm Weeks - Vortrag: Kenza Ait Si Abbou Lyadini - Maschinelle Diskriminierung"
+  datum: "2022-04-25"
+  uhrzeit: "16.00h"
+  ort: "Online: https://asta.ac/coded-bias"
+
 - title: Geschäftsführende Versammlung
   datum: "2022-04-27"
+  uhrzeit: "19.00h"
+  ort: "Humboldhaus, Seminarraum 2. OG"
+
+- title: "Diverse Algorithm Weeks - Filmvorstellung: Coded Bias"
+  datum: "2022-04-27"
+  uhrzeit: "20.15h"
+  dauer: 2
+  ort: "Filmstudio und online: https://asta.ac/coded-bias"
+
+- title: "Diverse Algorithm Weeks - Podiumsdiskussion"
+  datum: "2022-05-05"
   uhrzeit: "20.00h"
-  ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
+  dauer: 2
+  ort: "Online: https://asta.ac/coded-bias"
 
 - title: TechAachen Symposium
   datum: "2022-05-07"
   uhrzeit: "15.00h"
-  dauer: 4
+  dauer: 8
   ort: "Video-Konferenz (Zugang bitte beim Vorstand erfragen)"
 
 - title: Geschäftsführende Versammlung
