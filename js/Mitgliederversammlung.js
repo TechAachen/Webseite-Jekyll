@@ -11,6 +11,10 @@ function sortDates(a,b) {
     return a[0] - b[0];
 }
 
+function isVersammlung(a) {
+    return a[3].includes("Geschäftsführende Versammlung");
+}
+
 function Mitgliederversammlung() {
     var termine = [
     {% for termin in site.data.calendar -%}
@@ -18,7 +22,7 @@ function Mitgliederversammlung() {
     {% endfor -%}
     ];
 
-    var next_meeting = termine.filter(futureDate).sort(sortDates)[0];
+    var next_meeting = termine.filter(futureDate).filter(isVersammlung).sort(sortDates)[0];
 
     document.getElementById("mitgliederversammlung_text").innerHTML =
         "Die nächste <i>" + next_meeting[3] + "</i> findet am " +
