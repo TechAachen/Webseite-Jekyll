@@ -407,35 +407,31 @@
   uhrzeit: "21.00h"
   ort: "Flex Office 1, 3.OG, Collective Incubator, Jülicher Str. 191-209, 52070 Aachen"
 
-- title: Geschäftsführende Versammlung
+- title: Get-Together
   datum: "2022-06-08"
   uhrzeit: "20.00h"
-  ort: "Flex Office 1, 3.OG, Collective Incubator, Jülicher Str. 191-209, 52070 Aachen"
-
-- title: TechTreffen
-  datum: "2022-06-08"
-  uhrzeit: "21.00h"
+  dauer: 2
   ort: "Flex Office 1, 3.OG, Collective Incubator, Jülicher Str. 191-209, 52070 Aachen"
 
 - title: Geschäftsführende Versammlung
   datum: "2022-06-22"
   uhrzeit: "20.00h"
   ort: "Flex Office 1, 3.OG, Collective Incubator, Jülicher Str. 191-209, 52070 Aachen"
+
+- title: TechTreffen - Memes
+  datum: "2022-06-22"
+  uhrzeit: "21.00h"
+  ort: "Flex Office 1, 3.OG, Collective Incubator, Jülicher Str. 191-209, 52070 Aachen"
+
+- title: Geschäftsführende Versammlung
+  datum: "2022-07-06"
+  uhrzeit: "20.00h"
+  ort: "Autak e.V., Ottostraße 51A, 52070 Aachen"
 
 - title: TechTreffen - Barrierefreiheit
-  datum: "2022-06-22"
-  uhrzeit: "21.00h"
-  ort: "Flex Office 1, 3.OG, Collective Incubator, Jülicher Str. 191-209, 52070 Aachen"
-
-- title: Geschäftsführende Versammlung
-  datum: "2022-07-06"
-  uhrzeit: "20.00h"
-  ort: "Collective Incubator, Jülicher Str. 191-209, 52070 Aachen"
-
-- title: TechTreffen
   datum: "2022-07-06"
   uhrzeit: "21.00h"
-  ort: "Collective Incubator, Jülicher Str. 191-209, 52070 Aachen"
+  ort: "Autak e.V., Ottostraße 51A, 52070 Aachen"
 
 - title: Kompetenztreffen - Aerodynamik
   datum: "2022-07-15"
@@ -449,7 +445,7 @@
   ort: "Collective Incubator, Jülicher Str. 191-209, 52070 Aachen"
 
 - title: TechTurbo 2022
-  datum: "2022-10-20"
+  datum: "2022-11-10"
   uhrzeit: "18.00h"
   dauer: 72
   ort: "Gruppenunterkunft Auszeit Eifel, Auf der Batterie 9, Schleiden"
