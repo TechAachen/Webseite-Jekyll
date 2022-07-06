@@ -433,16 +433,35 @@
   uhrzeit: "21.00h"
   ort: "Autak e.V., Ottostraße 51A, 52070 Aachen"
 
-- title: Kompetenztreffen - Aerodynamik
-  datum: "2022-07-15"
-  uhrzeit: "14.00h"
-  dauer: 6
-  ort: ""
-
 - title: Geschäftsführende Versammlung
   datum: "2022-07-20"
   uhrzeit: "20.00h"
-  ort: "Collective Incubator, Jülicher Str. 191-209, 52070 Aachen"
+  ort: "Werkstatt der Flugwissenschaftlichen Vereinigung Aachen, Karl-Carstens-Straße 18, 52146 Würselen"
+
+- title: Geschäftsführende Versammlung
+  datum: "2022-08-03"
+  uhrzeit: "20.00h"
+  ort: "Labor des Roboterclubs Aachen, Melatener Straße 23-25, 52074 Aachen"
+
+- title: Geschäftsführende Versammlung
+  datum: "2022-08-17"
+  uhrzeit: "20.00h"
+  ort: "Werkstatt vom Ecogenium und Tachyon, Campus-Boulevard 30, 52074 Aachen"
+
+- title: Geschäftsführende Versammlung
+  datum: "2022-08-31"
+  uhrzeit: "20.00h"
+  ort: "Werkstatt vom Space Team Aachen im Stoßwellenlabor, Schurzelter Str. 35, 52074 Aachen"
+
+- title: Geschäftsführende Versammlung
+  datum: "2022-09-14"
+  uhrzeit: "20.00h"
+  ort: "tbd"
+
+- title: Geschäftsführende Versammlung
+  datum: "2022-09-28"
+  uhrzeit: "20.00h"
+  ort: "tbd"
 
 - title: TechTurbo 2022
   datum: "2022-11-10"
