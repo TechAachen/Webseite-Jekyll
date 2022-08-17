@@ -18,7 +18,7 @@ permalink: impressum.html
 **Registereintrag**  
 Eingetragen im Vereinsregister.  
 Registergericht: Amtsgericht Aachen  
-<!-- Registernummer: VR ???? -->
+Registernummer: VR 5894
 
 **Das Impressum gilt für**  
 [techaachen.de](https://techaachen.de/)
