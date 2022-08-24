@@ -1,3 +1,20 @@
+- title: "Sprint-Wochenende"
+  archived: false
+  image: "img/projects/techturbo.jpg"
+  link: "techturbo2022.html"
+  text_english: |
+    Fortbildungs- und Arbeits-Wochenende mit allen TechAachen-Vereinen in der Eifel.
+    Interdisziplinärer Wissensautausch und Vernetzung zwischen den Teams.
+    Spannende Workshops, Schulungen und Vorträge.
+    Und selbstverständlich auch ganz viel Spaß!
+    Anmeldung ist offen:
+  text: |
+    Fortbildungs- und Arbeits-Wochenende mit allen TechAachen-Vereinen in der Eifel.
+    Interdisziplinärer Wissensautausch und Vernetzung zwischen den Teams.
+    Spannende Workshops, Schulungen und Vorträge.
+    Und selbstverständlich auch ganz viel Spaß!
+    Anmeldung ist offen:
+
 - title: "Kompetenztreffen"
   archived: false
   image: "img/projects/kompetenz.jpg"
@@ -9,36 +26,19 @@
 
 - title: "Women @ TechAachen"
   archived: false
-  image: "img/projects/ci-julia-beamer.jpg"
-  link: "diversitaet.html"
-  text_english: |
-    Wir sehen die Förderung von Frauen in technischen Studiengängen als großes Potential für die Vereine.
-    Durch eine ausgeglichene Repräsentanz von allen Geschlechtern erhoffen wir uns auch in den Vereinen
-    ein realistisches Abbild unserer Gesellschaft zu sein und so Lösungen für alle zu schaffen.
-  text: |
-    Wir sehen die Förderung von Frauen in technischen Studiengängen als großes Potential für die Vereine.
-    Durch eine ausgeglichene Repräsentanz von allen Geschlechtern erhoffen wir uns auch in den Vereinen
-    ein realistisches Abbild unserer Gesellschaft zu sein und so Lösungen für alle zu schaffen.
-
-- title: "Sprint-Wochenende"
-  archived: false
-  image: "img/projects/rursee.jpg"
+  image: "img/projects/women-at-techaachen.jpg"
   link: "" ## TODO
   text_english: |
-    Fortbildungs- und Arbeits-Wochenende mit allen TechAachen-Vereinen in der Eifel.
-    Interdisziplinärer Wissensautausch und Vernetzung zwischen den Teams.
-    Spannende Workshops, Schulungen und Vorträge.
-    Und selbstverständlich auch ganz viel Spaß!
-    Weitere Informationen folgen in Kürze...
+    Wir sehen die Förderung von Frauen in technischen Studiengängen als großes Potential für die Vereine.
+    Durch eine ausgeglichene Repräsentanz von allen Geschlechtern erhoffen wir uns auch in den Vereinen
+    ein realistisches Abbild unserer Gesellschaft zu sein und so Lösungen für alle zu schaffen.
   text: |
-    Fortbildungs- und Arbeits-Wochenende mit allen TechAachen-Vereinen in der Eifel.
-    Interdisziplinärer Wissensautausch und Vernetzung zwischen den Teams.
-    Spannende Workshops, Schulungen und Vorträge.
-    Und selbstverständlich auch ganz viel Spaß!
-    Weitere Informationen folgen in Kürze...
+    Wir sehen die Förderung von Frauen in technischen Studiengängen als großes Potential für die Vereine.
+    Durch eine ausgeglichene Repräsentanz von allen Geschlechtern erhoffen wir uns auch in den Vereinen
+    ein realistisches Abbild unserer Gesellschaft zu sein und so Lösungen für alle zu schaffen.
 
 - title: Dritti-Woche
-  archived: false
+  archived: true
   image: "img/projects/dritti-woche.svg"
   link: "" ## TODO
   text_english: |
@@ -62,7 +62,7 @@
 #     ein realistisches Abbild unserer Gesellschaft zu sein und so Lösungen für alle zu schaffen.
 
 - title: "Gemeinschaftswerkstatt"
-  archived: false
+  archived: true
   image: "img/projects/rca-labor.jpg"
   link: "static/projects/2020_03_26_Gemeinschaftswerkstatt.pdf"
   text_english: |
@@ -73,7 +73,7 @@
     Der TechAachen e.V. wird die Räumlichkeiten für Veranstaltungen und Präsentationen nutzen.
 
 - title: "Mefferdatisstraße - <i>meffi.s</i>"
-  archived: false
+  archived: true
   image: "img/projects/meffis.jpg"
   link: "https://www.meffis.org/"
   text_english: |
@@ -97,6 +97,23 @@
     Zusammen mit AStA von RWTH und FH Aachen, Female Network Melaten, Gleichstellungsprojekt und IGaD haben wir Studierenden ermöglicht
     kostenfrei den Film <i>Picture A Scientist</i> anzugucken und anschließend eine Podiumsdiskussion veranstaltet um auf
     das Thema der Benachteiligung und Diskriminierung von Frauen in Wissenschaft und Forschung aufmerksam zu machen.
+
+- title: "Diverse Algorithm Weeks"
+  archived: true
+  image: "img/projects/diverse-algorithm-weeks.svg"
+  link: "https://www.asta.rwth-aachen.de/coded-bias/"
+  text_english: |
+    <b>Filmvorführung, Fachvortrag und Podiumsdiskussion</b><br />
+    Zusammen mit FH Aachen, Forschungszentrun Jülich, AStA von RWTH und FH Aachen, Filmstudio, Female Network Melaten,
+    Gleichstellungsprojekt, IGaD und RRI Hub haben wir Studierenden ermöglicht kostenfrei den Film <i>Coded Bias</i>
+    anzugucken, den Vortrag <i>Maschinelle Diskriminierung</i> von Kenza Ait Si Abbou Lyadini anzuhören
+    und anschließend eine Podiumsdiskussion veranstaltet um auf unbeabsichtigte Benachteiligung durch Algorithmen aufmerksam zu machen.
+  text: |
+    <b>Filmvorführung, Fachvortrag und Podiumsdiskussion</b><br />
+    Zusammen mit FH Aachen, Forschungszentrun Jülich, AStA von RWTH und FH Aachen, Filmstudio, Female Network Melaten,
+    Gleichstellungsprojekt, IGaD und RRI Hub haben wir Studierenden ermöglicht kostenfrei den Film <i>Coded Bias</i>
+    anzugucken, den Vortrag <i>Maschinelle Diskriminierung</i> von Kenza Ait Si Abbou Lyadini anzuhören
+    und anschließend eine Podiumsdiskussion veranstaltet um auf unbeabsichtigte Benachteiligung durch Algorithmen aufmerksam zu machen.
 
 - title: "Summer School"
   archived: true
