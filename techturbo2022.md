@@ -22,13 +22,15 @@ Vereine haben außerdem die Möglichkeit ein gewisses Kontingent an Plätzen zu 
 Um dich verbindlich anzumelden, überweise bitte eine Anzahlung an das TechAachen Konto:
 ```
 Empfänger: TechAachen e.V.
-Verwendungszweck: <Name> <Initiative> Anzahlung (z.B. Kathrin Böttger FVA Anzahlung)
+Verwendungszweck: <Name> <Initiative> Eigenbeteiligung (z.B. Kathrin Böttger FVA Anzahlung)
 IBAN: DE13 3906 0180 0826 7730 14
 BIC: GENODED1AAC
 ```
 
-Die Anzahlung beträgt bis zum 30. August 35 Euro, bis zum 30. September 45 Euro und danach 55 Euro.
-Nach aktueller Kalkulation kostet das Wochenende 103 Euro pro Person. Durch Fördergelder möchten wir diese Kosten aber zum Großteil übernehmen. Zu eurer Anzahlung können im worst-case deshalb 20 Euro hinzukommen. Wir geben uns aber große Mühe, dass es bei der Anzahlung bleibt und ihr dann (wie im letzten Jahr) ohne weitere Kosten das Wochenende mit uns verbringen könnt. Sollten die Kosten aus irgendwelchen Gründen zu hoch für jemanden von euch sein, sagt uns gerne Bescheid und wir versuchen zusammen eine Lösung zu finden! (Nicht-Studierende müssen leider die vollen Kosten zahlen.)
+Die Eigenbeteiligung beträgt bis zum 30. August 35 Euro, bis zum 30. September 45 Euro und danach 55 Euro.
+Nach aktueller Kalkulation kostet das Wochenende 103 Euro pro Person, jedoch haben wir inzwischen genügend Fördermittel und Sponsorings eingeworben, sodass ihr nur 35€ bezahlen müsst.
+Sollten die Kosten aus irgendwelchen Gründen zu hoch für jemanden von euch sein, sagt uns gerne Bescheid und wir übernehmen die vollen Kosten!
+(Nicht-Studierende müssen leider die vollen Kosten zahlen.)
 
 ### Unterkunft
 
@@ -66,13 +68,15 @@ There is also the possibility to reserve a certain number of spots as an associa
 To register bindingly, please transfer a down payment to the TechAachen account:
 ```
 Recipient: TechAachen e.V.
-Reference: <Name> <Initiative> Anzahlung (e.g. Kathrin Böttger FVA Anzahlung)
+Reference: <Name> <Initiative> Eigenbeteiligung (e.g. Kathrin Böttger FVA Anzahlung)
 IBAN: DE13 3906 0180 0826 7730 14
 BIC: GENODED1AAC
 ```
 
-The down payment is 35 Euro until August 30th, 45 Euro until September 30th and 55 Euro thereafter.
-According to the current calculations, the weekend costs 103 Euro per person. However, we would like to cover most of these costs through funding. In a worst-case scenario, 20 Euro could be the additional costs. We will do our best to make sure that the down payment will be sufficient and that you will be able to spend the weekend with us without any further expenses (like last year). If for any reason the costs are too high for any of you, please let us know and we will try to find a solution together! (Unfortunately, non-students have to pay the full costs.)
+Your payment is 35€ until August 30th, 45€ until September 30th and 55€ after that.
+According to the current calculation, the weekend will cost 103 Euro per person, but meanwhile we have raised enough funds and sponsorships so that you will only have to pay 35€.
+If for any reason the cost is too high for any of you, please let us know and we will cover the full cost!
+(Unfortunately, non-students have to pay the full costs.)
 
 ### Accommodation
 
