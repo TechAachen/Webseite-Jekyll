@@ -456,10 +456,37 @@
 - title: Geschäftsführende Versammlung
   datum: "2022-09-14"
   uhrzeit: "20.00h"
-  ort: "tbd"
+  ort: "Labor von ADDI, Hirschgraben 24, 52062 Aachen"
+
+- title: TechTreffen - Mitgliederakquise
+  datum: "2022-09-14"
+  uhrzeit: "21.00h"
+  ort: "Labor von ADDI, Hirschgraben 24, 52062 Aachen"
+
+- title: "Women@TechAachen - Women in Science Campus Day"
+  datum: "2022-09-26"
+  uhrzeit: "10.00h"
+  dauer: 6
+  ort: "Forschungszentrum Jülich; Details bitte bei Women@TechAachen erfragen; Anmeldung erforderlich: https://www.fz-juelich.de/de/karriere/events/wiscd/"
 
 - title: Geschäftsführende Versammlung
   datum: "2022-09-28"
+  uhrzeit: "20.00h"
+  ort: "Werkstatt von Ecurie, Mathieustraße 7, 52074 Aachen"
+
+- title: Geschäftsführende Versammlung
+  datum: "2022-10-12"
+  uhrzeit: "20.00h"
+  ort: "Werkstatt von Ecogenium, Campus-Boulevard 30, 52074 Aachen"
+
+- title: "Women@TechAachen - Design Thinking Workshop mit female@FIR"
+  datum: "2022-10-24"
+  uhrzeit: "08.30h"
+  dauer: 8.5
+  ort: "Details bitte bei Women@TechAachen erfragen; Anmeldung erforderlich"
+
+- title: Geschäftsführende Versammlung
+  datum: "2022-10-26"
   uhrzeit: "20.00h"
   ort: "tbd"
 
@@ -468,9 +495,3 @@
   uhrzeit: "18.00h"
   dauer: 72
   ort: "Gruppenunterkunft Auszeit Eifel, Auf der Batterie 9, Schleiden"
-
-- title: Kompetenztreffen - Antriebsstrang
-  datum: "2022-11-18"
-  uhrzeit: "14.00h"
-  dauer: 6
-  ort: ""
