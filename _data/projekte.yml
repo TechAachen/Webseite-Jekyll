@@ -37,6 +37,23 @@
     Durch eine ausgeglichene Repräsentanz von allen Geschlechtern erhoffen wir uns auch in den Vereinen
     ein realistisches Abbild unserer Gesellschaft zu sein und so Lösungen für alle zu schaffen.
 
+- title: "Symposium"
+  archived: false
+  image: "img/projects/SYMPOSIUM.TODO"
+  link: "" ## TODO
+  text_english: |
+    Auf dem TechAachen-Symposium zum Beginn des Sommersemesters stellen alle Vereine und
+    Projekte Ihre Ergebnisse und Erfahrungen des letzten Jahres vor.
+    Das Symposium 2022 stand unter dem Motto 'Top & Flopp', sodass jeder Vortrag auf
+    einen gelungenen Aspekt und einen Fehlschlag eingeht.
+    Anschließend wird gemeinsam gegrillt.
+  text: |
+    Auf dem TechAachen-Symposium zum Beginn des Sommersemesters stellen alle Vereine und
+    Projekte Ihre Ergebnisse und Erfahrungen des letzten Jahres vor.
+    Das Symposium 2022 stand unter dem Motto 'Top & Flopp', sodass jeder Vortrag auf
+    einen gelungenen Aspekt und einen Fehlschlag eingeht.
+    Anschließend wird gemeinsam gegrillt.
+
 - title: Dritti-Woche
   archived: true
   image: "img/projects/dritti-woche.svg"
