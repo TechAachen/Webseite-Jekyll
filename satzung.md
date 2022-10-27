@@ -12,19 +12,29 @@ title: Satzung des TechAachen e.V.
 Geschäftsjahr ist das Kalenderjahr.
 
 ## § 3 Zweck des Vereins
-1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts “Steuerbegünstigte Zwecke” der Abgabenordnung.
-2. Zweck des Vereins ist
-- (a) die Förderung von Wissenschaft und Forschung;
-- (b) die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe;
-weiterhin ist der Verein eine Mittelbeschaffungskörperschaft nach [§ 58 AO](https://www.gesetze-im-internet.de/ao_1977/__58.html).
-3. Der Satzungszweck wird verwirklicht insbesondere durch
-- (a) Förderung der Zusammenarbeit regional ansässiger Organisationen, die im Sinne der Vereinszwecke tätig sind, u.a. die sog. technischen studentischen Eigeninitiativen der RWTH Aachen und der FH Aachen;
-- (b) die Beschaffung von Mitteln und deren Weiterleitung zur Förderung der steuerbegünstigten Zwecke im Sinne der Absätze [§ 3.2 (a)](#-3-zweck-des-vereins) und [§ 3.2 (b)](#-3-zweck-des-vereins);
-- (c) Förderung des Dialogs zwischen Organisationen und der Öffentlichkeit, der Politik, der Wirtschaft, den Hochschulen und Forschungseinrichtungen in der Region;
-- (d) Durchführung und Förderung von Informationsveranstaltungen und Bildungsveranstaltungen, insbesondere in den Bereichen Ingenieurwesen, Marketing, Recht, Buchführung.
-- (e) Schaffung einer Plattform für das Umsetzen gemeinnütziger Projekte im Sinne der Absätze [§ 3.2 (a)](#-3-zweck-des-vereins) und [§ 3.2 (b)](#-3-zweck-des-vereins).
-Diese sind insbesondere Entwicklungen in den Bereichen Ingenieurwesen, Marketing, Recht, Buchführung.
-4. Der Verein ist parteipolitisch und religiös neutral.
+ <ol>
+  <li>Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts “Steuerbegünstigte Zwecke” der Abgabenordnung.</li>
+  <li>
+    Zweck des Vereins ist
+    <ol type="a">
+      <li>die Förderung von Wissenschaft und Forschung;</li>
+      <li>die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe;</li>
+    </ol>
+    weiterhin ist der Verein eine Mittelbeschaffungskörperschaft nach <a href="https://www.gesetze-im-internet.de/ao_1977/__58.html">§ 58 AO</a>.
+  </li>
+  <li>
+    Der Satzungszweck wird verwirklicht insbesondere durch
+    <ol type="a">
+      <li>Förderung der Zusammenarbeit regional ansässiger Organisationen, die im Sinne der Vereinszwecke tätig sind, u.a. die sog. technischen studentischen Eigeninitiativen der RWTH Aachen und der FH Aachen;</li>
+      <li>die Beschaffung von Mitteln und deren Weiterleitung zur Förderung der steuerbegünstigten Zwecke im Sinne der Absätze <a href="#-3-zweck-des-vereins">§ 3.2.a</a> und <a href="#-3-zweck-des-vereins">§ 3.2 (b)</a>;</li>
+      <li>Förderung des Dialogs zwischen Organisationen und der Öffentlichkeit, der Politik, der Wirtschaft, den Hochschulen und Forschungseinrichtungen in der Region;</li>
+      <li>Durchführung und Förderung von Informationsveranstaltungen und Bildungsveranstaltungen, insbesondere in den Bereichen Ingenieurwesen, Marketing, Recht, Buchführung.</li>
+      <li>Schaffung einer Plattform für das Umsetzen gemeinnütziger Projekte im Sinne der Absätze <a href="#-3-zweck-des-vereins">§ 3.2.a</a> und <a href="#-3-zweck-des-vereins">§ 3.2.b</a>.</li>
+    </ol>
+    Diese sind insbesondere Entwicklungen in den Bereichen Ingenieurwesen, Marketing, Recht, Buchführung.
+  </li>
+  <li>Der Verein ist parteipolitisch und religiös neutral.</li>
+</ol> 
 
 ## § 4 Selbstlose Tätigkeit
 Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
@@ -81,53 +91,63 @@ Organe des Vereins sind
 4. Der Beirat
 
 ## § 12 Mitgliederversammlung
-1. Die Mitgliederversammlung ist das oberste Vereinsorgan.
-2. Zu ihren Aufgaben gehören insbesondere
-- (a) die Wahl und Abwahl des Vorstands,
-- (b) Entlastung des Vorstands,
-- (c) Entgegennahme der Berichte des Vorstandes,
-- (d) Wahl der Kassenprüfer/innen,
-- (e) Festsetzung von Beiträgen und deren Fälligkeit in der Beitragsordnung,
-- (f) Beschlussfassung über die Änderung der Satzung,
-- (g) Beschlussfassung über die Auflösung des Vereins,
-- (h) Entscheidung über Aufnahme und Ausschluss von Mitgliedern in Berufungsfällen,
-- (i) Berufung von Teams,
-- (j) Festsetzung einer Geschäftsordnung der Mitgliederversammlung
-- (k) Festsetzung einer Geschäftsordnung des Vorstandes
-- (l) Festsetzung einer Geschäftsordnung des Beirats
-- (m) Festsetzung einer Finanzordnung
-- (n) Festsetzung einer Nutzungsordnung von Vereinsbesitz sowie weitere Aufgaben, soweit sich diese aus der Satzung oder nach dem Gesetz
-ergeben.
-3. Im erstem Quartal eines jeden Geschäftsjahres findet eine ordentliche Mitgliederversammlung statt.
-4. Der Vorstand ist zur Einberufung einer außerordentlichen Mitgliederversammlung verpflichtet, wenn mindestens ein Drittel der Mitglieder dies schriftlich oder per E-Mail unter Angabe von Gründen verlangt.
-5. Die Mitgliederversammlung wird vom Vorstand unter Einhaltung einer Frist von zwei Wochen schriftlich, oder per E-Mail unter Angabe der Tagesordnung einberufen.
-6. Die Frist beginnt mit dem auf die Absendung des Einladungsschreibens oder der Mail folgenden Tag.
-7. Das Einladungsschreiben gilt als den Mitgliedern zugegangen, wenn es an die letzte dem Verein bekannt gegebene Anschrift oder E-Mail-Adresse gerichtet war.
-8. Soll der Vorstand entlastet werden ist der Einladung ein Kassenprüfbericht der Kassenprüfer/innen beizulegen.
-9. Mit der Einladung zur Mitgliederversammlung ist den Mitgliedern ein Rechenschaftsbericht durch den Vorstand vorzulegen. Der Rechenschaftsbericht umfasst alle wesentlichen Tätigkeiten des Verein und des Vorstands, insbesondere:
-- (a) die Verwendung des Vereinsvermögens
-- (b) die Aufnahme von Fördermitgliedern
-- (c) die Erfüllung des Vereinszwecks gemäß [§ 3.2](#-3-zweck-des-vereins) im Geschäftsjahr
-10. Die Tagesordnung ist zu ergänzen, wenn dies ein Mitglied bis spätestens eine Woche vor dem angesetzten Termin schriftlich oder per E-Mail beantragt. Die Ergänzung ist zu Beginn der Versammlung bekanntzumachen.
-11. Anträge
-- (a) über die Abwahl des Vorstands
-- (b) über die Änderung der Satzung
-- (c) über die Auflösung des Vereins
-- (d) über die Änderung der Beitragsordnung
-- (e) über die Aufnahme von Mitgliedern
-
-zugangen sind, können erst auf der nächsten Mitgliederversammlung beschlossen werden.
-12. Die Mitgliederversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig.
-13. Die Mitgliederversammlung wird von einem Vorstandsmitglied geleitet.
-14. Zu Beginn der Mitgliederversammlung ist eine anwesende natürliche Person zum Schriftführer zu wählen.
-15. Jedes Mitglied hat eine Stimme. Das Stimmrecht kann nur persönlich, fernmündlich, oder für ein Mitglied unter Vorlage einer schriftlichen Vollmacht ausgeübt werden.
-16. Bei Abstimmungen entscheidet die einfache Mehrheit der abgegebenen Stimmen.
-17. Satzungsänderungen und die Auflösung des Vereins können nur mit einer Mehrheit von 2/3 der anwesenden Mitglieder beschlossen werden.
-18. Stimmenthaltungen und ungültige Stimmen bleiben außer Betracht.
-19. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Schriftführer zu unterzeichnen ist.
-20. Das Protokoll ist innerhalb von 14 Tagen schriftlich oder per E-Mail an die Mitglieder zu versenden.
-21. Auf der Mitgliederversammlung wird eine natürliche und anwesende Person zum Wahlleiter gewählt.
-22. Näheres regelt die Geschäftsordnung der Mitgliederversammlung.
+<ol>
+  <li>Die Mitgliederversammlung ist das oberste Vereinsorgan.</li>
+  <li>Zu ihren Aufgaben gehören insbesondere
+    <ol type="a">
+      <li>die Wahl und Abwahl des Vorstands,</li>
+      <li>Entlastung des Vorstands,</li>
+      <li>Entgegennahme der Berichte des Vorstandes,</li>
+      <li>Wahl der Kassenprüfer/innen,</li>
+      <li>Festsetzung von Beiträgen und deren Fälligkeit in der Beitragsordnung,</li>
+      <li>Beschlussfassung über die Änderung der Satzung,</li>
+      <li>Beschlussfassung über die Auflösung des Vereins,</li>
+      <li>Entscheidung über Aufnahme und Ausschluss von Mitgliedern in Berufungsfällen,</li>
+      <li>Berufung von Teams,</li>
+      <li>Festsetzung einer Geschäftsordnung der Mitgliederversammlung</li>
+      <li>Festsetzung einer Geschäftsordnung des Vorstandes</li>
+      <li>Festsetzung einer Geschäftsordnung des Beirats</li>
+      <li>Festsetzung einer Finanzordnung</li>
+      <li>Festsetzung einer Nutzungsordnung von Vereinsbesitz sowie weitere Aufgaben, soweit sich diese aus der Satzung oder nach dem Gesetz
+ergeben.</li>
+    </ol>
+  </li>
+  <li>Im erstem Quartal eines jeden Geschäftsjahres findet eine ordentliche Mitgliederversammlung statt.</li>
+  <li>Der Vorstand ist zur Einberufung einer außerordentlichen Mitgliederversammlung verpflichtet, wenn mindestens ein Drittel der Mitglieder dies schriftlich oder per E-Mail unter Angabe von Gründen verlangt.</li>
+  <li>Die Mitgliederversammlung wird vom Vorstand unter Einhaltung einer Frist von zwei Wochen schriftlich, oder per E-Mail unter Angabe der Tagesordnung einberufen.</li>
+  <li>Die Frist beginnt mit dem auf die Absendung des Einladungsschreibens oder der Mail folgenden Tag.</li>
+  <li>Das Einladungsschreiben gilt als den Mitgliedern zugegangen, wenn es an die letzte dem Verein bekannt gegebene Anschrift oder E-Mail-Adresse gerichtet war.</li>
+  <li>Soll der Vorstand entlastet werden ist der Einladung ein Kassenprüfbericht der Kassenprüfer/innen beizulegen.</li>
+  <li>Mit der Einladung zur Mitgliederversammlung ist den Mitgliedern ein Rechenschaftsbericht durch den Vorstand vorzulegen. Der Rechenschaftsbericht umfasst alle wesentlichen Tätigkeiten des Verein und des Vorstands, insbesondere:
+    <ol type="a">
+      <li>die Verwendung des Vereinsvermögens</li>
+      <li>die Aufnahme von Fördermitgliedern</li>
+      <li>die Erfüllung des Vereinszwecks gemäß <a href="#-3-zweck-des-vereins">§ 3.2</a> im Geschäftsjahr</li>
+    </ol>
+  </li>
+  <li>Die Tagesordnung ist zu ergänzen, wenn dies ein Mitglied bis spätestens eine Woche vor dem angesetzten Termin schriftlich oder per E-Mail beantragt. Die Ergänzung ist zu Beginn der Versammlung bekanntzumachen.</li>
+  <li>Anträge
+    <ol type="a">
+      <li>über die Abwahl des Vorstands</li>
+      <li>über die Änderung der Satzung</li>
+      <li>über die Auflösung des Vereins</li>
+      <li>über die Änderung der Beitragsordnung</li>
+      <li>über die Aufnahme von Mitgliedern</li>
+    </ol>
+    zugangen sind, können erst auf der nächsten Mitgliederversammlung beschlossen werden.
+  </li>
+  <li>Die Mitgliederversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig.</li>
+  <li>Die Mitgliederversammlung wird von einem Vorstandsmitglied geleitet.</li>
+  <li>Zu Beginn der Mitgliederversammlung ist eine anwesende natürliche Person zum Schriftführer zu wählen.</li>
+  <li>Jedes Mitglied hat eine Stimme. Das Stimmrecht kann nur persönlich, fernmündlich, oder für ein Mitglied unter Vorlage einer schriftlichen Vollmacht ausgeübt werden.</li>
+  <li>Bei Abstimmungen entscheidet die einfache Mehrheit der abgegebenen Stimmen.</li>
+  <li>Satzungsänderungen und die Auflösung des Vereins können nur mit einer Mehrheit von 2/3 der anwesenden Mitglieder beschlossen werden.</li>
+  <li>Stimmenthaltungen und ungültige Stimmen bleiben außer Betracht.</li>
+  <li>Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Schriftführer zu unterzeichnen ist.</li>
+  <li>Das Protokoll ist innerhalb von 14 Tagen schriftlich oder per E-Mail an die Mitglieder zu versenden.</li>
+  <li>Auf der Mitgliederversammlung wird eine natürliche und anwesende Person zum Wahlleiter gewählt.</li>
+  <li>Näheres regelt die Geschäftsordnung der Mitgliederversammlung.</li>
+</ol>
 
 ## § 13 Vorstand
 1. Der Vorstand im Sinn des [§ 26 BGB](https://www.gesetze-im-internet.de/bgb/__26.html) besteht aus dem/der 1., 2. und 3. Vorsitzenden
