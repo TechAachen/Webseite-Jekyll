@@ -12,29 +12,19 @@ title: Satzung des TechAachen e.V.
 Geschäftsjahr ist das Kalenderjahr.
 
 ## § 3 Zweck des Vereins
- <ol>
-  <li>Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts “Steuerbegünstigte Zwecke” der Abgabenordnung.</li>
-  <li>
-    Zweck des Vereins ist
-    <ol type="a">
-      <li>die Förderung von Wissenschaft und Forschung;</li>
-      <li>die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe;</li>
-    </ol>
-    weiterhin ist der Verein eine Mittelbeschaffungskörperschaft nach <a href="https://www.gesetze-im-internet.de/ao_1977/__58.html">§ 58 AO</a>.
-  </li>
-  <li>
-    Der Satzungszweck wird verwirklicht insbesondere durch
-    <ol type="a">
-      <li>Förderung der Zusammenarbeit regional ansässiger Organisationen, die im Sinne der Vereinszwecke tätig sind, u.a. die sog. technischen studentischen Eigeninitiativen der RWTH Aachen und der FH Aachen;</li>
-      <li>die Beschaffung von Mitteln und deren Weiterleitung zur Förderung der steuerbegünstigten Zwecke im Sinne der Absätze <a href="#-3-zweck-des-vereins">§ 3.2.a</a> und <a href="#-3-zweck-des-vereins">§ 3.2 (b)</a>;</li>
-      <li>Förderung des Dialogs zwischen Organisationen und der Öffentlichkeit, der Politik, der Wirtschaft, den Hochschulen und Forschungseinrichtungen in der Region;</li>
-      <li>Durchführung und Förderung von Informationsveranstaltungen und Bildungsveranstaltungen, insbesondere in den Bereichen Ingenieurwesen, Marketing, Recht, Buchführung.</li>
-      <li>Schaffung einer Plattform für das Umsetzen gemeinnütziger Projekte im Sinne der Absätze <a href="#-3-zweck-des-vereins">§ 3.2.a</a> und <a href="#-3-zweck-des-vereins">§ 3.2.b</a>.</li>
-    </ol>
-    Diese sind insbesondere Entwicklungen in den Bereichen Ingenieurwesen, Marketing, Recht, Buchführung.
-  </li>
-  <li>Der Verein ist parteipolitisch und religiös neutral.</li>
-</ol> 
+1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts “Steuerbegünstigte Zwecke” der Abgabenordnung.
+2. Zweck des Vereins ist
+- (a) die Förderung von Wissenschaft und Forschung;
+- (b) die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe;
+weiterhin ist der Verein eine Mittelbeschaffungskörperschaft nach [§ 58 AO](https://www.gesetze-im-internet.de/ao_1977/__58.html).
+3. Der Satzungszweck wird verwirklicht insbesondere durch
+- (a) Förderung der Zusammenarbeit regional ansässiger Organisationen, die im Sinne der Vereinszwecke tätig sind, u.a. die sog. technischen studentischen Eigeninitiativen der RWTH Aachen und der FH Aachen;
+- (b) die Beschaffung von Mitteln und deren Weiterleitung zur Förderung der steuerbegünstigten Zwecke im Sinne der Absätze [§ 3.2 (a)](#-3-zweck-des-vereins) und [§ 3.2 (b)](#-3-zweck-des-vereins);
+- (c) Förderung des Dialogs zwischen Organisationen und der Öffentlichkeit, der Politik, der Wirtschaft, den Hochschulen und Forschungseinrichtungen in der Region;
+- (d) Durchführung und Förderung von Informationsveranstaltungen und Bildungsveranstaltungen, insbesondere in den Bereichen Ingenieurwesen, Marketing, Recht, Buchführung.
+- (e) Schaffung einer Plattform für das Umsetzen gemeinnütziger Projekte im Sinne der Absätze [§ 3.2 (a)](#-3-zweck-des-vereins) und [§ 3.2 (b)](#-3-zweck-des-vereins).
+Diese sind insbesondere Entwicklungen in den Bereichen Ingenieurwesen, Marketing, Recht, Buchführung.
+4. Der Verein ist parteipolitisch und religiös neutral.
 
 ## § 4 Selbstlose Tätigkeit
 Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
@@ -108,8 +98,8 @@ Organe des Vereins sind
       <li>Festsetzung einer Geschäftsordnung des Vorstandes</li>
       <li>Festsetzung einer Geschäftsordnung des Beirats</li>
       <li>Festsetzung einer Finanzordnung</li>
-      <li>Festsetzung einer Nutzungsordnung von Vereinsbesitz sowie weitere Aufgaben, soweit sich diese aus der Satzung oder nach dem Gesetz
-ergeben.</li>
+      <li>Festsetzung einer Nutzungsordnung von Vereinsbesitz</li>
+      <li>sowie weitere Aufgaben, soweit sich diese aus der Satzung oder nach dem Gesetz ergeben.</li>
     </ol>
   </li>
   <li>Im erstem Quartal eines jeden Geschäftsjahres findet eine ordentliche Mitgliederversammlung statt.</li>
@@ -134,7 +124,7 @@ ergeben.</li>
       <li>über die Änderung der Beitragsordnung</li>
       <li>über die Aufnahme von Mitgliedern</li>
     </ol>
-    zugangen sind, können erst auf der nächsten Mitgliederversammlung beschlossen werden.
+    die den Mitgliedern nicht bereits mit der Einladung zur Mitgliederversammlung zugegangen sind, können erst auf der nächsten Mitgliederversammlung beschlossen werden.
   </li>
   <li>Die Mitgliederversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig.</li>
   <li>Die Mitgliederversammlung wird von einem Vorstandsmitglied geleitet.</li>
@@ -150,35 +140,44 @@ ergeben.</li>
 </ol>
 
 ## § 13 Vorstand
-1. Der Vorstand im Sinn des [§ 26 BGB](https://www.gesetze-im-internet.de/bgb/__26.html) besteht aus dem/der 1., 2. und 3. Vorsitzenden
-2. Sie vertreten den Verein gerichtlich und außergerichtlich. Zwei Vorstandsmitglieder vertreten gemeinsam.
-Der geschäftsführende Vorstand ist befugt Vorstandsmitglieder in bestimmten Bereichen Einzelvertretungsbefugnis zu erteilen.
-3. Der Vorstand wird von der Mitgliederversammlung auf die Dauer von einem Jahr gewählt.
-4. Vorstandsmitglieder sind natürliche Personen.
-5. Vorstandsmitglieder müssen durch ein Mitglied auf der Mitgliederversammlung zur Wahl vorgeschlagen werden.
-6. Der Vorstand kann außerhalb der regulären Wahlen nur aus wichtigem Grund abgewählt werden und durch einen Neuen ersetzt werden.
-Wichtige Gründe sind insbesondere:
-- (a) ein die Vereinsziele schädigendes Verhalten
-- (b) die Verletzung satzungsmäßiger Pflichten
-- (c) Rücktritt vom Amt
-- (d) Geschäftsunfähigkeit durch Krankheit oder Unauffindbarkeit.
-
-7. Wiederwahl ist zulässig.
-8. Der Vorstand bleibt solange im Amt, bis ein neuer Vorstand gewählt ist.
-9. Dem Vorstand obliegt die Führung der laufenden Geschäfte des Vereins. Er hat insbesondere folgende Aufgaben:
-
-- (a) die Führung der Geschäfte des Vereins,
-- (b) die Einberufung und Vorbereitung der Mitgliederversammlung,
-- (c) die Ausführung von Beschlüssen der Mitgliederversammlung,
-- (d) die Verwaltung über das Vereinsvermögens,
-- (e) die Anfertigung eines schriftlichen Jahresberichts,
-- (f) die Berufung von Teams.
-Bei alle Aufgaben und Verpflichtungen hat der Vorstand die Entscheidungsbefugnis bis einschließlich 5000,- Euro. 
-Darüberhinausgehende Entscheidungen und Verpflichtungen unterliegen der Beschlussfassung der geschäftsführenden Versammlung.
-10. Die Beschlüsse des Vorstandes sind zu protokollieren und die Vereinsmitglieder über diese zu informieren.
-11. Der Vorstand kann zur Erledigung der laufenden Geschäfte eine oder mehrere Personen berufen, diese werden im Rahmen seiner Weisung tätig.
-12. Der Vorstand haftet nur für grobe Fahrlässigkeit.
-13. Näheres regelt die Geschäftsordnung des Vorstandes.
+<ol>
+  <li>Der Vorstand im Sinn des <a href="https://www.gesetze-im-internet.de/bgb/__26.html">§ 26 BGB</a> besteht aus
+    <ol type="a">
+      <li>dem/der 1., 2. und 3. Vorsitzenden</li>
+    </ol>
+  </li>
+  <li>Sie vertreten den Verein gerichtlich und außergerichtlich. Zwei Vorstandsmitglieder vertreten gemeinsam.
+  Der geschäftsführende Vorstand ist befugt Vorstandsmitglieder in bestimmten Bereichen Einzelvertretungsbefugnis zu erteilen.</li>
+  <li>Der Vorstand wird von der Mitgliederversammlung auf die Dauer von einem Jahr gewählt.</li>
+  <li>Vorstandsmitglieder sind natürliche Personen.</li>
+  <li>Vorstandsmitglieder müssen durch ein Mitglied auf der Mitgliederversammlung zur Wahl vorgeschlagen werden.</li>
+  <li>Der Vorstand kann außerhalb der regulären Wahlen nur aus wichtigem Grund abgewählt werden und durch einen Neuen ersetzt werden.
+  Wichtige Gründe sind insbesondere:
+    <ol type="a">
+      <li>ein die Vereinsziele schädigendes Verhalten</li>
+      <li>die Verletzung satzungsmäßiger Pflichten</li>
+      <li>Rücktritt vom Amt</li>
+      <li>Geschäftsunfähigkeit durch Krankheit oder Unauffindbarkeit.</li>
+    </ol>
+  </li>
+  <li>Wiederwahl ist zulässig.</li>
+  <li>Der Vorstand bleibt solange im Amt, bis ein neuer Vorstand gewählt ist.</li>
+  <li>Dem Vorstand obliegt die Führung der laufenden Geschäfte des Vereins. Er hat insbesondere folgende Aufgaben:
+    <ol type="a">
+      <li>die Führung der Geschäfte des Vereins,</li>
+      <li>die Einberufung und Vorbereitung der Mitgliederversammlung,</li>
+      <li>die Ausführung von Beschlüssen der Mitgliederversammlung,</li>
+      <li>die Verwaltung über das Vereinsvermögens,</li>
+      <li>die Anfertigung eines schriftlichen Jahresberichts,</li>
+      <li>die Berufung von Teams.</li>
+    </ol>
+  Bei alle Aufgaben und Verpflichtungen hat der Vorstand die Entscheidungsbefugnis bis einschließlich 5000,- Euro. 
+  Darüberhinausgehende Entscheidungen und Verpflichtungen unterliegen der Beschlussfassung der geschäftsführenden Versammlung.</li>
+  <li>Die Beschlüsse des Vorstandes sind zu protokollieren und die Vereinsmitglieder über diese zu informieren.</li>
+  <li>Der Vorstand kann zur Erledigung der laufenden Geschäfte eine oder mehrere Personen berufen, diese werden im Rahmen seiner Weisung tätig.</li>
+  <li>Der Vorstand haftet nur für grobe Fahrlässigkeit.</li>
+  <li>Näheres regelt die Geschäftsordnung des Vorstandes.</li>
+</ol>
 
 ## § 14 Geschäftsführende Versammlung
 1. Die Geschäftsführende Versammlung ist die Versammlung der regulären Mitglieder.
