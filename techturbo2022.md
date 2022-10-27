@@ -27,8 +27,8 @@ IBAN: DE13 3906 0180 0826 7730 14
 BIC: GENODED1AAC
 ```
 
-Die Eigenbeteiligung beträgt bis zum 30. August 35 Euro, bis zum 30. September 45 Euro und danach 55 Euro.
-Nach aktueller Kalkulation kostet das Wochenende 103 Euro pro Person, jedoch haben wir inzwischen genügend Fördermittel und Sponsorings eingeworben, sodass ihr nur 35€ bezahlen müsst.
+Die Eigenbeteiligung beträgt bis zum 13. November 45 Euro und danach 55 Euro.
+Nach aktueller Kalkulation kostet das Wochenende 110 Euro pro Person, jedoch haben wir inzwischen genügend Fördermittel und Sponsorings eingeworben, sodass ihr nur einen Anteil davon bezahlen müsst.
 Sollten die Kosten aus irgendwelchen Gründen zu hoch für jemanden von euch sein, sagt uns gerne Bescheid und wir übernehmen die vollen Kosten!
 (Nicht-Studierende müssen leider die vollen Kosten zahlen.)
 
@@ -73,8 +73,8 @@ IBAN: DE13 3906 0180 0826 7730 14
 BIC: GENODED1AAC
 ```
 
-Your payment is 35€ until August 30th, 45€ until September 30th and 55€ after that.
-According to the current calculation, the weekend will cost 103 Euro per person, but meanwhile we have raised enough funds and sponsorships so that you will only have to pay 35€.
+Your payment is 45€ until November 13th and 55€ after that.
+According to the current calculation, the weekend will cost 110 Euro per person, but meanwhile we have raised enough funds and sponsorships so that you will only have to pay a share of it.
 If for any reason the cost is too high for any of you, please let us know and we will cover the full cost!
 (Unfortunately, non-students have to pay the full costs.)
 
