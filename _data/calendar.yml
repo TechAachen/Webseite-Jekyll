@@ -490,8 +490,28 @@
   uhrzeit: "20.00h"
   ort: "Werkstatt von Ecurie, Mathieustraße 7, 52074 Aachen"
 
+- title: Geschäftsführende Versammlung
+  datum: "2022-11-09"
+  uhrzeit: "20.00h"
+  ort: "Raum Spencer, 3.OG, Collective Incubator, Jülicher Str. 191-209, 52070 Aachen"
+
+- title: Geschäftsführende Versammlung
+  datum: "2022-11-23"
+  uhrzeit: "20.00h"
+  ort: "Raum Lovelace, 3.OG, Collective Incubator, Jülicher Str. 191-209, 52070 Aachen"
+
 - title: TechTurbo 2022
   datum: "2022-11-24"
   uhrzeit: "18.00h"
   dauer: 72
   ort: "Gruppenunterkunft Auszeit Eifel, Auf der Batterie 9, Schleiden"
+
+- title: Geschäftsführende Versammlung
+  datum: "2022-12-07"
+  uhrzeit: "20.00h"
+  ort: "Raum Lovelace, 3.OG, Collective Incubator, Jülicher Str. 191-209, 52070 Aachen"
+
+- title: Geschäftsführende Versammlung
+  datum: "2022-12-21"
+  uhrzeit: "20.00h"
+  ort: "Raum Lovelace, 3.OG, Collective Incubator, Jülicher Str. 191-209, 52070 Aachen"
