@@ -7,7 +7,7 @@ titleimg1110: img/aboutus/gruppenbild_1110x400.jpg
 slogan: Gemeinsam Träume verwirklichen.
 abouttext: |
   Wir sind circa 400 Studierende der RWTH und FH-Aachen, die neben ihrem Studium Wettbewerbe bestreiten, Ideen realisieren und sich für Nachhaltigkeit und Soziales einsetzen.
-  Aktuell bestehen wir aus neun Vereinen mit jeweils unterschiedlichen Zielen und Projekten.
+  Aktuell bestehen wir aus dreizehn Vereinen mit jeweils unterschiedlichen Zielen und Projekten.
   In unserem Dachverband TechAachen e.V. bündeln wir unsere Kräfte, tauschen unser Wissen aus und verbinden unsere Netzwerke.
 historieheader: Von 2018 bis Heute
 historietext: |
