@@ -81,84 +81,103 @@ Organe des Vereins sind
 4. Der Beirat
 
 ## § 12 Mitgliederversammlung
-1. Die Mitgliederversammlung ist das oberste Vereinsorgan.
-2. Zu ihren Aufgaben gehören insbesondere
-- (a) die Wahl und Abwahl des Vorstands,
-- (b) Entlastung des Vorstands,
-- (c) Entgegennahme der Berichte des Vorstandes,
-- (d) Wahl der Kassenprüfer/innen,
-- (e) Festsetzung von Beiträgen und deren Fälligkeit in der Beitragsordnung,
-- (f) Beschlussfassung über die Änderung der Satzung,
-- (g) Beschlussfassung über die Auflösung des Vereins,
-- (h) Entscheidung über Aufnahme und Ausschluss von Mitgliedern in Berufungsfällen,
-- (i) Berufung von Teams,
-- (j) Festsetzung einer Geschäftsordnung der Mitgliederversammlung
-- (k) Festsetzung einer Geschäftsordnung des Vorstandes
-- (l) Festsetzung einer Geschäftsordnung des Beirats
-- (m) Festsetzung einer Finanzordnung
-- (n) Festsetzung einer Nutzungsordnung von Vereinsbesitz sowie weitere Aufgaben, soweit sich diese aus der Satzung oder nach dem Gesetz
-ergeben.
-3. Im erstem Quartal eines jeden Geschäftsjahres findet eine ordentliche Mitgliederversammlung statt.
-4. Der Vorstand ist zur Einberufung einer außerordentlichen Mitgliederversammlung verpflichtet, wenn mindestens ein Drittel der Mitglieder dies schriftlich oder per E-Mail unter Angabe von Gründen verlangt.
-5. Die Mitgliederversammlung wird vom Vorstand unter Einhaltung einer Frist von zwei Wochen schriftlich, oder per E-Mail unter Angabe der Tagesordnung einberufen.
-6. Die Frist beginnt mit dem auf die Absendung des Einladungsschreibens oder der Mail folgenden Tag.
-7. Das Einladungsschreiben gilt als den Mitgliedern zugegangen, wenn es an die letzte dem Verein bekannt gegebene Anschrift oder E-Mail-Adresse gerichtet war.
-8. Soll der Vorstand entlastet werden ist der Einladung ein Kassenprüfbericht der Kassenprüfer/innen beizulegen.
-9. Mit der Einladung zur Mitgliederversammlung ist den Mitgliedern ein Rechenschaftsbericht durch den Vorstand vorzulegen. Der Rechenschaftsbericht umfasst alle wesentlichen Tätigkeiten des Verein und des Vorstands, insbesondere:
-- (a) die Verwendung des Vereinsvermögens
-- (b) die Aufnahme von Fördermitgliedern
-- (c) die Erfüllung des Vereinszwecks gemäß [§ 3.2](#-3-zweck-des-vereins) im Geschäftsjahr
-10. Die Tagesordnung ist zu ergänzen, wenn dies ein Mitglied bis spätestens eine Woche vor dem angesetzten Termin schriftlich oder per E-Mail beantragt. Die Ergänzung ist zu Beginn der Versammlung bekanntzumachen.
-11. Anträge
-- (a) über die Abwahl des Vorstands
-- (b) über die Änderung der Satzung
-- (c) über die Auflösung des Vereins
-- (d) über die Änderung der Beitragsordnung
-- (e) über die Aufnahme von Mitgliedern
-
-zugangen sind, können erst auf der nächsten Mitgliederversammlung beschlossen werden.
-12. Die Mitgliederversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig.
-13. Die Mitgliederversammlung wird von einem Vorstandsmitglied geleitet.
-14. Zu Beginn der Mitgliederversammlung ist eine anwesende natürliche Person zum Schriftführer zu wählen.
-15. Jedes Mitglied hat eine Stimme. Das Stimmrecht kann nur persönlich, fernmündlich, oder für ein Mitglied unter Vorlage einer schriftlichen Vollmacht ausgeübt werden.
-16. Bei Abstimmungen entscheidet die einfache Mehrheit der abgegebenen Stimmen.
-17. Satzungsänderungen und die Auflösung des Vereins können nur mit einer Mehrheit von 2/3 der anwesenden Mitglieder beschlossen werden.
-18. Stimmenthaltungen und ungültige Stimmen bleiben außer Betracht.
-19. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Schriftführer zu unterzeichnen ist.
-20. Das Protokoll ist innerhalb von 14 Tagen schriftlich oder per E-Mail an die Mitglieder zu versenden.
-21. Auf der Mitgliederversammlung wird eine natürliche und anwesende Person zum Wahlleiter gewählt.
-22. Näheres regelt die Geschäftsordnung der Mitgliederversammlung.
+<ol>
+  <li>Die Mitgliederversammlung ist das oberste Vereinsorgan.</li>
+  <li>Zu ihren Aufgaben gehören insbesondere
+    <ol type="a">
+      <li>die Wahl und Abwahl des Vorstands,</li>
+      <li>Entlastung des Vorstands,</li>
+      <li>Entgegennahme der Berichte des Vorstandes,</li>
+      <li>Wahl der Kassenprüfer/innen,</li>
+      <li>Festsetzung von Beiträgen und deren Fälligkeit in der Beitragsordnung,</li>
+      <li>Beschlussfassung über die Änderung der Satzung,</li>
+      <li>Beschlussfassung über die Auflösung des Vereins,</li>
+      <li>Entscheidung über Aufnahme und Ausschluss von Mitgliedern in Berufungsfällen,</li>
+      <li>Berufung von Teams,</li>
+      <li>Festsetzung einer Geschäftsordnung der Mitgliederversammlung</li>
+      <li>Festsetzung einer Geschäftsordnung des Vorstandes</li>
+      <li>Festsetzung einer Geschäftsordnung des Beirats</li>
+      <li>Festsetzung einer Finanzordnung</li>
+      <li>Festsetzung einer Nutzungsordnung von Vereinsbesitz</li>
+      <li>sowie weitere Aufgaben, soweit sich diese aus der Satzung oder nach dem Gesetz ergeben.</li>
+    </ol>
+  </li>
+  <li>Im erstem Quartal eines jeden Geschäftsjahres findet eine ordentliche Mitgliederversammlung statt.</li>
+  <li>Der Vorstand ist zur Einberufung einer außerordentlichen Mitgliederversammlung verpflichtet, wenn mindestens ein Drittel der Mitglieder dies schriftlich oder per E-Mail unter Angabe von Gründen verlangt.</li>
+  <li>Die Mitgliederversammlung wird vom Vorstand unter Einhaltung einer Frist von zwei Wochen schriftlich, oder per E-Mail unter Angabe der Tagesordnung einberufen.</li>
+  <li>Die Frist beginnt mit dem auf die Absendung des Einladungsschreibens oder der Mail folgenden Tag.</li>
+  <li>Das Einladungsschreiben gilt als den Mitgliedern zugegangen, wenn es an die letzte dem Verein bekannt gegebene Anschrift oder E-Mail-Adresse gerichtet war.</li>
+  <li>Soll der Vorstand entlastet werden ist der Einladung ein Kassenprüfbericht der Kassenprüfer/innen beizulegen.</li>
+  <li>Mit der Einladung zur Mitgliederversammlung ist den Mitgliedern ein Rechenschaftsbericht durch den Vorstand vorzulegen. Der Rechenschaftsbericht umfasst alle wesentlichen Tätigkeiten des Verein und des Vorstands, insbesondere:
+    <ol type="a">
+      <li>die Verwendung des Vereinsvermögens</li>
+      <li>die Aufnahme von Fördermitgliedern</li>
+      <li>die Erfüllung des Vereinszwecks gemäß <a href="#-3-zweck-des-vereins">§ 3.2</a> im Geschäftsjahr</li>
+    </ol>
+  </li>
+  <li>Die Tagesordnung ist zu ergänzen, wenn dies ein Mitglied bis spätestens eine Woche vor dem angesetzten Termin schriftlich oder per E-Mail beantragt. Die Ergänzung ist zu Beginn der Versammlung bekanntzumachen.</li>
+  <li>Anträge
+    <ol type="a">
+      <li>über die Abwahl des Vorstands</li>
+      <li>über die Änderung der Satzung</li>
+      <li>über die Auflösung des Vereins</li>
+      <li>über die Änderung der Beitragsordnung</li>
+      <li>über die Aufnahme von Mitgliedern</li>
+    </ol>
+    die den Mitgliedern nicht bereits mit der Einladung zur Mitgliederversammlung zugegangen sind, können erst auf der nächsten Mitgliederversammlung beschlossen werden.
+  </li>
+  <li>Die Mitgliederversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig.</li>
+  <li>Die Mitgliederversammlung wird von einem Vorstandsmitglied geleitet.</li>
+  <li>Zu Beginn der Mitgliederversammlung ist eine anwesende natürliche Person zum Schriftführer zu wählen.</li>
+  <li>Jedes Mitglied hat eine Stimme. Das Stimmrecht kann nur persönlich, fernmündlich, oder für ein Mitglied unter Vorlage einer schriftlichen Vollmacht ausgeübt werden.</li>
+  <li>Bei Abstimmungen entscheidet die einfache Mehrheit der abgegebenen Stimmen.</li>
+  <li>Satzungsänderungen und die Auflösung des Vereins können nur mit einer Mehrheit von 2/3 der anwesenden Mitglieder beschlossen werden.</li>
+  <li>Stimmenthaltungen und ungültige Stimmen bleiben außer Betracht.</li>
+  <li>Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Schriftführer zu unterzeichnen ist.</li>
+  <li>Das Protokoll ist innerhalb von 14 Tagen schriftlich oder per E-Mail an die Mitglieder zu versenden.</li>
+  <li>Auf der Mitgliederversammlung wird eine natürliche und anwesende Person zum Wahlleiter gewählt.</li>
+  <li>Näheres regelt die Geschäftsordnung der Mitgliederversammlung.</li>
+</ol>
 
 ## § 13 Vorstand
-1. Der Vorstand im Sinn des [§ 26 BGB](https://www.gesetze-im-internet.de/bgb/__26.html) besteht aus dem/der 1., 2. und 3. Vorsitzenden
-2. Sie vertreten den Verein gerichtlich und außergerichtlich. Zwei Vorstandsmitglieder vertreten gemeinsam.
-Der geschäftsführende Vorstand ist befugt Vorstandsmitglieder in bestimmten Bereichen Einzelvertretungsbefugnis zu erteilen.
-3. Der Vorstand wird von der Mitgliederversammlung auf die Dauer von einem Jahr gewählt.
-4. Vorstandsmitglieder sind natürliche Personen.
-5. Vorstandsmitglieder müssen durch ein Mitglied auf der Mitgliederversammlung zur Wahl vorgeschlagen werden.
-6. Der Vorstand kann außerhalb der regulären Wahlen nur aus wichtigem Grund abgewählt werden und durch einen Neuen ersetzt werden.
-Wichtige Gründe sind insbesondere:
-- (a) ein die Vereinsziele schädigendes Verhalten
-- (b) die Verletzung satzungsmäßiger Pflichten
-- (c) Rücktritt vom Amt
-- (d) Geschäftsunfähigkeit durch Krankheit oder Unauffindbarkeit.
-
-7. Wiederwahl ist zulässig.
-8. Der Vorstand bleibt solange im Amt, bis ein neuer Vorstand gewählt ist.
-9. Dem Vorstand obliegt die Führung der laufenden Geschäfte des Vereins. Er hat insbesondere folgende Aufgaben:
-
-- (a) die Führung der Geschäfte des Vereins,
-- (b) die Einberufung und Vorbereitung der Mitgliederversammlung,
-- (c) die Ausführung von Beschlüssen der Mitgliederversammlung,
-- (d) die Verwaltung über das Vereinsvermögens,
-- (e) die Anfertigung eines schriftlichen Jahresberichts,
-- (f) die Berufung von Teams.
-Bei alle Aufgaben und Verpflichtungen hat der Vorstand die Entscheidungsbefugnis bis einschließlich 5000,- Euro. 
-Darüberhinausgehende Entscheidungen und Verpflichtungen unterliegen der Beschlussfassung der geschäftsführenden Versammlung.
-10. Die Beschlüsse des Vorstandes sind zu protokollieren und die Vereinsmitglieder über diese zu informieren.
-11. Der Vorstand kann zur Erledigung der laufenden Geschäfte eine oder mehrere Personen berufen, diese werden im Rahmen seiner Weisung tätig.
-12. Der Vorstand haftet nur für grobe Fahrlässigkeit.
-13. Näheres regelt die Geschäftsordnung des Vorstandes.
+<ol>
+  <li>Der Vorstand im Sinn des <a href="https://www.gesetze-im-internet.de/bgb/__26.html">§ 26 BGB</a> besteht aus
+    <ol type="a">
+      <li>dem/der 1., 2. und 3. Vorsitzenden</li>
+    </ol>
+  </li>
+  <li>Sie vertreten den Verein gerichtlich und außergerichtlich. Zwei Vorstandsmitglieder vertreten gemeinsam.
+  Der geschäftsführende Vorstand ist befugt Vorstandsmitglieder in bestimmten Bereichen Einzelvertretungsbefugnis zu erteilen.</li>
+  <li>Der Vorstand wird von der Mitgliederversammlung auf die Dauer von einem Jahr gewählt.</li>
+  <li>Vorstandsmitglieder sind natürliche Personen.</li>
+  <li>Vorstandsmitglieder müssen durch ein Mitglied auf der Mitgliederversammlung zur Wahl vorgeschlagen werden.</li>
+  <li>Der Vorstand kann außerhalb der regulären Wahlen nur aus wichtigem Grund abgewählt werden und durch einen Neuen ersetzt werden.
+  Wichtige Gründe sind insbesondere:
+    <ol type="a">
+      <li>ein die Vereinsziele schädigendes Verhalten</li>
+      <li>die Verletzung satzungsmäßiger Pflichten</li>
+      <li>Rücktritt vom Amt</li>
+      <li>Geschäftsunfähigkeit durch Krankheit oder Unauffindbarkeit.</li>
+    </ol>
+  </li>
+  <li>Wiederwahl ist zulässig.</li>
+  <li>Der Vorstand bleibt solange im Amt, bis ein neuer Vorstand gewählt ist.</li>
+  <li>Dem Vorstand obliegt die Führung der laufenden Geschäfte des Vereins. Er hat insbesondere folgende Aufgaben:
+    <ol type="a">
+      <li>die Führung der Geschäfte des Vereins,</li>
+      <li>die Einberufung und Vorbereitung der Mitgliederversammlung,</li>
+      <li>die Ausführung von Beschlüssen der Mitgliederversammlung,</li>
+      <li>die Verwaltung über das Vereinsvermögens,</li>
+      <li>die Anfertigung eines schriftlichen Jahresberichts,</li>
+      <li>die Berufung von Teams.</li>
+    </ol>
+  Bei alle Aufgaben und Verpflichtungen hat der Vorstand die Entscheidungsbefugnis bis einschließlich 5000,- Euro. 
+  Darüberhinausgehende Entscheidungen und Verpflichtungen unterliegen der Beschlussfassung der geschäftsführenden Versammlung.</li>
+  <li>Die Beschlüsse des Vorstandes sind zu protokollieren und die Vereinsmitglieder über diese zu informieren.</li>
+  <li>Der Vorstand kann zur Erledigung der laufenden Geschäfte eine oder mehrere Personen berufen, diese werden im Rahmen seiner Weisung tätig.</li>
+  <li>Der Vorstand haftet nur für grobe Fahrlässigkeit.</li>
+  <li>Näheres regelt die Geschäftsordnung des Vorstandes.</li>
+</ol>
 
 ## § 14 Geschäftsführende Versammlung
 1. Die Geschäftsführende Versammlung ist die Versammlung der regulären Mitglieder.
