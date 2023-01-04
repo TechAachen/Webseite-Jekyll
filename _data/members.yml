@@ -74,15 +74,6 @@
     Bei uns könnt ihr an euren eigenen Projekten arbeiten,
     aber auch gemeinsam mit anderen Vereinsmitgliedern das Projekt weiter verbessern und die Werkstatt ausbauen.
 
-- name: Windfänger
-  type: Mitglied
-  since: 2018
-  image: img/members/windfaenger.jpg
-  link: http://windfaenger.com/
-  order: windfaenger
-  description: |
-    Wir als Windfänger bringen Ideen von Studenten und Interessierten aufs Wasser und forschen intensiv an neuen Konzepten für den Windsurfsport.
-
 - name: Enactus
   type: Mitglied
   since: 2018
