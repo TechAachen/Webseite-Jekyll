@@ -560,9 +560,14 @@
   datum: "2023-05-03"
   uhrzeit: "20.00h"
   ort: "Raum Flex Office 2, 3.OG, Collective Incubator, Jülicher Str. 209d, 52070 Aachen"
+  
+- title: Geschäftsführende Versammlung
+  datum: "2023-05-17"
+  uhrzeit: "20.00h"
+  ort: "Raum Flex Office 2, 3.OG, Collective Incubator, Jülicher Str. 209d, 52070 Aachen"
 
 - title: Symposium
-  datum: "2023-05-13"
+  datum: "2023-05-20"
   uhrzeit: "14.00h"
   dauer: 8
-  ort: "tbd"
+  ort: "Generali-Saal, 6. OG, SuperC, Templergraben 57, 52062"
