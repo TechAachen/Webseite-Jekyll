@@ -1,29 +1,22 @@
-- name: Kathrin Böttger
-  function: "1. Vorsitzende"
+- name: Joël Schulz-Andres
+  function: "1. Vorsitzender"
   active: true
-  image: "img/persons/kathrin-boettger.jpg"
+  image: "img/persons/blank.svg"
   order: 0_vorstand_1
   boardmember: true
 
-- name: Raphael Lehmann
+- name: Leo Moser
   function: "2. Vorsitzender"
   active: true
-  image: "img/persons/raphael-lehmann.jpg"
+  image: "img/persons/blank.svg"
   order: 0_vorstand_2
   boardmember: true
 
-- name: Silas Weidenmüller
+- name: Mattis Kieffer
   function: "3. Vorsitzender"
   active: true
-  image: "img/persons/silas-weidenmueller.jpg"
+  image: "img/persons/blank.svg"
   order: 0_vorstand_3
-  boardmember: true
-
-- name: Federica Azzalin
-  function: "4. Vorsitzende"
-  active: true
-  image: "img/persons/federica-azzalin.jpg"
-  order: 0_vorstand_4
   boardmember: true
 
 - name: Und Du?
