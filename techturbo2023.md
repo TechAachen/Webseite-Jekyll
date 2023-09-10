@@ -3,14 +3,14 @@ layout: paperwork
 title: TechTurbo 2023
 ---
 
-_(English version below)_
-
-_(Deutsche Version)_
+[_(English version below)_](#english)
 
 <div class="row">
   <div style="margin-left: auto; margin-right: auto;"><a href="https://shop.techaachen.de/locale/set?locale=de&next=/TechAachen/TT23/" class="btn btn-primary btn-xl" title="Anmeldung">Anmeldung</a></div>
 </div>
 <br />
+
+_(Deutsche Version)_
 
 
 Wir freuen uns jetzt die Anmeldung für das Sprint-Wochenende vom 30. November 2023 bis 03. Dezember 2023 starten zu können.
@@ -25,7 +25,7 @@ Einen Fragebogen zu den Workshops, die dich interessieren findest du unter der f
 
 Die Eigenbeteiligung beträgt bis zum Mitte Oktober 35 Euro und wird danach aufgrund der Kosten die mit einer späteren Anmeldung einhergehen vorraussichtlich 45 Euro kosten.
 
-Nach aktueller Kalkulation kostet das Wochenende 130 Euro pro Person, jedoch haben wir inzwischen genügend Fördermittel und Sponsorings eingeworben, sodass ihr nur einen Anteil davon bezahlen müsst.
+Nach aktueller Kalkulation kostet das Wochenende 140 Euro pro Person, jedoch haben wir inzwischen genügend Fördermittel und Sponsorings eingeworben, sodass ihr nur einen Anteil davon bezahlen müsst.
 
 Sollten die Kosten aus irgendwelchen Gründen zu hoch für jemanden von euch sein, sagt uns gerne Bescheid und wir übernehmen die vollen Kosten!
 (Nicht-Studierende müssen leider die vollen Kosten zahlen.)
@@ -48,6 +48,7 @@ Wir freuen uns sehr auf ein gemeinsames Wochenende! Sagt einfach Bescheid, falls
 
 _(English version)_
 
+<a name="english"></a>
 
 <div class="row">
   <div style="margin-left: auto; margin-right: auto;"><a href="https://shop.techaachen.de/locale/set?locale=en&next=/TechAachen/TT23/" class="btn btn-primary btn-xl" title="Registration">Registration</a></div>
@@ -68,7 +69,7 @@ You can find a questionnaire about which workshops you are interested in under t
 
 Your payment is 35 Euro until the middle of October and after that it will probably be 45 Euro due to the costs associated with a later registration.
 
-According to the current calculation, the weekend will cost 130 Euro per person, but meanwhile we have raised enough funds and sponsorships so that you will only have to pay a share of it.
+According to the current calculation, the weekend will cost 140 Euro per person, but meanwhile we have raised enough funds and sponsorships so that you will only have to pay a share of it.
 If for any reason the cost is too high for any of you, please let us know and we will cover the full cost!
 (Unfortunately, non-students have to pay the full costs.)
 
