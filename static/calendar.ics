@@ -41,8 +41,8 @@ END:VTIMEZONE
 {% if endtag > 31 -%}
 {% assign tag_uebertrag = endtag | modulo: 31 -%}
 {% assign endtag = endtag | divided_by: 31 | floor | times: 31 -%}
+{% else -%}
 {% assign tag_uebertrag = 0 -%}
-{% endif -%}
 {% endif -%}
 {% assign tmp_datum = startjahr | append: "-" | append: startmonat | append: "-" | append: endtag -%}
 {% assign truncated = tmp_datum | date: '%d' -%}
