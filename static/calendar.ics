@@ -47,7 +47,7 @@ END:VTIMEZONE
 {% if tag_uebertrag > 0-%}
 {% assign endmonat = startmonat | plus: 1 -%}
 {% else -%}
-{% assign endmonat = startmonat -%}
+{% assign endmonat = startmonat | plus: 0 -%}
 {% endif -%}
 {% if endmonat > 12-%}
 {% assign endmonat = endmonat | modulo: 12 -%}
