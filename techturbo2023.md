@@ -55,7 +55,7 @@ _(English version)_
 </div>
 <br />
 
-# TechTurbo 2022
+# TechTurbo 2023
 
 We are pleased to launch the registration for the Sprint-Weekend, from November 30, 2023 to December 03, 2023.
 
