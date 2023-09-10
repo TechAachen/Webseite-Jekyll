@@ -5,27 +5,27 @@ title: TechTurbo 2022
 
 _(English version below)_
 
-<div class="row">
+<!--<div class="row">
   <div style="margin-left: auto; margin-right: auto;"><a href="https://forms.gle/xmjd3Awropn2J9fi7" class="btn btn-primary btn-xl" title="Anmeldung">Anmeldung</a></div>
 </div>
-<br />
+<br />-->
 
 
 Wir freuen uns jetzt die Anmeldung für das Sprint-Wochenende vom 24.-27. November 2022 starten zu können.
 
 Dieses Jahr werden wir 115 Plätze zur Verfügung haben. Es gibt also nochmal deutlich mehr Platz und mehr Zeit für eure Projekte als im letzten Jahr! Hier gilt: First come, first served!
-Du kannst dich als Individualperson mit diesem Formular anmelden: [https://forms.gle/xmjd3Awropn2J9fi7](https://forms.gle/xmjd3Awropn2J9fi7)
+Du kannst dich als Individualperson mit diesem Formular anmelden: <!--[https://forms.gle/xmjd3Awropn2J9fi7](https://forms.gle/xmjd3Awropn2J9fi7)-->
 Vereine haben außerdem die Möglichkeit ein gewisses Kontingent an Plätzen zu reservieren, falls ihr in nächster Zeit mit Mitgliederzuwachs rechnet, der sich jetzt noch nicht anmelden kann. Dazu kontaktiert ihr uns am besten und wir finden da eine Lösung!
 
 ### Kosten
 
-Um dich verbindlich anzumelden, überweise bitte eine Anzahlung an das TechAachen Konto:
+<!--Um dich verbindlich anzumelden, überweise bitte eine Anzahlung an das TechAachen Konto:
 ```
 Empfänger: TechAachen e.V.
 Verwendungszweck: <Name> <Initiative> Eigenbeteiligung (z.B. Kathrin Böttger FVA Anzahlung)
 IBAN: DE13 3906 0180 0826 7730 14
 BIC: GENODED1AAC
-```
+```-->
 
 Die Eigenbeteiligung beträgt bis zum 13. November 45 Euro und danach 55 Euro.
 Nach aktueller Kalkulation kostet das Wochenende 110 Euro pro Person, jedoch haben wir inzwischen genügend Fördermittel und Sponsorings eingeworben, sodass ihr nur einen Anteil davon bezahlen müsst.
@@ -46,10 +46,10 @@ Wir freuen uns sehr auf ein gemeinsames Wochenende! Sagt einfach Bescheid, falls
 P.S.: Wir verlosen unter allen Anmeldungen, die bis zum 30. August eingehen, zwei TechAachen Hoodies. Der Verein, der (prozentual an der Mitgliederstärke gemessen) am besten vertreten ist, gewinnt außerdem 2 Kästen Getränke!
 
 
-<div class="row">
+<!--<div class="row">
   <div style="margin-left: auto; margin-right: auto;"><a href="https://forms.gle/xmjd3Awropn2J9fi7" class="btn btn-primary btn-xl" title="Anmeldung">Anmeldung</a></div>
 </div>
-<br />
+<br />-->
 
 <hr />
 
@@ -60,18 +60,18 @@ _(English version)_
 We are pleased to launch the registration for the Sprint-Weekend, November 24-27, 2022.
 
 This year we will have 115 spots available. So there will be much more space and more time for your projects than last year! The motto is: first come, first served!
-You can register individually by filling in this form: [https://forms.gle/xmjd3Awropn2J9fi7](https://forms.gle/xmjd3Awropn2J9fi7)
+You can register individually by filling in this form: [https://forms.gle/xmjd3Awropn2J9fi7](https://forms.gle/xmjd3Awropn2J9fi7)-->
 There is also the possibility to reserve a certain number of spots as an association, if you expect an increase in members in the near future who cannot register yet. Might that be the case, please contact us and we will find a solution!
 
 ### Costs
 
-To register bindingly, please transfer a down payment to the TechAachen account:
+<!--To register bindingly, please transfer a down payment to the TechAachen account:
 ```
 Recipient: TechAachen e.V.
 Reference: <Name> <Initiative> Eigenbeteiligung (e.g. Kathrin Böttger FVA Anzahlung)
 IBAN: DE13 3906 0180 0826 7730 14
 BIC: GENODED1AAC
-```
+```-->
 
 Your payment is 45€ until November 13th and 55€ after that.
 According to the current calculation, the weekend will cost 110 Euro per person, but meanwhile we have raised enough funds and sponsorships so that you will only have to pay a share of it.
@@ -91,6 +91,6 @@ We are very much looking forward to spending a weekend together! Just let us kno
 
 P.S.: We will give away two TechAachen hoodies among all registrations received until August 30th. The club that is best represented (in relation to the number of members) will also win 2 crates of drinks!
 
-<div class="row">
+<!--a<div class="row">
   <div style="margin-left: auto; margin-right: auto;"><a href="https://forms.gle/xmjd3Awropn2J9fi7" class="btn btn-primary btn-xl" title="Registration">Registration</a></div>
-</div>
+</div>-->
