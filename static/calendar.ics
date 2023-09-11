@@ -32,7 +32,7 @@ END:VTIMEZONE
 {%  assign dauer = 100 -%}
 {% endif -%}
 {% assign end_uhrzeit = termin.uhrzeit | remove: "h" | remove: "." | plus: dauer -%}
-{% assign dauer_tage = end_uhrzeit | divided_by: 2400 -%}
+{% assign dauer_tage = end_uhrzeit | divided_by: 2400 | floor -%}
 {% assign end_uhrzeit = end_uhrzeit | modulo: 2400 -%}
 {% assign starttag = termin.datum | date: '%d' -%}
 {% assign startmonat = termin.datum | date: '%m' -%}
@@ -60,7 +60,10 @@ END:VTIMEZONE
 {% else -%}
 {% assign endjahr = startjahr -%}
 {% endif -%}
-{% assign endtag = truncated | modulo: 31 | plus: tag_uebertrag | plus: 1 | modulo: 32 | minus: 1-%}
+{% assign endtag = truncated | plus: tag_uebertrag -%}
+{% if endtag > 31 -%}
+{% assign endtag = endtag | modulo: 31 -%}
+{% endif -%}
 {% assign enddatum = endjahr | append: "-" | append: endmonat | append: "-" | append: endtag -%}
 {% assign enddatum_formatted = enddatum | date: '%Y-%m-%d' -%}
 {% assign end = enddatum_formatted | remove: "-" | append: "T" | append: end_uhrzeit | append: "00" -%}
