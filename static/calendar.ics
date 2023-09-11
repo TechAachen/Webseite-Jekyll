@@ -34,9 +34,9 @@ END:VTIMEZONE
 {% assign end_uhrzeit = termin.uhrzeit | remove: "h" | remove: "." | plus: dauer -%}
 {% assign dauer_tage = end_uhrzeit | divided_by: 2400 -%}
 {% assign end_uhrzeit = end_uhrzeit | modulo: 2400 -%}
-{% assign starttag = termin.datum | date: '%d' %}
-{% assign startmonat = termin.datum | date: '%m' %}
-{% assign startjahr = termin.datum | date: '%Y' %}
+{% assign starttag = termin.datum | date: '%d' -%}
+{% assign startmonat = termin.datum | date: '%m' -%}
+{% assign startjahr = termin.datum | date: '%Y' -%}
 {% assign endtag = starttag | plus: dauer_tage -%}
 {% if endtag > 31 -%}
 {% assign tag_uebertrag = endtag | modulo: 31 -%}
