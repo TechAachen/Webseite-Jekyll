@@ -27,7 +27,9 @@ END:VTIMEZONE
 {% assign start_uhrzeit = termin.uhrzeit | remove: "h" | remove: "." | append: "00" -%}
 {% assign start = termin.datum | remove: "-" | append: "T" | append: start_uhrzeit -%}
 {% if termin.dauer -%}
-{%  assign dauer = termin.dauer | times: 100 -%}
+{%  assign dauer_stunden = termin.dauer | floor -%}
+{%  assign dauer_minuten = termin.dauer | minus: dauer_stunden | times: 60 -%}
+{%  assign dauer = dauer_stunden | times: 100 | plus: dauer_minuten -%}
 {% else -%}
 {%  assign dauer = 100 -%}
 {% endif -%}
