@@ -15,6 +15,11 @@ _(Deutsche Version)_
 
 Wir freuen uns jetzt die Anmeldung für das Sprint-Wochenende vom 30. November 2023 bis 03. Dezember 2023 starten zu können.
 
+
+Bei dem Sprintwochende fahren über 100 Studierende aus den technischen Initiativen gemeinsam 3 Tage lang zu einer Jugendherberge in die Eifel. Dort werden viele verschiedene Workshops ausgerichtet, man kann Arbeitstreffen in Teams organisieren, oder auch alleine arbeiten.  Dafür stehen mehrere Konferenzräume, ein Kaminzimmer und eine Turnhalle zur Verfügung. 
+Das Wochendende ist also die perfekte Möglichkeit, sich weiterzubilden, andere Initiativen kennenzulernen, sich auszutauschen oder auch einfach nur ein bisschen Teambuilding zu betreiben.
+
+
 Dieses Jahr werden wir wieder ca. 120 Plätze zur Verfügung haben. Hier gilt: First come, first served!
 Du kannst dich als Individualperson mit diesem Formular anmelden: [https://shop.techaachen.de/TechAachen/TT23/](https://shop.techaachen.de/locale/set?locale=de&next=/TechAachen/TT23/)
 Vereine haben außerdem die Möglichkeit ein gewisses Kontingent an Plätzen zu reservieren, falls ihr in nächster Zeit mit Mitgliederzuwachs rechnet, der sich jetzt noch nicht anmelden kann. Dazu kontaktiert ihr uns am besten und wir finden da eine Lösung!
@@ -58,6 +63,11 @@ _(English version)_
 # TechTurbo 2023
 
 We are pleased to launch the registration for the Sprint-Weekend, from November 30, 2023 to December 03, 2023.
+
+
+During the Sprint-weekend, over 100 students from the technical initiatives travel together for 3 days to a hostel in the Eifel. Many different workshops are held there, and students can organize meetings in teams or work alone.  Several conference rooms, a fireside lounge and a gym are available for this purpose. 
+The weekend is therefore the perfect opportunity for further expansion of knowledge, getting to know other initiatives, exchanging ideas or simply doing a bit of team building.
+
 
 This year we will have about 120 spots available again. The motto is: first come, first served!
 You can register individually by filling in this form: [https://shop.techaachen.de/TechAachen/TT23/](https://shop.techaachen.de/locale/set?locale=en&next=/TechAachen/TT23/)
