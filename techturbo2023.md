@@ -28,7 +28,7 @@ Einen Fragebogen zu den Workshops, die dich interessieren findest du unter der f
 
 ### Kosten
 
-Die Eigenbeteiligung beträgt bis zum Mitte Oktober 35 Euro und wird danach aufgrund der Kosten die mit einer späteren Anmeldung einhergehen vorraussichtlich 45 Euro kosten.
+Die Eigenbeteiligung beträgt 35 Euro.
 
 Nach aktueller Kalkulation kostet das Wochenende 140 Euro pro Person, jedoch haben wir inzwischen genügend Fördermittel und Sponsorings eingeworben, sodass ihr nur einen Anteil davon bezahlen müsst.
 
@@ -41,7 +41,7 @@ Wir werden genug Platz für alle haben, um gemeinsam zu Arbeiten und uns auszuta
 
 ### An- und Abreise
 
-Anreisen könnt ihr am Donnerstag den 30.11. zwischen 14 und 17 Uhr. Entweder ihr organisiert euch in Fahrgemeinschaften oder ihr erreicht innerhalb von ca. 1,5 h per ÖPNV die Unterkunft von Aachen aus.
+Anreisen könnt ihr am Donnerstag den 30.11. zwischen 17 und 18 Uhr. Entweder ihr organisiert euch in Fahrgemeinschaften oder ihr erreicht innerhalb von ca. 1,5 h per ÖPNV die Unterkunft von Aachen aus.
 Unser Programm und die offizielle Begrüßung werden am Donnerstag um 18 Uhr starten. Abreise ist am Sonntag den 03.12. gegen 16 Uhr.
 Wir freuen uns sehr auf ein gemeinsames Wochenende! Sagt einfach Bescheid, falls ihr noch Fragen oder Anmerkungen habt.
 
@@ -77,7 +77,7 @@ You can find a questionnaire about which workshops you are interested in under t
 
 ### Costs
 
-Your payment is 35 Euro until the middle of October and after that it will probably be 45 Euro due to the costs associated with a later registration.
+Your payment is 35 Euro.
 
 According to the current calculation, the weekend will cost 140 Euro per person, but meanwhile we have raised enough funds and sponsorships so that you will only have to pay a share of it.
 If for any reason the cost is too high for any of you, please let us know and we will cover the full cost!
@@ -89,7 +89,7 @@ We will have enough space for everyone to work together and exchange experiences
 
 ### Arrival and departure
 
-You can arrive on Thursday the 30.11. between 2 and 5 pm. You can reach the accommodation either by carpooling or by public transport from Aachen (estimated time: approx. 1.5 h)
+You can arrive on Thursday the 30.11. between 5 and 6 pm. You can reach the accommodation either by carpooling or by public transport from Aachen (estimated time: approx. 1.5 h)
 Our program and the official welcome will start on Thursday at 6 pm. The departure is on Sunday 03.12. at 4 pm.
 We are very much looking forward to spending a weekend together! Just let us know if you have any questions or comments.
 
