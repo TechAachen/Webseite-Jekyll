@@ -643,6 +643,73 @@
   dauer: 62
   ort: "Gruppenunterkunft Auszeit Eifel, Auf der Batterie 9, Schleiden"
 
+- title: Frühstück
+  datum: "2023-12-02"
+  uhrzeit: "08.30h"
+  dauer: 1.5
+  ort: "Einstein, Gruppenunterkunft Auszeit Eifel, Auf der Batterie 9, Schleiden"
+- title: Kommunikation Workshop
+  datum: "2023-12-02"
+  uhrzeit: "09.30h"
+  dauer: 3
+  ort: "Raum Curie, Gruppenunterkunft Auszeit Eifel, Auf der Batterie 9, Schleiden"
+- title: Altium Designer Workshop
+  datum: "2023-12-02"
+  uhrzeit: "10.00h"
+  dauer: 2.5
+  ort: "Raum Yousafzai, Gruppenunterkunft Auszeit Eifel, Auf der Batterie 9, Schleiden"
+- title: Gruppenfoto
+  datum: "2023-12-02"
+  uhrzeit: "12.30h"
+  dauer: 0.5
+  ort: "Gruppenunterkunft Auszeit Eifel, Auf der Batterie 9, Schleiden"
+- title: Mittagessen
+  datum: "2023-12-02"
+  uhrzeit: "13.00h"
+  dauer: 1
+  ort: "Einstein, Gruppenunterkunft Auszeit Eifel, Auf der Batterie 9, Schleiden"
+- title: FreeRTOS Workshop
+  datum: "2023-12-02"
+  uhrzeit: "15.30h"
+  dauer: 1.5
+  ort: "Curie, Gruppenunterkunft Auszeit Eifel, Auf der Batterie 9, Schleiden"
+- title: LaTeX Not so Beginner Workshop
+  datum: "2023-12-02"
+  uhrzeit: "15.30h"
+  dauer: 1
+  ort: "Yousafzai, Gruppenunterkunft Auszeit Eifel, Auf der Batterie 9, Schleiden"
+- title: KiCAD Workshop
+  datum: "2023-12-02"
+  uhrzeit: "17.30h"
+  dauer: 1.5
+  ort: "Curie, Gruppenunterkunft Auszeit Eifel, Auf der Batterie 9, Schleiden"
+- title: Indesign Workshop
+  datum: "2023-12-02"
+  uhrzeit: "17.30h"
+  dauer: 1.5
+  ort: "Yousafzai, Gruppenunterkunft Auszeit Eifel, Auf der Batterie 9, Schleiden"
+- title: Abendessen
+  datum: "2023-12-02"
+  uhrzeit: "21.00h"
+  dauer: 1
+  ort: "Curie, Gruppenunterkunft Auszeit Eifel, Auf der Batterie 9, Schleiden"
+
+- title: Frühstück
+  datum: "2023-12-02"
+  uhrzeit: "08.30h"
+  dauer: 1.5
+  ort: "Einstein, Gruppenunterkunft Auszeit Eifel, Auf der Batterie 9, Schleiden"
+- title: Mittagessen
+  datum: "2023-12-02"
+  uhrzeit: "13.00h"
+  dauer: 1
+  ort: "Einstein, Gruppenunterkunft Auszeit Eifel, Auf der Batterie 9, Schleiden"
+- title: Abendessen
+  datum: "2023-12-02"
+  uhrzeit: "21.00h"
+  dauer: 1
+  ort: "Curie, Gruppenunterkunft Auszeit Eifel, Auf der Batterie 9, Schleiden"
+
 - title: Weihnachtsfeier
   datum: "2023-12-13"
   uhrzeit: "18.00h"
