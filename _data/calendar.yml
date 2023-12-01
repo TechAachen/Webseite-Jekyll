@@ -643,7 +643,6 @@
   dauer: 62
   ort: "Gruppenunterkunft Auszeit Eifel, Auf der Batterie 9, Schleiden"
 
-  # Techturbo Veranstaltungen Samstag:
 - title: Frühstück
   datum: "2023-12-02"
   uhrzeit: "08.30h"
@@ -695,7 +694,6 @@
   dauer: 1
   ort: "Curie, Gruppenunterkunft Auszeit Eifel, Auf der Batterie 9, Schleiden"
 
- # Techturbo 2023 Sonntag
 - title: Frühstück
   datum: "2023-12-02"
   uhrzeit: "08.30h"
