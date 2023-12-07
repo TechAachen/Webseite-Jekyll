@@ -710,8 +710,14 @@
   dauer: 1
   ort: "Curie, Gruppenunterkunft Auszeit Eifel, Auf der Batterie 9, Schleiden"
 
-- title: Weihnachtsfeier
+- title: Geschäftsführende Versammlung
   datum: "2023-12-13"
   uhrzeit: "18.00h"
+  dauer: 2
+  ort: "Raum 2090|U203 (FT103), Melatener Str. 23-25"
+
+- title: Weihnachtsempfang
+  datum: "2023-12-13"
+  uhrzeit: "20.00h"
   dauer: 4
-  ort: "to be announced soon"
+  ort: "Raum 2090|U203 (FT103), Melatener Str. 23-25"
