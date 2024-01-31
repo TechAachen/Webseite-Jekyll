@@ -26,15 +26,53 @@ END:VTIMEZONE
 {% for termin in site.data.calendar -%}
 {% assign start_uhrzeit = termin.uhrzeit | remove: "h" | remove: "." | append: "00" -%}
 {% assign start = termin.datum | remove: "-" | append: "T" | append: start_uhrzeit -%}
+{% assign start_stunden = start_uhrzeit | divided_by: 100 | floor -%}
+{% assign start_minuten = start_uhrzeit | modulo: 100 | divided_by: 60 -%}
+{% assign start_rational = start_stunden | plus: start_minuten -%}
 {% if termin.dauer -%}
-{%  assign dauer = termin.dauer | times: 100 -%}
+{%  assign dauer = termin.dauer -%}
 {% else -%}
-{%  assign dauer = 100 -%}
+{%  assign dauer = 1 -%}
 {% endif -%}
-{% assign end_uhrzeit = termin.uhrzeit | remove: "h" | remove: "." | plus: dauer -%}
-{% assign dauer_tage = end_uhrzeit | divided_by: 2400 -%}
+{% assign end_rational = start_rational | plus: termin.dauer -%}
+{% assign end_stunden = end_rational | floor}
+{% assign end_minuten = end_rational | minus: end_stunden | times: 60 -%}
+{% assign end_uhrzeit = end_stunden | times: 100 | plus: end_minuten -%}
+{% assign dauer_tage = end_uhrzeit | divided_by: 2400 | floor -%}
 {% assign end_uhrzeit = end_uhrzeit | modulo: 2400 -%}
-{% assign end = termin.datum | remove: "-" | plus: dauer_tage | append: "T" | append: end_uhrzeit | append: "00" -%}
+{% assign starttag = termin.datum | date: '%d' -%}
+{% assign startmonat = termin.datum | date: '%m' -%}
+{% assign startjahr = termin.datum | date: '%Y' -%}
+{% assign endtag = starttag | plus: dauer_tage -%}
+{% if endtag > 31 -%}
+{% assign tag_uebertrag = endtag | modulo: 31 -%}
+{% assign endtag = endtag | divided_by: 31 | floor | times: 31 -%}
+{% else -%}
+{% assign tag_uebertrag = 0 -%}
+{% endif -%}
+{% assign tmp_datum = startjahr | append: "-" | append: startmonat | append: "-" | append: endtag -%}
+{% assign truncated = tmp_datum | date: '%d' -%}
+{% if tag_uebertrag > 0-%}
+{% assign endmonat = startmonat | plus: 1 -%}
+{% else -%}
+{% assign endmonat = startmonat | plus: 0 -%}
+{% endif -%}
+{% if endmonat > 12-%}
+{% assign endmonat = endmonat | modulo: 12 -%}
+{% assign monat_uebertrag = 1 -%}
+{% endif -%}
+{% if monat_uebertrag > 0 -%}
+{% assign endjahr = startjahr | plus: 1 -%}
+{% else -%}
+{% assign endjahr = startjahr -%}
+{% endif -%}
+{% assign endtag = truncated | plus: tag_uebertrag -%}
+{% if endtag > 31 -%}
+{% assign endtag = endtag | modulo: 31 -%}
+{% endif -%}
+{% assign enddatum = endjahr | append: "-" | append: endmonat | append: "-" | append: endtag -%}
+{% assign enddatum_formatted = enddatum | date: '%Y-%m-%d' -%}
+{% assign end = enddatum_formatted | remove: "-" | append: "T" | append: end_uhrzeit | append: "00" -%}
 BEGIN:VEVENT
 UID:meeting+{{ start }}@techaachen.de
 SUMMARY:TechAachen - {{ termin.title }}
