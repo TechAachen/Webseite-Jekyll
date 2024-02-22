@@ -1,7 +1,7 @@
 - name: Jannis Bergmann
   function: "1. Vorsitzender"
   active: true
-  image: "img/persons/blank.svg"
+  image: "img/persons/jannis-bergmann.jpg"
   order: 0_vorstand_1
   boardmember: true
 
@@ -15,7 +15,7 @@
 - name: Scarlet Song
   function: "3. Vorsitzende"
   active: true
-  image: "img/persons/blank.svg"
+  image: "img/persons/scarlet-song.jpg"
   order: 0_vorstand_3
   boardmember: true
 
