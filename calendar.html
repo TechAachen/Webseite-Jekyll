@@ -52,7 +52,7 @@ slogan: Termine
             <div class="align-items-center">
                 {% for termin in site.data.calendar -%}
                 {% unless termin.title contains "Geschäftsführende Versammlung" or termin.title contains "TechTreff" -%}
-                <div class="termin" date="{{ termin.datum }}"><p><b>{{ termin.title }}</b><br /> {{ termin.datum }}, {{ termin.uhrzeit }}<br /> Ort: {{ termin.ort }}</p></div>
+                <div class="termin" date="{{ termin.datum }}"><p><b>{{ termin.title }}</b><br /> {{ termin.datum | date: "%d.%m.%Y" }}, {{ termin.uhrzeit }}<br /> Ort: {{ termin.ort }}</p></div>
                 {% endunless -%}
                 {% endfor -%}
             </div>
