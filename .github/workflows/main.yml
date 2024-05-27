@@ -24,7 +24,9 @@ jobs:
        sudo bundle install
        bundle exec jekyll --version
        bundle exec jekyll build
-       echo "Convert iCalendar file line endings to CRLF"
+
+    - name: Convert iCalendar file line endings to CRLF
+      run: |
        cp  _site/techaachen-calendar.ics _site/techaachen-calendar.ics.in
        sed $'s/$/\r/' _site/techaachen-calendar.ics.in > _site/techaachen-calendar.ics
        rm _site/techaachen-calendar.ics.in
