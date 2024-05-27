@@ -821,6 +821,18 @@
   datum: "2024-11-27"
   uhrzeit: "20.00h"
   ort: "tbd"
+
+- title: TechTurbo 2024
+  datum: "2023-11-28"
+  uhrzeit: "18.00h"
+  dauer: 54
+  ort: "Gruppenunterkunft Auszeit Eifel, Auf der Batterie 9, Schleiden"
+- title: TechTurbo 2024
+  datum: "2023-12-01"
+  uhrzeit: "00.00h"
+  dauer: 14
+  ort: "Gruppenunterkunft Auszeit Eifel, Auf der Batterie 9, Schleiden"
+
 - title: Geschäftsführende Versammlung
   datum: "2024-12-11"
   uhrzeit: "20.00h"
