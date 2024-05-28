@@ -23,8 +23,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
 END:STANDARD
 END:VTIMEZONE
+{% assign uids = "" -%}
 {% for termin in site.data.calendar -%}
 {% assign start_date = termin.datum | append: " " | append: termin.uhrzeit | remove: "h" | replace: ".", ":" | date: '%s' -%}
+{% assign start = start_date | date: '%Y%m%dT%H%M%S' -%}
+{% if uids contains start -%}
+{%  assign uidaddition = termin.ort | url_encode -%}
+{%  assign uid = start | append: uidaddition -%}
+{% else -%}
+{%  assign uid = start -%}
+{% endif -%}
+{% assign uids = uids | append: "," | append: uid -%}
 {% if termin.dauer -%}
 {%  assign dauer_seconds = termin.dauer | times: 3600 -%}
 {% else -%}
@@ -32,10 +41,10 @@ END:VTIMEZONE
 {% endif -%}
 {% assign end = start_date | plus: dauer_seconds | round | date: '%Y%m%dT%H%M%S' -%}
 BEGIN:VEVENT
-UID:meeting+{{ start_date | date: '%Y%m%dT%H%M%S' }}@techaachen.de
+UID:meeting+{{ uid }}@techaachen.de
 SUMMARY:TechAachen - {{ termin.title }}
 LOCATION:{{ termin.ort }}
-DTSTART;TZID=Europe/Berlin:{{ start_date | date: '%Y%m%dT%H%M%S' }}
+DTSTART;TZID=Europe/Berlin:{{ start }}
 DTEND;TZID=Europe/Berlin:{{ end }}
 DTSTAMP:{{ site.time | date: '%Y%m%dT%H%M%SZ' }}
 END:VEVENT
