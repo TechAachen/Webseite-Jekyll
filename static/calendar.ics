@@ -24,22 +24,18 @@ RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
 END:STANDARD
 END:VTIMEZONE
 {% for termin in site.data.calendar -%}
-{% assign start_uhrzeit = termin.uhrzeit | remove: "h" | remove: "." | append: "00" -%}
-{% assign start = termin.datum | remove: "-" | append: "T" | append: start_uhrzeit -%}
+{% assign start_date = termin.datum | append: " " | append: termin.uhrzeit | remove: "h" | replace: ".", ":" | date: '%s' -%}
 {% if termin.dauer -%}
-{%  assign dauer = termin.dauer | times: 100 -%}
+{%  assign dauer_seconds = termin.dauer | times: 3600 -%}
 {% else -%}
-{%  assign dauer = 100 -%}
+{%  assign dauer_seconds = 3600 -%}
 {% endif -%}
-{% assign end_uhrzeit = termin.uhrzeit | remove: "h" | remove: "." | plus: dauer -%}
-{% assign dauer_tage = end_uhrzeit | divided_by: 2400 -%}
-{% assign end_uhrzeit = end_uhrzeit | modulo: 2400 -%}
-{% assign end = termin.datum | remove: "-" | plus: dauer_tage | append: "T" | append: end_uhrzeit | append: "00" -%}
+{% assign end = start_date | plus: dauer_seconds | round | date: '%Y%m%dT%H%M%S' -%}
 BEGIN:VEVENT
-UID:meeting+{{ start }}@techaachen.de
+UID:meeting+{{ start_date | date: '%Y%m%dT%H%M%S' }}@techaachen.de
 SUMMARY:TechAachen - {{ termin.title }}
 LOCATION:{{ termin.ort }}
-DTSTART;TZID=Europe/Berlin:{{ start }}
+DTSTART;TZID=Europe/Berlin:{{ start_date | date: '%Y%m%dT%H%M%S' }}
 DTEND;TZID=Europe/Berlin:{{ end }}
 DTSTAMP:{{ site.time | date: '%Y%m%dT%H%M%SZ' }}
 END:VEVENT
