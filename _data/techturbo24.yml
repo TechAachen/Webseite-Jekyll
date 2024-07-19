@@ -1,0 +1,11 @@
+- persons:
+  - name: Jannis Bergmann
+    function: "1. Vorsitzender"
+    image: "img/persons/jannis-bergmann.jpg"
+    order: "0"
+
+  - name: Raphael Lehmann
+    function: "2. Vorsitzender"
+    active: true
+    image: "img/persons/raphael-lehmann.jpg"
+    order: "1"
