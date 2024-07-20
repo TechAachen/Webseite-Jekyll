@@ -1,11 +1,72 @@
-- persons:
+persons:
   - name: Jannis Bergmann
-    function: "1. Vorsitzender"
+    function: "Chief Finance Supervisor"
     image: "img/persons/jannis-bergmann.jpg"
-    order: "0"
+    order: "10"
+    active: true # ignore
+    boardmember: true # ignore
+
+  - name: Vincent Bareiß
+    function: "Chief Finance Officer"
+    active: true
+    image: "img/persons/blank.svg"
+    order: "20"
+    active: true # ignore
+    boardmember: true # ignore
+
+  - name: Niklas Börstinghaus
+    function: "Chief Logistics Officer"
+    active: true
+    image: "img/persons/blank.svg"
+    order: "30"
+    active: true # ignore
+    boardmember: true # ignore
+
+  - name: Leo Moser
+    function: "Chief Logistics Coordinator"
+    active: true
+    image: "img/persons/leo-moser.jpg"
+    order: "40"
+    active: true # ignore
+    boardmember: true # ignore
+
+  - name: Jan Wiechers
+    function: "Chief Content Coordinator"
+    active: true
+    image: "img/persons/blank.svg"
+    order: "50"
+    active: true # ignore
+    boardmember: true # ignore
+
+  - name: Patrick Kramer
+    function: "Chief Content Director"
+    active: true
+    image: "img/persons/blank.svg"
+    order: "60"
+    active: true # ignore
+    boardmember: true # ignore
+
+  - name: Niklas Meyer
+    function: "Partnership Manager"
+    active: true
+    image: "img/persons/blank.svg"
+    order: "70"
+    active: true # ignore
+    boardmember: true # ignore
+
+  - name: Justus Schwarzott
+    function: "Senior Expert Specialist"
+    active: true
+    image: "img/persons/justus-schwarzott.jpg"
+    order: "910"
+    active: true # ignore
+    boardmember: true # ignore
 
   - name: Raphael Lehmann
-    function: "2. Vorsitzender"
+    function: "Senior Expert Specialist"
     active: true
     image: "img/persons/raphael-lehmann.jpg"
-    order: "1"
+    order: "920"
+    active: true # ignore
+    boardmember: true # ignore
+

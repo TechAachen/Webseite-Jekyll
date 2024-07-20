@@ -3,17 +3,21 @@ layout: paperwork
 title: TechTurbo 2024
 ---
 
+<center><h3>
+Save the Date: 28.11. bis 01.12.2024
+</h3></center>
+<hr>
 
 Bei dem Workshop- und Arbeitswochenende fahren über 100 Studierende aus den technischen Initiativen gemeinsam 3 Tage lang zu einer Jugendherberge in die Eifel. Dort werden viele verschiedene Workshops ausgerichtet, man kann Arbeitstreffen in Teams organisieren, oder auch alleine arbeiten.  Dafür stehen mehrere Konferenzräume, ein Gruppenarbeitsraum und ein Stillarbeitsraum und eine Turnhalle zur Verfügung. 
 Das Wochendende ist also die perfekte Möglichkeit, sich weiterzubilden, andere Initiativen kennenzulernen, sich auszutauschen oder auch einfach nur ein bisschen Teambuilding zu betreiben.
 
 Dieses Jahr werden wir ca. 135 Plätze zur Verfügung haben. Hier gilt: First come, first served!
-Du kannst dich als Individualperson bald mit diesem Formular anmelden, den Link dazu werden wir rechtzeitig bekanntgeben.
+Du kannst dich als Individualperson bald anmelden, wo genau werden wir rechtzeitig bekanntgeben.
 Vereine haben außerdem die Möglichkeit ein gewisses Kontingent an Plätzen zu reservieren, falls ihr in nächster Zeit mit Mitgliederzuwachs rechnet, der sich jetzt noch nicht anmelden kann. Dazu kontaktiert ihr uns am besten und wir finden da eine Lösung!
 
 ## Organisation
 
-#### Das Team
+### Das Team
 
 {% include persons.html persons=site.data.techturbo24.persons %}
 
@@ -34,6 +38,6 @@ Wir werden genug Platz für alle haben, um gemeinsam zu Arbeiten und uns auszuta
 
 ### An- und Abreise
 
-Anreisen könnt ihr am Donnerstag den 30.11. zwischen 17 und 18 Uhr. Entweder ihr organisiert euch in Fahrgemeinschaften oder ihr erreicht innerhalb von ca. 1,5 h per ÖPNV die Unterkunft von Aachen aus.
-Unser Programm und die offizielle Begrüßung werden am Donnerstag um 18 Uhr starten. Abreise ist am Sonntag den 03.12. gegen 16 Uhr.
+Anreisen könnt ihr am Donnerstag den 28.11. zwischen 17 und 19 Uhr. Entweder ihr organisiert euch in Fahrgemeinschaften oder ihr erreicht innerhalb von ca. 1,5 h per ÖPNV die Unterkunft von Aachen aus.
+Unser Programm und die offizielle Begrüßung werden am Donnerstag um 20 Uhr starten. Abreise ist am Sonntag den 03.12. gegen 14 Uhr.
 Wir freuen uns sehr auf ein gemeinsames Wochenende! Sagt einfach Bescheid, falls ihr noch Fragen oder Anmerkungen habt.
