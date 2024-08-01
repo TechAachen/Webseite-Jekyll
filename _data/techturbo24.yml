@@ -1,0 +1,95 @@
+persons:
+  - name: Jannis Bergmann
+    function: "Chief Finance Supervisor"
+    image: "img/persons/jannis-bergmann.jpg"
+    order: "10"
+    active: true # ignore
+    boardmember: true # ignore
+
+  - name: Vincent Bareiß
+    function: "Chief Finance Officer"
+    active: true
+    image: "img/persons/vincent-bareiss.jpg"
+    order: "20"
+    active: true # ignore
+    boardmember: true # ignore
+
+  - name: Justus Schwarzott
+    function: "Senior Finance Officer"
+    active: true
+    image: "img/persons/justus-schwarzott.jpg"
+    order: "30"
+    active: true # ignore
+    boardmember: true # ignore
+
+  - name: Raphael Lehmann
+    function: "Senior Finance Advisor"
+    active: true
+    image: "img/persons/raphael-lehmann.jpg"
+    order: "40"
+    active: true # ignore
+    boardmember: true # ignore
+
+  - name: Niklas Meyer
+    function: "Junior Finance Officer"
+    active: true
+    image: "img/persons/niklas-meyer.jpg"
+    order: "50"
+    active: true # ignore
+    boardmember: true # ignore
+
+  - name: Paul Ignatiadis
+    function: "Junior Finance Officer"
+    active: true
+    image: "img/persons/blank.svg"
+    order: "60"
+    active: true # ignore
+    boardmember: true # ignore
+
+  - name: Leo Moser
+    function: "Chief Logistics Supervisor"
+    active: true
+    image: "img/persons/leo-moser.jpg"
+    order: "70"
+    active: true # ignore
+    boardmember: true # ignore
+
+  - name: Niklas Börstinghaus
+    function: "Senior Logistics Officer"
+    active: true
+    image: "img/persons/niklas-boerstinghaus.jpg"
+    order: "80"
+    active: true # ignore
+    boardmember: true # ignore
+
+  - name: Alex Wiechers
+    function: "Chief Programm Officer"
+    active: true
+    image: "img/persons/blank.svg"
+    order: "90"
+    active: true # ignore
+    boardmember: true # ignore
+
+  - name: Patrick Kramer
+    function: "Chief Programm Officer"
+    active: true
+    image: "img/persons/patrick-kramer.jpg"
+    order: "100"
+    active: true # ignore
+    boardmember: true # ignore
+
+  - name: Maximilian Buchholz 
+    function: "Junior Programm Officer"
+    active: true
+    image: "img/persons/blank.svg"
+    order: "110"
+    active: true # ignore
+    boardmember: true # ignore
+
+  - name: Sofia Băcanu 
+    function: "Junior Programm Officer"
+    active: true
+    image: "img/persons/blank.svg"
+    order: "120"
+    active: true # ignore
+    boardmember: true # ignore
