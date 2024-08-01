@@ -78,7 +78,7 @@ persons:
     active: true # ignore
     boardmember: true # ignore
 
-- name: Maximilian Buchholz 
+  - name: Maximilian Buchholz 
     function: "Junior Programm Officer"
     active: true
     image: "img/persons/blank.svg"
@@ -86,7 +86,7 @@ persons:
     active: true # ignore
     boardmember: true # ignore
 
-- name: Sofia Băcanu 
+  - name: Sofia Băcanu 
     function: "Junior Programm Officer"
     active: true
     image: "img/persons/blank.svg"
