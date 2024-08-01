@@ -15,12 +15,6 @@ Dieses Jahr werden wir ca. 135 Plätze zur Verfügung haben. Hier gilt: First co
 Du kannst dich als Individualperson bald anmelden. Wo genau, werden wir rechtzeitig bekanntgeben.
 Vereine haben außerdem die Möglichkeit, ein gewisses Kontingent an Plätzen zu reservieren. Das ist besonders praktisch, falls ihr in nächster Zeit mit Mitgliederzuwachs rechnet, der sich jetzt noch nicht anmelden kann. Dazu kontaktiert ihr uns am besten und wir finden dazu gemeinsam eine Lösung!
 
-## Organisation
-
-### Das Team
-
-{% include persons.html persons=site.data.techturbo24.persons %}
-
 ## Details
 
 ### Kosten
@@ -46,3 +40,8 @@ Wir freuen uns sehr auf ein gemeinsames Wochenende! Sagt einfach Bescheid, falls
   <div style="margin-left: auto; margin-right: auto;"><a href="https://shop.techaachen.de/TechAachen/TT24/" class="btn btn-primary btn-xl" title="Anmeldung">Anmeldung</a></div>
 </div>
 <br />
+
+## Organisation - Das Team
+
+{% include persons.html persons=site.data.techturbo24.persons %}
+
