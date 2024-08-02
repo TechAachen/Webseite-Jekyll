@@ -65,7 +65,7 @@ persons:
   - name: Alex Wiechers
     function: "Chief Programm Officer"
     active: true
-    image: "img/persons/blank.svg"
+    image: "img/persons/alex-wiechers.jpg"
     order: "90"
     active: true # ignore
     boardmember: true # ignore
