@@ -804,6 +804,13 @@
   datum: "2024-10-16"
   uhrzeit: "20.00h"
   ort: "tbd"
+
+- title: Symposium 2024
+  datum: "2024-10-20"
+  uhrzeit: "14.15h"
+  dauer: 8
+  ort: "Aula, Hauptgebäude RWTH, Templergraben 55, Aachen; Anmeldung https://forms.gle/cUqajwBKKW87wNDp6"
+
 - title: Geschäftsführende Versammlung
   datum: "2024-10-30"
   uhrzeit: "20.00h"
