@@ -1,6 +1,6 @@
 ---
 layout: paperwork
-title: TechTurbo 2024
+title: TechTurbo 2025
 ---
 
 <div class="row">
