@@ -32,6 +32,8 @@ Das Ticket kann jederzeit an eine andere Person weitergegeben werden.
 
 Bei Stornierung fallen bis zu 25 € Bearbeitungsgebühr an. Sofern das Event voll finanziert ist, können diese Kosten sinken.
 
+Falls das Event durch TechAachen abgesagt werden muss, werden die vollen Kosten erstattet.
+
 ### Unterkunft
 
 Wir werden genug Platz für alle haben, um gemeinsam zu arbeiten und uns auszutauschen. Es wird mehrere Stillarbeitsräume sowie einen großen Raum zum gemeinsamen Austausch geben. Außerdem gibt es im Haus und auf dem großen Gelände genug Platz um miteinander in Kontakt zu kommen. Hier ein Link zu unserer Unterkunft: [https://www.auszeiteifel-gaestehaus.de](https://www.auszeiteifel-gaestehaus.de){:target="_blank"} in Gemünd in der Eifel.
