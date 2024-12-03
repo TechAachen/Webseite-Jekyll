@@ -30,7 +30,7 @@ Sollten die Kosten aus irgendwelchen Gründen zu hoch für jemanden von euch sei
 
 Das Ticket kann jederzeit an eine andere Person weitergegeben werden.
 
-Bei Stornrierung fallen bis zu 25 € Bearbeitungsgebühr an. Sofern das Event voll finanziert ist, können diese Kosten sinken.
+Bei Stornierung fallen bis zu 25 € Bearbeitungsgebühr an. Sofern das Event voll finanziert ist, können diese Kosten sinken.
 
 ### Unterkunft
 
