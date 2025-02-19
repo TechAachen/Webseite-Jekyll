@@ -853,10 +853,10 @@
   datum: "2025-02-05"
   uhrzeit: "20.00h"
   ort: "Raum 4.29, 4.OG, Super C, Templergraben 57, 52062 Aachen"
-- title: Geschäftsführende Versammlung
+- title: Geschäftsführende Versammlung, ABGESAGT
   datum: "2025-02-19"
-  uhrzeit: "20.00h"
-  ort: "Raum 4.29, 4.OG, Super C, Templergraben 57, 52062 Aachen"
+  uhrzeit: "20.00"
+  ort: "-"
 - title: Geschäftsführende Versammlung
   datum: "2025-03-05"
   uhrzeit: "20.00h"
