@@ -1,14 +1,14 @@
 - name: Niklas Börstinghaus
   function: "1. Vorsitzender"
   active: true
-  image: "img/persons/blank.svg"
+  image: "img/persons/niklas-boerstingshaus2.jpg"
   order: 0_vorstand_1
   boardmember: true
 
 - name: Paul Ignatiadis
   function: "2. Vorsitzender"
   active: true
-  image: "img/persons/blank.svg"
+  image: "img/persons/paul-ignatiadis.jpg"
   order: 0_vorstand_2
   boardmember: true
 
