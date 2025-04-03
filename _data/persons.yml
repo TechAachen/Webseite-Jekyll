@@ -11,7 +11,7 @@
   image: "img/persons/paul-ignatiadis.jpg"
   order: 0_vorstand_2
   boardmember: true
-
+  
 - name: Jannis Bergmann
   function: "3. Vorsitzende"
   active: true
