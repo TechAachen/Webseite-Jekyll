@@ -34,7 +34,7 @@
 - name: Ecurie Aix
   type: Mitglied
   since: 2017
-  image: img/members/ecurie2025.jpg
+  image: img/members/ecurie2025_small.jpg
   link: http://ecurie-aix.de/
   order: ecurie
   description: |
