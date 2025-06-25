@@ -1,9 +1,9 @@
 ---
 layout: aboutuspage
 title: Über uns
-titleimg375: img/aboutus/gruppenbild2025_375x400.JPG
-titleimg690: img/aboutus/gruppenbild2025_690x400.JPG
-titleimg1110: img/aboutus/gruppenbild2025_1110x400.JPG
+titleimg375: img/aboutus/gruppenbild_375x400.JPG
+titleimg690: img/aboutus/gruppenbild_690x400.JPG
+titleimg1110: img/aboutus/gruppenbild_1110x400.JPG
 slogan: Gemeinsam Träume verwirklichen.
 abouttext: |
   Wir sind circa 400 Studierende der RWTH und FH-Aachen, die neben ihrem Studium Wettbewerbe bestreiten, Ideen realisieren und sich für Nachhaltigkeit und Soziales einsetzen.
