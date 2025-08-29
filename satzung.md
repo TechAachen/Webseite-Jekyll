@@ -14,8 +14,10 @@ Geschäftsjahr ist das Kalenderjahr.
 ## § 3 Zweck des Vereins
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts “Steuerbegünstigte Zwecke” der Abgabenordnung.
 2. Zweck des Vereins ist
-- (a) die Förderung von Wissenschaft und Forschung;
-- (b) die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe;
+  <ol type="a">
+  <li>die Förderung von Wissenschaft und Forschung;</li>
+  <li>die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe;</li>
+  </ol>
 weiterhin ist der Verein eine Mittelbeschaffungskörperschaft nach [§ 58 AO](https://www.gesetze-im-internet.de/ao_1977/__58.html).
 3. Der Satzungszweck wird verwirklicht insbesondere durch
 - (a) Förderung der Zusammenarbeit regional ansässiger Organisationen, die im Sinne der Vereinszwecke tätig sind, u.a. die sog. technischen studentischen Eigeninitiativen der RWTH Aachen und der FH Aachen;
@@ -40,6 +42,11 @@ Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind,
 - (a) Körperschaften, die einen gemeinnützigen Zweck gemäß [§ 52 AO](https://www.gesetze-im-internet.de/ao_1977/__52.html) verfolgen; Diese Mitglieder werden reguläre Mitglieder genannt und haben ein Stimmrecht.
 - (b) Natürliche oder juristische Personen als Ehrenmitglieder. Ehrenmitglieder haben kein Stimmrecht auf der Mitgliederversammlung und der geschäftsführenden Versammlung.
 - (c) Natürliche oder juristische Personen als Fördermitglieder. Fördermitglieder haben kein Stimmrecht auf der Mitgliederversammlung und der geschäftsführenden Versammlung.
+2. Mitglieder nach § 7.1 (a) haben folgende Pflichten:
+  <ol type="a">
+  <li>Einreichen eines Nachweises ihrer Gemeinnützigkeit mindestes einmal pro Geschäftsjahr.</li>
+  <li>Regelmäßig Anwesenheit bei der geschäftsführenden Versammlung. Bei Nicht-Anwesenheit von zehn geschäftsführenden Versammlungen oder sechs Monaten (kleinerer Zeitraum ist maßgebend) in Folge liegt ein Fehlverhalten vor.</li>
+  </ol>
 
 ## § 8 Erwerb der Mitgliedschaft
 1. Über die Aufnahme eines ordentlichen Mitgliedes entscheidet die Mitgliederversammlung mit Zweidrittelmehrheit.
