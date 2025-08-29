@@ -19,7 +19,7 @@ Geschäftsjahr ist das Kalenderjahr.
       <li>die Förderung von Wissenschaft und Forschung;</li>
       <li>die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe;</li>
     </ol>
-weiterhin ist der Verein eine Mittelbeschaffungskörperschaft nach [§ 58 AO](https://www.gesetze-im-internet.de/ao_1977/__58.html).</li>
+<p>Weiterhin ist der Verein eine Mittelbeschaffungskörperschaft nach <a href="https://www.gesetze-im-internet.de/ao_1977/__58.html">§ 58 AO</a>.</p></li>
   <li>Der Satzungszweck wird verwirklicht insbesondere durch
     <ol type="a">
       <li>Förderung der Zusammenarbeit regional ansässiger Organisationen, die im Sinne der Vereinszwecke tätig sind, u.a. die sog. technischen studentischen Eigeninitiativen der RWTH Aachen und der FH Aachen;</li>
