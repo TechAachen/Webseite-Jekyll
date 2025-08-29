@@ -26,9 +26,9 @@ Geschäftsjahr ist das Kalenderjahr.
       <li>die Beschaffung von Mitteln und deren Weiterleitung zur Förderung der steuerbegünstigten Zwecke im Sinne der Absätze <a href="#-3-zweck-des-vereins">§ 3.2 (a)</a> und <a href="#-3-zweck-des-vereins">§ 3.2 (b)</a>;</li>
       <li>Förderung des Dialogs zwischen Organisationen und der Öffentlichkeit, der Politik, der Wirtschaft, den Hochschulen und Forschungseinrichtungen in der Region;</li>
       <li>Durchführung und Förderung von Informationsveranstaltungen und Bildungsveranstaltungen, insbesondere in den Bereichen Ingenieurwesen, Marketing, Recht, Buchführung.</li>
-      <li>Schaffung einer Plattform für das Umsetzen gemeinnütziger Projekte im Sinne der Absätze <a href="#-3-zweck-des-vereins">§ 3.2 (a)</a> und <a href="#-3-zweck-des-vereins">§ 3.2 (b)</a>.</li>
-    </ol>
-Diese sind insbesondere Entwicklungen in den Bereichen Ingenieurwesen, Marketing, Recht, Buchführung.</li>
+      <li>Schaffung einer Plattform für das Umsetzen gemeinnütziger Projekte im Sinne der Absätze <a href="#-3-zweck-des-vereins">§ 3.2 (a)</a> und <a href="#-3-zweck-des-vereins">§ 3.2 (b)</a>.
+          Diese sind insbesondere Entwicklungen in den Bereichen Ingenieurwesen, Marketing, Recht, Buchführung.</li>
+      </ol>
   <li>Der Verein ist parteipolitisch und religiös neutral.</li>
 </ol>
 
