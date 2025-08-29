@@ -12,21 +12,25 @@ title: Satzung des TechAachen e.V.
 Geschäftsjahr ist das Kalenderjahr.
 
 ## § 3 Zweck des Vereins
-1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts “Steuerbegünstigte Zwecke” der Abgabenordnung.
-2. Zweck des Vereins ist
-  <ol type="a">
-  <li>die Förderung von Wissenschaft und Forschung;</li>
-  <li>die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe;</li>
-  </ol>
-weiterhin ist der Verein eine Mittelbeschaffungskörperschaft nach [§ 58 AO](https://www.gesetze-im-internet.de/ao_1977/__58.html).
-3. Der Satzungszweck wird verwirklicht insbesondere durch
-- (a) Förderung der Zusammenarbeit regional ansässiger Organisationen, die im Sinne der Vereinszwecke tätig sind, u.a. die sog. technischen studentischen Eigeninitiativen der RWTH Aachen und der FH Aachen;
-- (b) die Beschaffung von Mitteln und deren Weiterleitung zur Förderung der steuerbegünstigten Zwecke im Sinne der Absätze [§ 3.2 (a)](#-3-zweck-des-vereins) und [§ 3.2 (b)](#-3-zweck-des-vereins);
-- (c) Förderung des Dialogs zwischen Organisationen und der Öffentlichkeit, der Politik, der Wirtschaft, den Hochschulen und Forschungseinrichtungen in der Region;
-- (d) Durchführung und Förderung von Informationsveranstaltungen und Bildungsveranstaltungen, insbesondere in den Bereichen Ingenieurwesen, Marketing, Recht, Buchführung.
-- (e) Schaffung einer Plattform für das Umsetzen gemeinnütziger Projekte im Sinne der Absätze [§ 3.2 (a)](#-3-zweck-des-vereins) und [§ 3.2 (b)](#-3-zweck-des-vereins).
-Diese sind insbesondere Entwicklungen in den Bereichen Ingenieurwesen, Marketing, Recht, Buchführung.
-4. Der Verein ist parteipolitisch und religiös neutral.
+<ol>
+  <li>Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts “Steuerbegünstigte Zwecke” der Abgabenordnung.</li>
+  <li>Zweck des Vereins ist
+    <ol type="a">
+      <li>die Förderung von Wissenschaft und Forschung;</li>
+      <li>die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe;</li>
+    </ol>
+weiterhin ist der Verein eine Mittelbeschaffungskörperschaft nach [§ 58 AO](https://www.gesetze-im-internet.de/ao_1977/__58.html).</li>
+  <li>Der Satzungszweck wird verwirklicht insbesondere durch
+    <ol type="a">
+      <li>Förderung der Zusammenarbeit regional ansässiger Organisationen, die im Sinne der Vereinszwecke tätig sind, u.a. die sog. technischen studentischen Eigeninitiativen der RWTH Aachen und der FH Aachen;</li>
+      <li>die Beschaffung von Mitteln und deren Weiterleitung zur Förderung der steuerbegünstigten Zwecke im Sinne der Absätze [§ 3.2 (a)](#-3-zweck-des-vereins) und [§ 3.2 (b)](#-3-zweck-des-vereins);</li>
+      <li>Förderung des Dialogs zwischen Organisationen und der Öffentlichkeit, der Politik, der Wirtschaft, den Hochschulen und Forschungseinrichtungen in der Region;</li>
+      <li>Durchführung und Förderung von Informationsveranstaltungen und Bildungsveranstaltungen, insbesondere in den Bereichen Ingenieurwesen, Marketing, Recht, Buchführung.</li>
+      <li>Schaffung einer Plattform für das Umsetzen gemeinnütziger Projekte im Sinne der Absätze [§ 3.2 (a)](#-3-zweck-des-vereins) und [§ 3.2 (b)](#-3-zweck-des-vereins).</li>
+    </ol>
+Diese sind insbesondere Entwicklungen in den Bereichen Ingenieurwesen, Marketing, Recht, Buchführung.</li>
+  <li>Der Verein ist parteipolitisch und religiös neutral.</li>
+</ol>
 
 ## § 4 Selbstlose Tätigkeit
 Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
@@ -44,8 +48,8 @@ Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind,
 - (c) Natürliche oder juristische Personen als Fördermitglieder. Fördermitglieder haben kein Stimmrecht auf der Mitgliederversammlung und der geschäftsführenden Versammlung.
 2. Mitglieder nach § 7.1 (a) haben folgende Pflichten:
   <ol type="a">
-  <li>Einreichen eines Nachweises ihrer Gemeinnützigkeit mindestes einmal pro Geschäftsjahr.</li>
-  <li>Regelmäßig Anwesenheit bei der geschäftsführenden Versammlung. Bei Nicht-Anwesenheit von zehn geschäftsführenden Versammlungen oder sechs Monaten (kleinerer Zeitraum ist maßgebend) in Folge liegt ein Fehlverhalten vor.</li>
+    <li>Einreichen eines Nachweises ihrer Gemeinnützigkeit mindestes einmal pro Geschäftsjahr.</li>
+    <li>Regelmäßig Anwesenheit bei der geschäftsführenden Versammlung. Bei Nicht-Anwesenheit von zehn geschäftsführenden Versammlungen oder sechs Monaten (kleinerer Zeitraum ist maßgebend) in Folge liegt ein Fehlverhalten vor.</li>
   </ol>
 
 ## § 8 Erwerb der Mitgliedschaft
