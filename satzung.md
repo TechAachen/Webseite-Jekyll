@@ -29,6 +29,7 @@ Geschäftsjahr ist das Kalenderjahr.
       <li>Schaffung einer Plattform für das Umsetzen gemeinnütziger Projekte im Sinne der Absätze <a href="#-3-zweck-des-vereins">§ 3.2 (a)</a> und <a href="#-3-zweck-des-vereins">§ 3.2 (b)</a>.
           Diese sind insbesondere Entwicklungen in den Bereichen Ingenieurwesen, Marketing, Recht, Buchführung.</li>
       </ol>
+    </li>
   <li>Der Verein ist parteipolitisch und religiös neutral.</li>
 </ol>
 
