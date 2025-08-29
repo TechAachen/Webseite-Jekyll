@@ -203,12 +203,13 @@ welche nicht ausdrücklich der Mitgliederversammlung oder dem Vorstand vorbehalt
 Der Vorstand ist an Beschlüsse der geschäftsführenden Versammlung gebunden.</li>
   <li>Zu ihren Aufgaben zählen insbesondere
     <ol type="a">
-      <li>Festsetzung einer Geschäftsordnung des Vorstandes
-      <li>Festsetzung einer Finanzordnung
-      <li>Festsetzung einer Nutzungsordnung von Vereinsbesitz
-      <li>Berufung von Teams
-      <li>Festsetzung einer Geschäftsordnung eines Teams
-    </ol></li>
+      <li>Festsetzung einer Geschäftsordnung des Vorstandes</li>
+      <li>Festsetzung einer Finanzordnung</li>
+      <li>Festsetzung einer Nutzungsordnung von Vereinsbesitz</li>
+      <li>Berufung von Teams</li>
+      <li>Festsetzung einer Geschäftsordnung eines Teams</li>
+    </ol>
+  </li>
   <li>Eine Geschäftsführende Versammlung ist beschlussfähig, wenn sie ordnungsgemäß einberufen ist und wenn mindestens fünf oder ein Drittel der regulären Mitglieder (die jeweils kleinere Zahl ist maßgebend) teilnehmen.
       Die Teilnahme kann auch über Telekommunikationsdienste (z.B. Skype o.ä.) erfolgen.</li>
   <li>Die geschäftsführende Versammlung fasst ihre Beschlüsse mit einfacher Mehrheit der an der Beschlussfassung teilnehmenden Stimmberechtigten.
@@ -224,7 +225,8 @@ Der Vorstand ist an Beschlüsse der geschäftsführenden Versammlung gebunden.</
   <li>Zu der zugeordneten Aufgabe gesellen sich Folgende:
     <ol type="a">
       <li>Benennung einer Ansprechperson für die restlichen Organe des Vereins.</li>
-    </ol></li>
+    </ol>
+  </li>
   <li>Mitglieder von Teams können sowohl auf eigenen Wunsch, durch Beschluss der Mitgliederversammlung, des Vorstandes oder des Teams abberufen werden.</li>
   <li>Näheres regelt die Geschäftsordnung für Teams.</li>
 </ol>
