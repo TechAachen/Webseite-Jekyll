@@ -23,7 +23,7 @@ Geschäftsjahr ist das Kalenderjahr.
   <li>Der Satzungszweck wird verwirklicht insbesondere durch
     <ol type="a">
       <li>Förderung der Zusammenarbeit regional ansässiger Organisationen, die im Sinne der Vereinszwecke tätig sind, u.a. die sog. technischen studentischen Eigeninitiativen der RWTH Aachen und der FH Aachen;</li>
-      <li>die Beschaffung von Mitteln und deren Weiterleitung zur Förderung der steuerbegünstigten Zwecke im Sinne der Absätze [§ 3.2 (a)](#-3-zweck-des-vereins) und [§ 3.2 (b)](#-3-zweck-des-vereins);</li>
+      <li>die Beschaffung von Mitteln und deren Weiterleitung zur Förderung der steuerbegünstigten Zwecke im Sinne der Absätze <a href="#-3-zweck-des-vereins">§ 3.2 (a)</a> und <a href="#-3-zweck-des-vereins">§ 3.2 (b)</a>;</li>
       <li>Förderung des Dialogs zwischen Organisationen und der Öffentlichkeit, der Politik, der Wirtschaft, den Hochschulen und Forschungseinrichtungen in der Region;</li>
       <li>Durchführung und Förderung von Informationsveranstaltungen und Bildungsveranstaltungen, insbesondere in den Bereichen Ingenieurwesen, Marketing, Recht, Buchführung.</li>
       <li>Schaffung einer Plattform für das Umsetzen gemeinnütziger Projekte im Sinne der Absätze <a href="#-3-zweck-des-vereins">§ 3.2 (a)</a> und <a href="#-3-zweck-des-vereins">§ 3.2 (b)</a>.</li>
@@ -42,15 +42,19 @@ Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werde
 Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
 ## § 7 Mitgliedschaft
-1. Es gibt drei Arten von Mitgliedern:
-- (a) Körperschaften, die einen gemeinnützigen Zweck gemäß [§ 52 AO](https://www.gesetze-im-internet.de/ao_1977/__52.html) verfolgen; Diese Mitglieder werden reguläre Mitglieder genannt und haben ein Stimmrecht.
-- (b) Natürliche oder juristische Personen als Ehrenmitglieder. Ehrenmitglieder haben kein Stimmrecht auf der Mitgliederversammlung und der geschäftsführenden Versammlung.
-- (c) Natürliche oder juristische Personen als Fördermitglieder. Fördermitglieder haben kein Stimmrecht auf der Mitgliederversammlung und der geschäftsführenden Versammlung.
-2. Mitglieder nach § 7.1 (a) haben folgende Pflichten:
+<ol>
+  <li>Es gibt drei Arten von Mitgliedern:
+  <ol type="a">
+    <li>Körperschaften, die einen gemeinnützigen Zweck gemäß <a href="https://www.gesetze-im-internet.de/ao_1977/__52.html">§ 52 AO</a> verfolgen; Diese Mitglieder werden reguläre Mitglieder genannt und haben ein Stimmrecht.</li>
+    <li>Natürliche oder juristische Personen als Ehrenmitglieder. Ehrenmitglieder haben kein Stimmrecht auf der Mitgliederversammlung und der geschäftsführenden Versammlung.</li>
+    <li>Natürliche oder juristische Personen als Fördermitglieder. Fördermitglieder haben kein Stimmrecht auf der Mitgliederversammlung und der geschäftsführenden Versammlung.</li>
+  </ol></li>
+  <li>Mitglieder nach § 7.1 (a) haben folgende Pflichten:
   <ol type="a">
     <li>Einreichen eines Nachweises ihrer Gemeinnützigkeit mindestes einmal pro Geschäftsjahr.</li>
     <li>Regelmäßig Anwesenheit bei der geschäftsführenden Versammlung. Bei Nicht-Anwesenheit von zehn geschäftsführenden Versammlungen oder sechs Monaten (kleinerer Zeitraum ist maßgebend) in Folge liegt ein Fehlverhalten vor.</li>
-  </ol>
+  </ol></li>
+</ol>
 
 ## § 8 Erwerb der Mitgliedschaft
 1. Über die Aufnahme eines ordentlichen Mitgliedes entscheidet die Mitgliederversammlung mit Zweidrittelmehrheit.
@@ -59,28 +63,32 @@ Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind,
 4. Der Antrag auf Fördermitgliedschaft darf durch den Vorstand unbegründet abgelehnt werden. Die Mitglieder müssen innerhalb von 14 Tagen über den Antrag informiert werden.
 
 ## § 9 Beendigung der Mitgliedschaft
-1. Die Mitgliedschaft endet durch Austritt, Ausschluss, Tod oder Auflösung der juristischen Person.
-2. Der Austritt erfolgt durch schriftliche Erklärung gegenüber dem Vorstand.
-Die schriftliche Austrittserklärung muss mit einer Frist von drei Monaten jeweils zum Ende des Geschäftsjahres gegenüber dem Vorstand erklärt werden.
-3. Ein außerordentlicher Austritt ist jederzeit aufgrund einer Satzungsänderung oder einer Mehrbelastung durch eine geänderte Beitragsordnung möglich.
-Der Austritt gilt zum Zeitpunkt des Inkrafttretens der jeweiligen Änderung und ist spätestens bis 3 Monate nach Bekanntgabe der Änderung einzureichen.
-4. Ein Ausschluss kann nur aus wichtigem Grund erfolgen. Wichtige Gründe sind insbesondere
-- (a) ein die Vereinsziele schädigendes Verhalten,
-- (b) die Verletzung satzungsmäßiger Pflichten oder
-- (c) Beitragsrückstände von mindestens 6 Monaten oder 3 Mitgliedsbeiträge
-5. Über den Ausschluss entscheidet der Vorstand.
-6. Gegen den Ausschluss steht dem Mitglied die Berufung an die Mitgliederversammlung zu, die schriftlich binnen eines Monats an den Vorstand zu richten ist.
-7. Die Mitgliederversammlung entscheidet im Rahmen des Vereins endgültig. Dem Mitglied bleibt die Überprüfung der Maßnahme durch Anrufung der ordentlichen Gerichte
-vorbehalten.
-8. Die Anrufung eines ordentlichen Gerichts hat aufschiebende Wirkung bis zur Rechtskraft der gerichtlichen Entscheidung.
-9. Das ausscheidende Mitglied verliert jeden Anspruch auf das Vermögen des Vereins.
-10. Die bis zum Austritt entstandenen Verpflichtungen gegenüber dem Verein bleiben bestehen.
-11. Die Mitglieder dürfen bei ihrem Ausscheiden nicht mehr als ihre eingezahlten Kapitalanteile und den gemeinen Wert ihrer geleisteten Sacheinlagen zurückerhalten.
-Über Rückzahlung oder Rückgabe der eingezahlten Kapitalanteile oder geleisteten Sacheinlagen entscheidet die Mitgliederversammlung.
+<ol>
+  <li>Die Mitgliedschaft endet durch Austritt, Ausschluss, Tod oder Auflösung der juristischen Person.</li>
+  <li>Der Austritt erfolgt durch schriftliche Erklärung gegenüber dem Vorstand.
+      Die schriftliche Austrittserklärung muss mit einer Frist von drei Monaten jeweils zum Ende des Geschäftsjahres gegenüber dem Vorstand erklärt werden.</li>
+  <li>Ein außerordentlicher Austritt ist jederzeit aufgrund einer Satzungsänderung oder einer Mehrbelastung durch eine geänderte Beitragsordnung möglich.
+      Der Austritt gilt zum Zeitpunkt des Inkrafttretens der jeweiligen Änderung und ist spätestens bis 3 Monate nach Bekanntgabe der Änderung einzureichen.</li>
+  <li>Ein Ausschluss kann nur aus wichtigem Grund erfolgen. Wichtige Gründe sind insbesondere
+    <ol type="a">
+      <li>ein die Vereinsziele schädigendes Verhalten,</li>
+      <li>die Verletzung satzungsmäßiger Pflichten oder</li>
+      <li>Beitragsrückstände von mindestens 6 Monaten oder 3 Mitgliedsbeiträge</li>
+    </ol></li>
+  <li>Über den Ausschluss entscheidet der Vorstand.</li>
+  <li>Gegen den Ausschluss steht dem Mitglied die Berufung an die Mitgliederversammlung zu, die schriftlich binnen eines Monats an den Vorstand zu richten ist.</li>
+  <li>Die Mitgliederversammlung entscheidet im Rahmen des Vereins endgültig. Dem Mitglied bleibt die Überprüfung der Maßnahme durch Anrufung der ordentlichen Gerichte
+      vorbehalten.</li>
+  <li>Die Anrufung eines ordentlichen Gerichts hat aufschiebende Wirkung bis zur Rechtskraft der gerichtlichen Entscheidung.</li>
+  <li>Das ausscheidende Mitglied verliert jeden Anspruch auf das Vermögen des Vereins.</li>
+  <li>Die bis zum Austritt entstandenen Verpflichtungen gegenüber dem Verein bleiben bestehen.</li>
+  <li>Die Mitglieder dürfen bei ihrem Ausscheiden nicht mehr als ihre eingezahlten Kapitalanteile und den gemeinen Wert ihrer geleisteten Sacheinlagen zurückerhalten.
+      Über Rückzahlung oder Rückgabe der eingezahlten Kapitalanteile oder geleisteten Sacheinlagen entscheidet die Mitgliederversammlung.</li>
+</ol>
 
 ## § 10 Beiträge
 1. Von regulären Mitgliedern werden keine Beiträge erhoben.
-22. Von Fördermitgliedern können Beiträge erhoben werden.
+2. Von Fördermitgliedern können Beiträge erhoben werden.
 3. Näheres regelt die Beitragsordnung, diese wird von der Mitgliederversammlung festgelegt.
 
 ## § 11 Organe des Vereins
@@ -187,31 +195,39 @@ Organe des Vereins sind
 </ol>
 
 ## § 14 Geschäftsführende Versammlung
-1. Die Geschäftsführende Versammlung ist die Versammlung der regulären Mitglieder. Sie wird vom geschäftsführenden Vorstand nach Bedarf, jedoch mindestens einmal alle 6 Wochen, oder auf schriftlichen Antrag von mindestens fünf oder ein Drittel der regulären Mitglieder (die jeweils kleinere Zahl ist maßgebend) einberufen. Die Einberufung erfolgt über das Protokoll der letzten Sitzung, die Webseite oder per Mail mindestens eine
-Woche vor dem Versammlungstermin.
-2. Die Geschäftsführende Versammlung berät und beschließt alle Vereinsangelegenheiten,
+<ol>
+  <li>Die Geschäftsführende Versammlung ist die Versammlung der regulären Mitglieder. Sie wird vom geschäftsführenden Vorstand nach Bedarf, jedoch mindestens einmal alle 6 Wochen, oder auf schriftlichen Antrag von mindestens fünf oder ein Drittel der regulären Mitglieder (die jeweils kleinere Zahl ist maßgebend) einberufen. Die Einberufung erfolgt über das Protokoll der letzten Sitzung, die Webseite oder per Mail mindestens eine
+Woche vor dem Versammlungstermin.</li>
+  <li>Die Geschäftsführende Versammlung berät und beschließt alle Vereinsangelegenheiten,
 welche nicht ausdrücklich der Mitgliederversammlung oder dem Vorstand vorbehalten sind.
-Der Vorstand ist an Beschlüsse der geschäftsführenden Versammlung gebunden.
-3. Zu ihren Aufgaben zählen insbesondere
-- (a) Festsetzung einer Geschäftsordnung des Vorstandes
-- (b) Festsetzung einer Finanzordnung
-- (c) Festsetzung einer Nutzungsordnung von Vereinsbesitz
-- (d) Berufung von Teams
-- (e) Festsetzung einer Geschäftsordnung eines Teams
-4. Eine Geschäftsführende Versammlung ist beschlussfähig, wenn sie ordnungsgemäß einberufen ist und wenn mindestens fünf oder ein Drittel der regulären Mitglieder (die jeweils kleinere Zahl ist maßgebend) teilnehmen.
-Die Teilnahme kann auch über Telekommunikationsdienste (z.B. Skype o.ä.) erfolgen.
-5. Die geschäftsführende Versammlung fasst ihre Beschlüsse mit einfacher Mehrheit der an der Beschlussfassung teilnehmenden Stimmberechtigten.
-Die Stimmberechtigung ist auf die regulären Mitglieder beschränkt.
+Der Vorstand ist an Beschlüsse der geschäftsführenden Versammlung gebunden.</li>
+  <li>Zu ihren Aufgaben zählen insbesondere
+    <ol type="a">
+      <li>Festsetzung einer Geschäftsordnung des Vorstandes
+      <li>Festsetzung einer Finanzordnung
+      <li>Festsetzung einer Nutzungsordnung von Vereinsbesitz
+      <li>Berufung von Teams
+      <li>Festsetzung einer Geschäftsordnung eines Teams
+    </ol></li>
+  <li>Eine Geschäftsführende Versammlung ist beschlussfähig, wenn sie ordnungsgemäß einberufen ist und wenn mindestens fünf oder ein Drittel der regulären Mitglieder (die jeweils kleinere Zahl ist maßgebend) teilnehmen.
+      Die Teilnahme kann auch über Telekommunikationsdienste (z.B. Skype o.ä.) erfolgen.</li>
+  <li>Die geschäftsführende Versammlung fasst ihre Beschlüsse mit einfacher Mehrheit der an der Beschlussfassung teilnehmenden Stimmberechtigten.
+      Die Stimmberechtigung ist auf die regulären Mitglieder beschränkt.</li>
+</ol>
 
 ## § 15 Teams
-1. Durch die geschäftsführenden Versammlung kann eine Änderung der bestimmten Aufgabe aufgetragen werden. Bei Änderung der Aufgabe sind Teammitglieder berechtigt das Team zu verlassen.
-2. Teams sind gegenüber dem bestehenden Vorstand rechenschaftspflichtig.
-3. Mitglieder von Teams können natürliche Personen, juristische Personen und Amtsträger qua officio werden.
-4. Teammitglieder können unter Erklärung Ihres Einverständnisses durch die Mitgliederversammlung, den Vorstand oder das Team selbst berufen werden.
-5. Zu der zugeordneten Aufgabe gesellen sich Folgende:
-- (a) Benennung einer Ansprechperson für die restlichen Organe des Vereins.
-6. Mitglieder von Teams können sowohl auf eigenen Wunsch, durch Beschluss der Mitgliederversammlung, des Vorstandes oder des Teams abberufen werden.
-7. Näheres regelt die Geschäftsordnung für Teams.
+<ol>
+  <li>Durch die geschäftsführenden Versammlung kann eine Änderung der bestimmten Aufgabe aufgetragen werden. Bei Änderung der Aufgabe sind Teammitglieder berechtigt das Team zu verlassen.</li>
+  <li>Teams sind gegenüber dem bestehenden Vorstand rechenschaftspflichtig.</li>
+  <li>Mitglieder von Teams können natürliche Personen, juristische Personen und Amtsträger qua officio werden.</li>
+  <li>Teammitglieder können unter Erklärung Ihres Einverständnisses durch die Mitgliederversammlung, den Vorstand oder das Team selbst berufen werden.</li>
+  <li>Zu der zugeordneten Aufgabe gesellen sich Folgende:
+    <ol type="a">
+      <li>Benennung einer Ansprechperson für die restlichen Organe des Vereins.</li>
+    </ol></li>
+  <li>Mitglieder von Teams können sowohl auf eigenen Wunsch, durch Beschluss der Mitgliederversammlung, des Vorstandes oder des Teams abberufen werden.</li>
+  <li>Näheres regelt die Geschäftsordnung für Teams.</li>
+</ol>
 
 ## § 16 Kassenprüfung
 1. Die Mitgliederversammlung wählt für die Dauer von einem Jahr zwei Kassenprüfer/innen.
