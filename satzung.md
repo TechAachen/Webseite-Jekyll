@@ -36,17 +36,16 @@ Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werde
 Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
 ## § 7 Mitgliedschaft
-Es gibt drei Arten von Mitgliedern:
-1. Körperschaften, die einen gemeinnützigen Zweck gemäß [§ 52 AO](https://www.gesetze-im-internet.de/ao_1977/__52.html) verfolgen; Diese Mitglieder werden reguläre Mitglieder genannt und haben ein Stimmrecht.
-2. Natürliche oder juristische Personen als Ehrenmitglieder. Ehrenmitglieder haben kein Stimmrecht auf der Mitgliederversammlung.
-3. Natürliche oder juristische Personen als Fördermitglieder. Fördermitglieder haben kein Stimmrecht auf der Mitgliederversammlung.
+1. Es gibt drei Arten von Mitgliedern:
+- (a) Körperschaften, die einen gemeinnützigen Zweck gemäß [§ 52 AO](https://www.gesetze-im-internet.de/ao_1977/__52.html) verfolgen; Diese Mitglieder werden reguläre Mitglieder genannt und haben ein Stimmrecht.
+- (b) Natürliche oder juristische Personen als Ehrenmitglieder. Ehrenmitglieder haben kein Stimmrecht auf der Mitgliederversammlung und der geschäftsführenden Versammlung.
+- (c) Natürliche oder juristische Personen als Fördermitglieder. Fördermitglieder haben kein Stimmrecht auf der Mitgliederversammlung und der geschäftsführenden Versammlung.
 
 ## § 8 Erwerb der Mitgliedschaft
 1. Über die Aufnahme eines ordentlichen Mitgliedes entscheidet die Mitgliederversammlung mit Zweidrittelmehrheit.
 2. Über die Aufnahme von Fördermitgliedern entscheidet der Vorstand.
 3. Ehrenmitglieder werden durch einstimmigen Beschluss der Mitgliederversammlung ernannt.
-4. Der Antrag auf Fördermitgliedschaft darf durch den Vorstand unbegründet abgelehnt werden.
-Die Mitglieder müssen innerhalb von 14 Tagen über den Antrag informiert werden.
+4. Der Antrag auf Fördermitgliedschaft darf durch den Vorstand unbegründet abgelehnt werden. Die Mitglieder müssen innerhalb von 14 Tagen über den Antrag informiert werden.
 
 ## § 9 Beendigung der Mitgliedschaft
 1. Die Mitgliedschaft endet durch Austritt, Ausschluss, Tod oder Auflösung der juristischen Person.
@@ -95,10 +94,7 @@ Organe des Vereins sind
       <li>Entscheidung über Aufnahme und Ausschluss von Mitgliedern in Berufungsfällen,</li>
       <li>Berufung von Teams,</li>
       <li>Festsetzung einer Geschäftsordnung der Mitgliederversammlung</li>
-      <li>Festsetzung einer Geschäftsordnung des Vorstandes</li>
       <li>Festsetzung einer Geschäftsordnung des Beirats</li>
-      <li>Festsetzung einer Finanzordnung</li>
-      <li>Festsetzung einer Nutzungsordnung von Vereinsbesitz</li>
       <li>sowie weitere Aufgaben, soweit sich diese aus der Satzung oder nach dem Gesetz ergeben.</li>
     </ol>
   </li>
@@ -148,7 +144,8 @@ Organe des Vereins sind
   </li>
   <li>Sie vertreten den Verein gerichtlich und außergerichtlich. Zwei Vorstandsmitglieder vertreten gemeinsam.
   Der geschäftsführende Vorstand ist befugt Vorstandsmitglieder in bestimmten Bereichen Einzelvertretungsbefugnis zu erteilen.</li>
-  <li>Der Vorstand wird von der Mitgliederversammlung auf die Dauer von einem Jahr gewählt.</li>
+  <li>Der Vorstand wird von der Mitgliederversammlung auf die Dauer von einem Jahr gewählt. Diese Posten werden einzeln gewählt. Auf Antrag ist es möglich, in cumulo
+(Blockwahl) zu wählen.</li>
   <li>Vorstandsmitglieder sind natürliche Personen.</li>
   <li>Vorstandsmitglieder müssen durch ein Mitglied auf der Mitgliederversammlung zur Wahl vorgeschlagen werden.</li>
   <li>Der Vorstand kann außerhalb der regulären Wahlen nur aus wichtigem Grund abgewählt werden und durch einen Neuen ersetzt werden.
@@ -169,7 +166,6 @@ Organe des Vereins sind
       <li>die Ausführung von Beschlüssen der Mitgliederversammlung,</li>
       <li>die Verwaltung über das Vereinsvermögens,</li>
       <li>die Anfertigung eines schriftlichen Jahresberichts,</li>
-      <li>die Berufung von Teams.</li>
     </ol>
   Bei alle Aufgaben und Verpflichtungen hat der Vorstand die Entscheidungsbefugnis bis einschließlich 5000,- Euro. 
   Darüberhinausgehende Entscheidungen und Verpflichtungen unterliegen der Beschlussfassung der geschäftsführenden Versammlung.</li>
@@ -180,35 +176,37 @@ Organe des Vereins sind
 </ol>
 
 ## § 14 Geschäftsführende Versammlung
-1. Die Geschäftsführende Versammlung ist die Versammlung der regulären Mitglieder.
-Sie wird vom geschäftsführenden Vorstand nach Bedarf oder auf schriftlichen Antrag von mindestens fünf oder ein Drittel der regulären Mitglieder (die jeweils kleinere Zahl ist maßgebend) einberufen.
-Die Einberufung erfolgt über das Protokoll der letzten Sitzung, die Webseite oder per Mail mindestens eine Woche vor dem Versammlungstermin.
+1. Die Geschäftsführende Versammlung ist die Versammlung der regulären Mitglieder. Sie wird vom geschäftsführenden Vorstand nach Bedarf, jedoch mindestens einmal alle 6 Wochen, oder auf schriftlichen Antrag von mindestens fünf oder ein Drittel der regulären Mitglieder (die jeweils kleinere Zahl ist maßgebend) einberufen. Die Einberufung erfolgt über das Protokoll der letzten Sitzung, die Webseite oder per Mail mindestens eine
+Woche vor dem Versammlungstermin.
 2. Die Geschäftsführende Versammlung berät und beschließt alle Vereinsangelegenheiten,
 welche nicht ausdrücklich der Mitgliederversammlung oder dem Vorstand vorbehalten sind.
 Der Vorstand ist an Beschlüsse der geschäftsführenden Versammlung gebunden.
-3. Eine Geschäftsführende Versammlung ist beschlussfähig, wenn sie ordnungsgemäß einberufen ist und wenn mindestens fünf oder ein Drittel der regulären Mitglieder (die jeweils kleinere Zahl ist maßgebend) teilnehmen.
+3. Zu ihren Aufgaben zählen insbesondere
+- (a) Festsetzung einer Geschäftsordnung des Vorstandes
+- (b) Festsetzung einer Finanzordnung
+- (c) Festsetzung einer Nutzungsordnung von Vereinsbesitz
+- (d) Berufung von Teams
+- (e) Festsetzung einer Geschäftsordnung eines Teams
+4. Eine Geschäftsführende Versammlung ist beschlussfähig, wenn sie ordnungsgemäß einberufen ist und wenn mindestens fünf oder ein Drittel der regulären Mitglieder (die jeweils kleinere Zahl ist maßgebend) teilnehmen.
 Die Teilnahme kann auch über Telekommunikationsdienste (z.B. Skype o.ä.) erfolgen.
-4. Die geschäftsführende Versammlung fasst ihre Beschlüsse mit einfacher Mehrheit der an der Beschlussfassung teilnehmenden Stimmberechtigten.
+5. Die geschäftsführende Versammlung fasst ihre Beschlüsse mit einfacher Mehrheit der an der Beschlussfassung teilnehmenden Stimmberechtigten.
 Die Stimmberechtigung ist auf die regulären Mitglieder beschränkt.
 
 ## § 15 Teams
-1. Teams können von der Mitgliederversammlung und dem Vorstand zur Erledigung von mindestens einer bestimmten Aufgabe berufen werden.
-2. Durch die Mitgliederversammlung sowie den Vorstand kann eine Änderung der bestimmten Aufgabe aufgetragen werden. Bei Änderung der Aufgabe sind Teammitglieder berechtigt das Team zu verlassen.
-3. Teams sind gegenüber dem bestehenden Vorstand rechenschaftspflichtig.
-4. Mitglieder von Teams können natürliche Personen, juristische Personen und Amtsträger qua officio werden.
-5. Teammitglieder können unter Erklärung Ihres Einverständnisses durch die Mitgliederversammlung, den Vorstand oder das Team selbst berufen werden.
-6. Zu der zugeordneten Aufgabe gesellen sich Folgende:
+1. Durch die geschäftsführenden Versammlung kann eine Änderung der bestimmten Aufgabe aufgetragen werden. Bei Änderung der Aufgabe sind Teammitglieder berechtigt das Team zu verlassen.
+2. Teams sind gegenüber dem bestehenden Vorstand rechenschaftspflichtig.
+3. Mitglieder von Teams können natürliche Personen, juristische Personen und Amtsträger qua officio werden.
+4. Teammitglieder können unter Erklärung Ihres Einverständnisses durch die Mitgliederversammlung, den Vorstand oder das Team selbst berufen werden.
+5. Zu der zugeordneten Aufgabe gesellen sich Folgende:
 - (a) Benennung einer Ansprechperson für die restlichen Organe des Vereins.
-- (b) Festlegung einer Geschäftsordnung.
-7. Mitglieder von Teams können sowohl auf eigenen Wunsch, durch Beschluss der Mitgliederversammlung, des Vorstandes oder des Teams abberufen werden.
-8. Näheres regelt die Geschäftsordnung für Teams.
+6. Mitglieder von Teams können sowohl auf eigenen Wunsch, durch Beschluss der Mitgliederversammlung, des Vorstandes oder des Teams abberufen werden.
+7. Näheres regelt die Geschäftsordnung für Teams.
 
 ## § 16 Kassenprüfung
 1. Die Mitgliederversammlung wählt für die Dauer von einem Jahr zwei Kassenprüfer/innen.
 2. Diese/r darf nicht Mitglied des Vorstands sein.
 3. Die Kassenprüfer/innen dürfen nicht Angehörige desselben Mitglieds gemäß [§ 7.1](#-7-mitgliedschaft) wie die Vorstände sein.
 4. Wiederwahl ist zulässig.
-5. Soll der Vorstand entlastet werden, ist der Mitgliederversammlung eine Woche vor deren Zusammentreten ein Kassenprüfbericht vorzulegen.
 
 ## § 17 Datenschutz
 Näheres regelt die Datenschutzerklärung.
@@ -217,4 +215,4 @@ Näheres regelt die Datenschutzerklärung.
 Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine oder mehrere steuerbegünstigte Körperschaften zwecks Verwendung zur Förderung von Wissenschaft und Forschung, sowie Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe.
 
 
-Die Satzung wurde am 15.01.2020 im Rahmen der Mitgliederversammlung beschlossen.
+Die Satzung wurde am 19.03.2025 im Rahmen der Mitgliederversammlung beschlossen.
