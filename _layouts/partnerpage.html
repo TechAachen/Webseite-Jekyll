@@ -1,25 +1,44 @@
 <!DOCTYPE html>
 <html lang="de">
 {% include head.html %}
-<body>
+<body id="page-top">
   {% include navbar.html %}
 
   <div class="container">
-    <h1>Unsere Partner</h1>
-    <p>Hier findet ihr eine Übersicht unserer Partner.</p>
+    <h1>{{ page.title }}</h1>
 
+    <h2>Dauerhafte Partner</h2>
     <div class="row">
-      <div class="col-sm-6 col-md-4">
-        <div class="card mb-3">
-          <img class="card-img-top" src="img/partners/example_logo.png" alt="Partner Name">
-          <div class="card-body">
-            <h5 class="card-title">Partner Name</h5>
-            <p class="card-text">Kurzbeschreibung des Partners.</p>
-            <a href="https://partner-website.de" class="btn btn-primary" target="_blank" rel="noopener">Zur Website</a>
-          </div>
+      {% for p in page.dauerhaftepartner %}
+        <div class="col-sm-6 col-md-3 text-center mb-4">
+          <img src="{{ p.logo }}" alt="{{ p.name }}" class="img-fluid mb-2">
+          <div>{{ p.name }}</div>
         </div>
-      </div>
+      {% endfor %}
     </div>
+
+    <h2>Unterstützer</h2>
+    <div class="row">
+      {% for u in page.unterstuetzer %}
+        <div class="col-sm-6 col-md-3 text-center mb-4">
+          <img src="{{ u.logo }}" alt="{{ u.name }}" class="img-fluid mb-2">
+          <div>{{ u.name }}</div>
+        </div>
+      {% endfor %}
+    </div>
+
+    <h2>TechTurbo 2025 Partner</h2>
+    <div class="row">
+      {% for t in page.techturbo2025 %}
+        <div class="col-sm-6 col-md-3 text-center mb-4">
+          <img src="{{ t.logo }}" alt="{{ t.name }}" class="img-fluid mb-2">
+          <div>{{ t.name }}</div>
+        </div>
+      {% endfor %}
+    </div>
+
+    <h2>Partner werden</h2>
+    <p>{{ page.werdetpartner }}</p>
 
   </div>
 
