@@ -14,7 +14,7 @@
     <div class="row justify-content-center">
       {% for p in page.dauerhaftepartner %}
         <div class="col-sm-6 col-md-3 mb-4">
-          <div class="card h-100 text-center shadow-sm">
+          <div class="d-flex align-items-center justify-content-center p-3" style="height: 150px;">
             <img src="{{ p.logo }}" class="card-img-top p-3 img-fluid" alt="{{ p.name }}">
             <div class="card-body">
               <h5 class="card-title">{{ p.name }}</h5>
@@ -30,7 +30,7 @@
     <div class="row justify-content-center">
       {% for u in page.unterstuetzer %}
         <div class="col-sm-6 col-md-3 mb-4">
-          <div class="card h-100 text-center shadow-sm">
+          <div class="d-flex align-items-center justify-content-center p-3" style="height: 150px;">
             <img src="{{ u.logo }}" class="card-img-top p-3 img-fluid" alt="{{ u.name }}">
             <div class="card-body">
               <h5 class="card-title">{{ u.name }}</h5>
@@ -46,7 +46,7 @@
     <div class="row justify-content-center">
       {% for t in page.techturbo2025 %}
         <div class="col-sm-6 col-md-3 mb-4">
-          <div class="card h-100 text-center shadow-sm">
+          <div class="d-flex align-items-center justify-content-center p-3" style="height: 150px;">
             <img src="{{ t.logo }}" class="card-img-top p-3 img-fluid" alt="{{ t.name }}">
             <div class="card-body">
               <h5 class="card-title">{{ t.name }}</h5>
