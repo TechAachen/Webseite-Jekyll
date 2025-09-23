@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="de">
+{% include head.html %}
+<body>
+  {% include navbar.html %}
+
+  <div class="container">
+    <h1>Unsere Partner</h1>
+    <p>Hier findet ihr eine Übersicht unserer Partner.</p>
+
+    <div class="row">
+      <div class="col-sm-6 col-md-4">
+        <div class="card mb-3">
+          <img class="card-img-top" src="img/partners/example_logo.png" alt="Partner Name">
+          <div class="card-body">
+            <h5 class="card-title">Partner Name</h5>
+            <p class="card-text">Kurzbeschreibung des Partners.</p>
+            <a href="https://partner-website.de" class="btn btn-primary" target="_blank" rel="noopener">Zur Website</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  {% include footer.html %}
+  {% include scripts.html %}
+</body>
+</html>
