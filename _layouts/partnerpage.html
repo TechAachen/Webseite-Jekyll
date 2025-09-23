@@ -3,42 +3,65 @@
 {% include head.html %}
 <body id="page-top">
   {% include navbar.html %}
+  {% include header.html %}
 
   <div class="container">
-    <h1>{{ page.title }}</h1>
 
-    <h2>Dauerhafte Partner</h2>
+    <h1 class="my-5 text-center">{{ page.title }}</h1>
+
+    <!-- Dauerhafte Partner -->
+    <h2 class="mb-4">Dauerhafte Partner</h2>
     <div class="row">
       {% for p in page.dauerhaftepartner %}
-        <div class="col-sm-6 col-md-3 text-center mb-4">
-          <img src="{{ p.logo }}" alt="{{ p.name }}" class="img-fluid mb-2">
-          <div>{{ p.name }}</div>
+        <div class="col-sm-6 col-md-3 mb-4">
+          <div class="card h-100 text-center shadow-sm">
+            <img src="{{ p.logo }}" class="card-img-top p-3 img-fluid" alt="{{ p.name }}">
+            <div class="card-body">
+              <h5 class="card-title">{{ p.name }}</h5>
+            </div>
+          </div>
         </div>
       {% endfor %}
     </div>
 
-    <h2>Unterstützer</h2>
+    <!-- Unterstützer -->
+    <h2 class="mb-4 mt-5">Unterstützer</h2>
     <div class="row">
       {% for u in page.unterstuetzer %}
-        <div class="col-sm-6 col-md-3 text-center mb-4">
-          <img src="{{ u.logo }}" alt="{{ u.name }}" class="img-fluid mb-2">
-          <div>{{ u.name }}</div>
+        <div class="col-sm-6 col-md-3 mb-4">
+          <div class="card h-100 text-center shadow-sm">
+            <img src="{{ u.logo }}" class="card-img-top p-3 img-fluid" alt="{{ u.name }}">
+            <div class="card-body">
+              <h5 class="card-title">{{ u.name }}</h5>
+            </div>
+          </div>
         </div>
       {% endfor %}
     </div>
 
-    <h2>TechTurbo 2025 Partner</h2>
+    <!-- TechTurbo 2025 -->
+    <h2 class="mb-4 mt-5">TechTurbo 2025 Partner</h2>
     <div class="row">
       {% for t in page.techturbo2025 %}
-        <div class="col-sm-6 col-md-3 text-center mb-4">
-          <img src="{{ t.logo }}" alt="{{ t.name }}" class="img-fluid mb-2">
-          <div>{{ t.name }}</div>
+        <div class="col-sm-6 col-md-3 mb-4">
+          <div class="card h-100 text-center shadow-sm">
+            <img src="{{ t.logo }}" class="card-img-top p-3 img-fluid" alt="{{ t.name }}">
+            <div class="card-body">
+              <h5 class="card-title">{{ t.name }}</h5>
+            </div>
+          </div>
         </div>
       {% endfor %}
     </div>
 
-    <h2>Partner werden</h2>
-    <p>{{ page.werdetpartner }}</p>
+    <!-- Partner werden -->
+    <h2 class="mb-4 mt-5">Partner werden</h2>
+    <div class="card shadow-sm mb-5">
+      <div class="card-body">
+        <p class="card-text">{{ page.werdetpartner }}</p>
+        <a href="/contact.html" class="btn btn-primary">Kontakt aufnehmen</a>
+      </div>
+    </div>
 
   </div>
 
