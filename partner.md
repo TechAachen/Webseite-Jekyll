@@ -15,5 +15,5 @@ techturbo2025:
 werdetpartner: |
   Wir freuen uns immer über neue Partnerschaften!  
   Wenn Ihr Unternehmen mit uns zusammenarbeiten möchte,  
-  meldet euch gerne über unsere [Kontaktseite](/contact.html).
+  meldet euch gerne über unsere Kontaktseite.
 ---
