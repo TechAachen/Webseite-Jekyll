@@ -8,7 +8,7 @@ unterstuetzer:
   - name: proRWTH
     logo: img/partners/prorwth.jpg
   - name: Collective Incubator
-    logo: img/parterns/collectiveincubator.svg
+    logo: img/partners/collectiveincubator.svg
 techturbo2025:
   - name: Leadrive Technology Germany GmbH
     logo: img/partners/leadrive.svg
