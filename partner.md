@@ -6,6 +6,7 @@ dauerhaftepartner:
     logo: img/partners/leadrive.svg
 
 unterstuetzer:
+[]
 <!--
   - name: proRWTH
     logo: img/partners/prorwth.jpg
