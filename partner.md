@@ -4,8 +4,8 @@ title: Partner
 dauerhaftepartner:
   - name: Leadrive Technology Germany GmbH
     logo: img/partners/leadrive.svg
-unterstuetzer:
 <!--
+unterstuetzer:
   - name: proRWTH
     logo: img/partners/prorwth.jpg
   - name: Collective Incubator
