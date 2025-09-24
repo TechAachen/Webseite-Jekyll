@@ -14,6 +14,6 @@ techturbo2025:
     logo: img/partners/leadrive.svg
 werdetpartner: |
   Wir freuen uns immer über neue Partnerschaften!  
-  Wenn euer Unternehmen mit uns zusammenarbeiten möchte,  
+  Wenn Euer Unternehmen mit uns zusammenarbeiten möchte,  
   meldet euch gerne über unsere Kontaktseite.
 ---
