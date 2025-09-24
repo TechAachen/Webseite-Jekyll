@@ -25,7 +25,7 @@ persons:
   - name: Chiara Dutschke
     function: "Event Koordination"
     active: true
-    image: "img/persons/chiara-dutschke.jpg"
+    image: "img/persons/chiara-dutschke.jpeg"
     order: "40"
     active: true # ignore
     boardmember: false # ignore
