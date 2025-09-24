@@ -1,0 +1,39 @@
+persons:
+  - name: Niklas Börstinghaus
+    function: "1. Vorsitzender"
+    image: "img/persons/niklas-boerstinghaus25.jpg"
+    order: "10"
+    active: true # ignore
+    boardmember: true # ignore
+
+  - name: Paul Ignatiadis
+    function: "2. Vorsitzender"
+    active: true
+    image: "img/persons/paul-ignatiadis25.jpg"
+    order: "20"
+    active: true # ignore
+    boardmember: true # ignore
+
+  - name: Jannis Bergmann
+    function: "3. Vorsitzender"
+    active: true
+    image: "img/persons/jannis-bergmann25.jpg"
+    order: "30"
+    active: true # ignore
+    boardmember: true # ignore
+
+  - name: Chiara Dutschek
+    function: "3. Vorsitzender"
+    active: true
+    image: "img/persons/chiara-dutschek.jpg"
+    order: "11"
+    active: true # ignore
+    boardmember: false # ignore
+
+  - name: Hanna Kim
+    function: "3. Vorsitzender"
+    active: true
+    image: ""
+    order: "21"
+    active: true # ignore
+    boardmember: false # ignore
