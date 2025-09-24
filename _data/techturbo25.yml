@@ -22,18 +22,18 @@ persons:
     active: true # ignore
     boardmember: true # ignore
 
-  - name: Chiara Dutschek
-    function: "3. Vorsitzender"
+  - name: Chiara Dutschke
+    function: "Event Koordination"
     active: true
-    image: "img/persons/chiara-dutschek.jpg"
-    order: "11"
+    image: "img/persons/chiara-dutschke.jpg"
+    order: "40"
     active: true # ignore
     boardmember: false # ignore
 
   - name: Hanna Kim
-    function: "3. Vorsitzender"
+    function: "Event Koordination"
     active: true
     image: ""
-    order: "21"
+    order: "50"
     active: true # ignore
     boardmember: false # ignore
