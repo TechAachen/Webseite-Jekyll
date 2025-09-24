@@ -6,7 +6,10 @@ dauerhaftepartner:
     logo: img/partners/leadrive.svg
 
 unterstuetzer:
-
+  - name: proRWTH
+    logo: img/partners/prorwth.jpg
+  - name: Collective Incubator
+    logo: img/partners/collectiveincubator.svg
 
 techturbo2025:
   - name: Leadrive Technology Germany GmbH
