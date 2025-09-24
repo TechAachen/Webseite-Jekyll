@@ -49,4 +49,10 @@ Wir freuen uns sehr auf ein gemeinsames Wochenende! Sagt einfach Bescheid, falls
 </div>
 <br />
 
+## Organisation – Das Team
 
+{% include persons.html persons=site.data.techturbo25.persons %}
+
+## Sponsoren und Unterstützer
+
+{% include sponsors.html sponsors=site.data.techturbo25.sponsors %}
