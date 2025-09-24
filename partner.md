@@ -5,7 +5,7 @@ dauerhaftepartner:
   - name: Leadrive Technology Germany GmbH
     logo: img/partners/leadrive.svg
 
-unterstuetzer:[]
+unterstuetzer:
 
 
 techturbo2025:
