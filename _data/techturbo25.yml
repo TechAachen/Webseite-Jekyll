@@ -33,7 +33,7 @@ persons:
   - name: Hanna Kim
     function: "Event Koordination"
     active: true
-    image: ""
+    image: "img/persons/blank.svg"
     order: "50"
     active: true # ignore
     boardmember: false # ignore
