@@ -7,10 +7,10 @@
         
         <!-- Logo (doppelt so groß wie Personenbilder) -->
         <div class="d-flex align-items-center justify-content-center" style="height: 300px; width: 100%;">
-          <img src="{{ sponsor.logo }}" 
-               alt="{{ sponsor.name }}" 
-               class="img-fluid"
-               style="max-height: 280px; width: auto;">
+          <img src="{{ sponsor.logo | relative_url }}" 
+           alt="{{ sponsor.name }}" 
+           style="max-height: 280px; width: auto; object-fit: contain;">
+
         </div>
 
         <!-- Name -->
