@@ -5,18 +5,19 @@
     <div class="col-lg-3 col-md-6 col-12 p-3">
       <div class="card h-100 shadow card-sponsor">
         
-        <!-- Logo (doppelt so groß wie Personenbilder) -->
-        <div class="d-flex align-items-center justify-content-center" style="height: 300px; width: 100%;">
-          <img src="{{ sponsor.image }}" 
-           alt="{{ sponsor.name }}" 
-           style="max-height: 280px; width: auto; object-fit: contain;">
+        <div class="card h-100 shadow card-sponsor">
+          <div class="d-flex align-items-center justify-content-center h-75">
+            <img src="{{sponsor.image}}" 
+             alt="{{sponsor.name}}" 
+             class="img-fluid"
+             style="max-height: 100%; object-fit: contain;">
+            </div>
 
+        <div class="card-body text-center h-25">
+        <h3 class="card-title mt-2">{{sponsor.name}}</h3>
         </div>
+      </div>
 
-        <!-- Name -->
-        <div class="card-body text-center">
-          <h3 class="card-title mt-2">{{ sponsor.name }}</h3>
-        </div>
 
       </div>
     </div>
