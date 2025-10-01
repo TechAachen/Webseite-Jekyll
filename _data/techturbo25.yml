@@ -38,3 +38,7 @@ persons:
     order: "50"
     active: true # ignore
     boardmember: false # ignore
+    
+sponsors:
+- name: Leadrive Technology Germany GmbH
+  logo: /img/partners/leadrive.svg
