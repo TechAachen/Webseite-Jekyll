@@ -1,6 +1,10 @@
 ---
-layout: paperwork
+layout: paperwork2
 title: TechTurbo 2025
+titleimg375: img/aboutus/gruppenbild_375x400.jpg
+titleimg690: img/aboutus/gruppenbild_690x400.jpg
+titleimg1110: img/aboutus/gruppenbild_1110x400.jpg
+slogan: TechTurbo 2025
 ---
 
 <div class="row">
