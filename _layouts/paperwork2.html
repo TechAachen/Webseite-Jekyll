@@ -5,41 +5,44 @@
 
 {% include navbar.html %}
 
-  <!-- Header mit optionalem Hintergrundbild und Slogan -->
-  {% if page.titleimg375 %}
-  <div class="card shadow text-white" style="height: 400px;">
-    <img srcset="{{ page.titleimg375 }} 375w, {{page.titleimg690}} 690w, {{page.titleimg1110}} 1110w"
-         sizes="100vw" class="card-img" style="height: 400px; object-fit: cover;" alt="Titelbild">
-    <div class="card-img-overlay d-flex flex-column">
-      <div class="pr-3 d-flex justify-content-end align-self-end mt-auto">
-        <h1>{{ page.slogan }}</h1>
+  <div class="container pt-5">
+    <!-- Titelbild mit Slogan (wie AboutUs-Seite) -->
+    {% if page.titleimg375 %}
+    <section id="header-image" class="pb-0">
+      <div class="card shadow text-white" style="height: 400px;">
+        <img srcset="{{ page.titleimg375 }} 375w, {{page.titleimg690}} 690w, {{page.titleimg1110}} 1110w"
+             sizes="100vw" class="card-img" style="height: 400px; object-fit: cover;" alt="Titelbild">
+        <div class="card-img-overlay d-flex flex-column">
+          <div class="pr-3 d-flex justify-content-end align-self-end mt-auto">
+            <h1>{{ page.slogan }}</h1>
+          </div>
+        </div>
       </div>
-    </div>
-  </div>
-  {% else %}
-  <div class="container text-center pt-5">
-    <h2 class="section-heading">{{ page.title }}</h2>
-    <hr class="primary">
-  </div>
-  {% endif %}
+    </section>
+    {% else %}
+    <section id="header-text" class="text-center pt-5">
+      <h2 class="section-heading">{{ page.title }}</h2>
+      <hr class="primary">
+    </section>
+    {% endif %}
 
-  <!-- Hauptinhalt -->
-  <section id="content">
-    <div class="container pt-4">
+    <!-- Hauptinhalt -->
+    <section id="content" class="pt-4">
       <div class="text-left">
         {{ content }}
       </div>
-    </div>
-  </section>
+    </section>
 
-  <!-- Nach oben Button -->
-  <section id="goback" class="only-bottom-padding">
-    <div class="text-center">
-      <a href="#top" class="btn btn-primary btn-xl">Nach oben</a>
-    </div>
-  </section>
+    <!-- Nach oben Button -->
+    <section id="goback" class="only-bottom-padding">
+      <div class="text-center">
+        <a href="#top" class="btn btn-primary btn-xl">Nach oben</a>
+      </div>
+    </section>
 
-{% include footer.html %}
+    {% include footer.html %}
+  </div>
+
 {% include scripts.html %}
 </body>
 </html>
