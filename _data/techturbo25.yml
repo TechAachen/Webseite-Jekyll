@@ -44,3 +44,12 @@ sponsors:
   image: "img/partners/leadrive.svg"
 - name: CADFEM Germany GmbH
   image: "img/partners/CADFEM_Logo_blue_sRGB_M.png"
+
+techturboimpressions1:
+- name: Gruppe
+  image: "img/techturbo/hochkant_gruppe.jpg"
+- name: Kochen
+  image: "img/techturbo/hochkant_kochen.jpg"
+- name: Tischtennis
+  image: "img/techturbo/hochkant_tischtennis.jpg"
+  
