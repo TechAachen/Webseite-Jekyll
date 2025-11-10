@@ -1,7 +1,7 @@
 ---
 layout: paperwork2
 title: TechTurbo 2025
-titleimg5184: img/techturbo/TechTurbo_Gruppenbild2025.JPG
+titleimg5184: img/techturbo/TechTurbo_Gruppenbild2025.jpg
 slogan: TechTurbo 2025
 ---
 
@@ -10,23 +10,27 @@ slogan: TechTurbo 2025
 </div>
 <br />
 
-Bei dem Workshop- und Arbeitswochenende fahren über 100 Studierende aus den technischen Initiativen gemeinsam 3 Tage lang zu einer Jugendherberge in die Eifel. Dort werden viele verschiedene Workshops ausgerichtet, man kann Arbeitstreffen in Teams organisieren oder auch alleine arbeiten. Dafür stehen mehrere Konferenzräume, ein Gruppenarbeitsraum und ein Stillarbeitsraum, sowie eine Turnhalle zur Verfügung. 
-Das Wochenende ist also die perfekte Möglichkeit, sich weiterzubilden, andere Initiativen kennenzulernen, sich auszutauschen oder auch einfach nur ein bisschen Teambuilding zu betreiben.
+## 3 Tage technische Skills erweitern, Networking und Spaß in der Eifel!
+Vom 20. bis 23. November 2025 fahren über 100 Studierende, zum Großteil aus den technischen Initiativen, gemeinsam in die Eifel für ein Wochenende voller Workshops, Austausch, Teamarbeit und Glühwein am Kamin!
 
-Dieses Jahr werden wir ca. 135 Plätze zur Verfügung haben. Hier gilt: First come, first served!
-Du kannst dich als Individualperson bald anmelden. Wo genau, werden wir rechtzeitig bekanntgeben.
-Vereine haben außerdem die Möglichkeit, ein gewisses Kontingent an Plätzen zu reservieren. Das ist besonders praktisch, falls ihr in nächster Zeit mit Mitgliederzuwachs rechnet, der sich jetzt noch nicht anmelden kann. Dazu kontaktiert ihr uns am besten und wir finden dazu gemeinsam eine Lösung!
+Ob du neue Skills lernen, dein Projekt voranbringen oder einfach andere motivierte Studierende kennenlernen willst, das Wochenende ist die perfekte Gelegenheit dafür. Neben spannenden Workshops und Gelegenheiten zur Zusammenarbeit in verschiedenen Konferenzräume und Arbeitsräume erwarten dich auch Freizeitaktivitäten wie Wandern, Sport in der Turnhalle und natürlich gemütliche Abende mit Musik und Glühwein.
 
-## Details
+## Anmeldung & Plätze
 
-### Kosten
+Dieses Jahr stehen ca. 135 Plätze zur Verfügung. First come, first served!
 
-Die Eigenbeteiligung beträgt 45 Euro.
+- Einzelpersonen können sich hier über unsere Website anmelden.  
+- Vereine haben die Möglichkeit, ein kleines Kontingent zu reservieren – besonders falls ihr mit neuen Mitgliedern rechnet, die sich jetzt noch nicht anmelden können. Kontaktiert uns dazu!
 
-Nach aktueller Kalkulation kostet das Wochenende ca. 180 Euro pro Person, jedoch werden wir mithilfe von Fördermitteln und Sponsorings den Großteil der Kosten übernehmen, sodass ihr nur einen Anteil davon bezahlen müsst.
+## Kosten
 
-Sollten die Kosten aus irgendwelchen Gründen zu hoch für jemanden von euch sein, sagt uns gerne Bescheid und wir übernehmen die vollen Kosten!
-(Nicht-Studierende müssen leider die vollen Kosten tragen.)
+Die Eigenbeteiligung beträgt **45 Euro**.
+
+Nach aktueller Kalkulation kostet das Wochenende etwa 180 Euro pro Person, aber dank Fördermitteln und Sponsoren übernehmen wir den Großteil der Kosten.  
+Sollten die 45 Euro für jemanden zu hoch sein – kein Problem! Meldet euch einfach bei uns, und wir übernehmen die Kosten vollständig.  
+*(Nicht-Studierende müssen leider die vollen Kosten tragen.)*
+
+Das Ticket kann jederzeit an eine andere Person weitergegeben werden. Bei Stornierung fallen jedoch bis zu 25 € Bearbeitungsgebühr an. Sofern das Event voll finanziert ist, können diese Kosten sinken. Falls das Event durch TechAachen abgesagt werden muss, werden die vollen Kosten erstattet.
 
 #### Stornierung
 
@@ -36,15 +40,29 @@ Bei Stornierung fallen bis zu 25 € Bearbeitungsgebühr an. Sofern das Event vo
 
 Falls das Event durch TechAachen abgesagt werden muss, werden die vollen Kosten erstattet.
 
-### Unterkunft
+## Unterkunft
 
-Wir werden genug Platz für alle haben, um gemeinsam zu arbeiten und uns auszutauschen. Es wird mehrere Stillarbeitsräume sowie einen großen Raum zum gemeinsamen Austausch geben. Außerdem gibt es im Haus und auf dem großen Gelände genug Platz um miteinander in Kontakt zu kommen. Hier ein Link zu unserer Unterkunft: [https://www.auszeiteifel-gaestehaus.de](https://www.auszeiteifel-gaestehaus.de){:target="_blank"} in Gemünd in der Eifel.
+Wir übernachten im **Gästehaus Auszeit Eifel** in Gemünd:  
+👉 [https://www.auszeiteifel-gaestehaus.de](https://www.auszeiteifel-gaestehaus.de)
 
-### An- und Abreise
+**Adresse:**  
+Auf d. Batterie 9, 53937 Schleiden
 
-Anreisen könnt ihr am Donnerstag den 20.11. zwischen 17 und 19 Uhr. Entweder ihr organisiert euch in Fahrgemeinschaften oder ihr erreicht innerhalb von ca. 2 h per ÖPNV die Unterkunft von Aachen aus.
-Unser Programm und die offizielle Begrüßung werden am Donnerstag um 20 Uhr starten. Abreise ist am Sonntag den 23.11. gegen 14 Uhr.
-Wir freuen uns sehr auf ein gemeinsames Wochenende! Sagt einfach Bescheid, falls ihr noch Fragen oder Anmerkungen habt.
+Dort haben wir genug Platz zum Arbeiten, Netzwerken und Entspannen:
+
+- große Konferenzräume  
+- Gruppen- und Stillarbeitsräume  
+- eine Turnhalle  
+- ein weitläufiges Außengelände
+
+**Anreise:** Donnerstag, 20. November, zwischen 17 und 19 Uhr  
+**Offizieller Start:** Donnerstag, 20 Uhr  
+**Abreise:** Sonntag, 23. November, gegen 14 Uhr
+
+Ihr könnt euch in Fahrgemeinschaften organisieren oder das Gästehaus in etwa 2 Stunden mit dem ÖPNV von Aachen aus erreichen. Eine spätere Anreise oder eine frühere Abreise ist ebenfalls möglich; es gibt keine Anwesenheitspflicht.
+
+Wenn ihr noch Fragen oder Anmerkungen habt, schreibt uns einfach!  
+**Wir freuen uns auf euch!**
 
 <div class="row">
   <div style="margin-left: auto; margin-right: auto;"><a href="https://shop.techaachen.de/TechAachen/TT25/" class="btn btn-primary btn-xl" title="Anmeldung">Anmeldung</a></div>
