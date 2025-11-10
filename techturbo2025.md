@@ -15,6 +15,8 @@ Vom 20. bis 23. November 2025 fahren über 100 Studierende, zum Großteil aus de
 
 Ob du neue Skills lernen, dein Projekt voranbringen oder einfach andere motivierte Studierende kennenlernen willst, das Wochenende ist die perfekte Gelegenheit dafür. Neben spannenden Workshops und Gelegenheiten zur Zusammenarbeit in verschiedenen Konferenzräume und Arbeitsräume erwarten dich auch Freizeitaktivitäten wie Wandern, Sport in der Turnhalle und natürlich gemütliche Abende mit Musik und Glühwein.
 
+{% include techturboimpressions1.html impressions1=site.data.techturbo25.impressions1 %}
+
 ## Anmeldung & Plätze
 
 Dieses Jahr stehen ca. 135 Plätze zur Verfügung. First come, first served!
