@@ -1,7 +1,7 @@
 ---
 layout: paperwork2
 title: TechTurbo 2025
-titleimg375: img/techturbo/TechTurbo_Gruppenbild2025.jpg
+titleimg1110: img/techturbo/TechTurbo_Gruppenbild2025.jpg
 slogan: TechTurbo 2025
 ---
 
