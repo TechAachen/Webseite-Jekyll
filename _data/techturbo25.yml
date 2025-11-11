@@ -46,6 +46,14 @@ sponsors:
   image: "img/partners/CADFEM_Logo_blue_sRGB_M.png"
 
 techturbo1impressions:
+- name: WorkshopAixtreme
+  image: "img/techturbo/breit_aixtreme.jpg"
+- name: WorkshopADDI
+  image: "img/techturbo/breit_addi.jpg"
+- name: WorkshopWE
+  image: "img/techturbo/breit_WE.jpg"
+  
+techturbo2impressions:
 - name: Gruppe
   image: "img/techturbo/hochkant_gruppe.jpg"
 - name: Kochen
