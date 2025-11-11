@@ -42,6 +42,8 @@ Bei Stornierung fallen bis zu 25 € Bearbeitungsgebühr an. Sofern das Event vo
 
 Falls das Event durch TechAachen abgesagt werden muss, werden die vollen Kosten erstattet.
 
+{% include techturboimpressions2.html techturbo2impressions=site.data.techturbo25.techturbo2impressions %}
+
 ## Unterkunft
 
 Wir übernachten im **Gästehaus Auszeit Eifel** in Gemünd:  
