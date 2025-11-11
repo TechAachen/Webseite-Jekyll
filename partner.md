@@ -14,6 +14,8 @@ techturbo2025:
     logo: img/partners/leadrive.svg
   - name: CADFEM Germany GmbH
     logo: img/partners/CADFEM_Logo_blue_sRGB_M.png
+  - name: AISLER Germany GmbH
+    logo: "img/partners/AISLER_PowerfulPrototyping_1by2.svg"
     
 werdetpartner: |
   Wir freuen uns immer über neue Partnerschaften!  
