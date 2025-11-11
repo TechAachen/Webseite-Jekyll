@@ -4,6 +4,8 @@ title: Partner
 dauerhaftepartner:
   - name: Leadrive Technology Germany GmbH
     logo: img/partners/leadrive.svg
+  - name: AISLER Germany GmbH
+    logo: "img/partners/AISLER_PowerfulPrototyping_1by2.svg"
 
 unterstuetzer:
   - name: Collective Incubator
