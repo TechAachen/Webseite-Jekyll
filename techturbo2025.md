@@ -60,7 +60,7 @@ Dort haben wir genug Platz zum Arbeiten, Netzwerken und Entspannen:
 - ein weitläufiges Außengelände
 
 **Anreise:** Donnerstag, 20. November, zwischen 17 und 19 Uhr  
-**Offizieller Start:** Donnerstag, 20 Uhr  
+**Offizieller Start:** Donnerstag, 19 Uhr  
 **Abreise:** Sonntag, 23. November, gegen 14 Uhr
 
 Ihr könnt euch in Fahrgemeinschaften organisieren oder das Gästehaus in etwa 2 Stunden mit dem ÖPNV von Aachen aus erreichen. Eine spätere Anreise oder eine frühere Abreise ist ebenfalls möglich; es gibt keine Anwesenheitspflicht.
