@@ -60,7 +60,16 @@
               </div>
 
               <!-- Name -->
-              <h5 class="card-title mt-auto">{{ u.name }}</h5>
+              {% if p.url %}
+                <h5 class="card-title mt-auto">
+                  <a href="{{ p.url }}" target="_blank" rel="noopener" style="color: #007bff; text-decoration: none;">
+                    {{ p.name }}
+                  </a>
+                </h5>
+              {% else %}
+                <h5 class="card-title mt-auto">{{ p.name }}</h5>
+              {% endif %}
+              
             </div>
           </div>
         </div>
@@ -85,7 +94,16 @@
               </div>
 
               <!-- Name -->
-              <h5 class="card-title mt-auto">{{ t.name }}</h5>
+              {% if p.url %}
+                <h5 class="card-title mt-auto">
+                  <a href="{{ p.url }}" target="_blank" rel="noopener" style="color: #007bff; text-decoration: none;">
+                    {{ p.name }}
+                  </a>
+                </h5>
+              {% else %}
+                <h5 class="card-title mt-auto">{{ p.name }}</h5>
+              {% endif %}
+              
             </div>
           </div>
         </div>
