@@ -15,7 +15,16 @@
           </div>
 
           <!-- Name -->
-          <h4 class="card-title mt-auto">{{ sponsor.name }}</h4>
+          {% if sponsor.url %}
+                <h4 class="card-title mt-auto">
+                  <a href="{{ sponsor.url }}" target="_blank" rel="noopener" style="color: #007bff; text-decoration: none;">
+                    {{ sponsor.name }}
+                  </a>
+                </h4>
+              {% else %}
+                <h4 class="card-title mt-auto">{{ sponsor.name }}</h4>
+              {% endif %}
+          
         </div>
       </div>
     </div>
