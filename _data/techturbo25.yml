@@ -64,4 +64,12 @@ techturbo2impressions:
   image: "img/techturbo/hochkant_kochen.jpg"
 - name: Tischtennis
   image: "img/techturbo/hochkant_tischtennis.jpg"
+
+  techturbo4impressions:
+- name: ProgrammFreitag
+  image: "img/techturbo/Programm_Freitag.png"
+- name: ProgrammSamstag
+  image: "img/techturbo/Programm_Samstag.png"
+
+  
   
