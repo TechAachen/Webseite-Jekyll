@@ -66,10 +66,14 @@ Dort haben wir genug Platz zum Arbeiten, Netzwerken und Entspannen:
 
 Ihr könnt euch in Fahrgemeinschaften organisieren oder das Gästehaus in etwa 2 Stunden mit dem ÖPNV von Aachen aus erreichen. Eine spätere Anreise oder eine frühere Abreise ist ebenfalls möglich; es gibt keine Anwesenheitspflicht.
 
+{% include techturboimpressions2.html techturbo2impressions=site.data.techturbo25.techturbo2impressions %}
+
 Wenn ihr noch Fragen oder Anmerkungen habt, schreibt uns einfach!  
 **Wir freuen uns auf euch!**
 
-{% include techturboimpressions2.html techturbo2impressions=site.data.techturbo25.techturbo2impressions %}
+**Programm Vorschau:** 
+
+
 
 <div class="row">
   <div style="margin-left: auto; margin-right: auto;"><a href="https://shop.techaachen.de/TechAachen/TT25/" class="btn btn-primary btn-xl" title="Anmeldung">Anmeldung</a></div>
