@@ -14,9 +14,17 @@ persons:
     order: "20"
     active: true # ignore
     boardmember: true # ignore
+    
+  - name: Carolin Kiewel
+    function: "3. Vorsitzende"
+    active: true
+    image: "img/persons/caro-kiewel.jpg"
+    order: "60"
+    active: true # ignore
+    boardmember: true # ignore
 
   - name: Jannis Bergmann
-    function: "3. Vorsitzender"
+    function: "ehemaliger Vorsitzender"
     active: true
     image: "img/persons/jannis-bergmann25.jpg"
     order: "30"
