@@ -19,7 +19,7 @@ persons:
     function: "3. Vorsitzende"
     active: true
     image: "img/persons/caro-kiewel.jpg"
-    order: "60"
+    order: "30"
     active: true # ignore
     boardmember: true # ignore
 
@@ -27,7 +27,7 @@ persons:
     function: "ehemaliger Vorsitzender"
     active: true
     image: "img/persons/jannis-bergmann25.jpg"
-    order: "30"
+    order: "40"
     active: true # ignore
     boardmember: true # ignore
 
@@ -35,7 +35,7 @@ persons:
     function: "Event Koordination"
     active: true
     image: "img/persons/chiara-dutschke.jpeg"
-    order: "40"
+    order: "50"
     active: true # ignore
     boardmember: false # ignore
 
@@ -43,7 +43,7 @@ persons:
     function: "Event Koordination"
     active: true
     image: "img/persons/blank.svg"
-    order: "50"
+    order: "60"
     active: true # ignore
     boardmember: false # ignore
     
