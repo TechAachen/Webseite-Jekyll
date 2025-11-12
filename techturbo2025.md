@@ -71,7 +71,7 @@ Ihr könnt euch in Fahrgemeinschaften organisieren oder das Gästehaus in etwa 2
 Wenn ihr noch Fragen oder Anmerkungen habt, schreibt uns einfach!  
 **Wir freuen uns auf euch!**
 
-**Programm Vorschau:** 
+## Programm Vorschau:
 
 
 
