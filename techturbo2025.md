@@ -73,7 +73,7 @@ Wenn ihr noch Fragen oder Anmerkungen habt, schreibt uns einfach!
 
 ## Programm Vorschau:
 
-
+{% include techturboimpressions4.html techturbo4impressions=site.data.techturbo25.techturbo4impressions %}
 
 <div class="row">
   <div style="margin-left: auto; margin-right: auto;"><a href="https://shop.techaachen.de/TechAachen/TT25/" class="btn btn-primary btn-xl" title="Anmeldung">Anmeldung</a></div>
