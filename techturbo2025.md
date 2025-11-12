@@ -42,7 +42,8 @@ Bei Stornierung fallen bis zu 25 € Bearbeitungsgebühr an. Sofern das Event vo
 
 Falls das Event durch TechAachen abgesagt werden muss, werden die vollen Kosten erstattet.
 
-{% include techturboimpressions2.html techturbo2impressions=site.data.techturbo25.techturbo2impressions %}
+{% include techturboimpressions3.html techturbo3impressions=site.data.techturbo25.techturbo3impressions %}
+
 
 ## Unterkunft
 
@@ -67,6 +68,8 @@ Ihr könnt euch in Fahrgemeinschaften organisieren oder das Gästehaus in etwa 2
 
 Wenn ihr noch Fragen oder Anmerkungen habt, schreibt uns einfach!  
 **Wir freuen uns auf euch!**
+
+{% include techturboimpressions2.html techturbo2impressions=site.data.techturbo25.techturbo2impressions %}
 
 <div class="row">
   <div style="margin-left: auto; margin-right: auto;"><a href="https://shop.techaachen.de/TechAachen/TT25/" class="btn btn-primary btn-xl" title="Anmeldung">Anmeldung</a></div>
