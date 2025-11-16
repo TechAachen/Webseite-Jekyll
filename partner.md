@@ -20,6 +20,8 @@ techturbo2025:
   - name: AISLER Germany GmbH
     logo: "img/partners/AISLER_PowerfulPrototyping_1by2.svg"
     url:  https://aisler.net/
+  - name: Würth Elektronik eiSos GmbH & Co. KG
+    logo: img/partners/Logo_WE_RGB_pos.png
     
 werdetpartner: |
   Wir freuen uns immer über neue Partnerschaften!  
