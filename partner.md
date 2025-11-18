@@ -9,6 +9,8 @@ dauerhaftepartner:
     url:  https://aisler.net/
 
 unterstuetzer:
+  - name: proRWTH
+    logo: img/partners/prorwth.jpg
   - name: Collective Incubator
     logo: img/partners/collectiveincubator.svg
 
