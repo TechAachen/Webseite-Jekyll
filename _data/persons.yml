@@ -1,21 +1,21 @@
 - name: Niklas Börstinghaus
   function: "1. Vorsitzender"
   active: true
-  image: "img/persons/niklas-boerstinghaus25.jpg"
+  image: "img/persons/niklas-boerstinghaus3.jpg"
   order: 0_vorstand_1
   boardmember: true
 
 - name: Paul Ignatiadis
   function: "2. Vorsitzender"
   active: true
-  image: "img/persons/paul-ignatiadis25.jpg"
+  image: "img/persons/paul-ignatiadis3.jpg"
   order: 0_vorstand_2
   boardmember: true
   
-- name: Jannis Bergmann
+- name: Carolin Kiewel
   function: "3. Vorsitzende"
   active: true
-  image: "img/persons/jannis-bergmann25.jpg"
+  image: "img/persons/caro-kiewel2.jpg"
   order: 0_vorstand_3
   boardmember: true
 
