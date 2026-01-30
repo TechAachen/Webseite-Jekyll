@@ -2,7 +2,7 @@ persons:
   - name: Niklas Börstinghaus
     function: "1. Vorsitzender"
     active: true
-    image: "img/persons/niklas-boerstinghaus25.jpg"
+    image: "img/persons/niklas-boerstinghaus3.jpg"
     order: "10"
     active: true # ignore
     boardmember: true # ignore
@@ -10,7 +10,7 @@ persons:
   - name: Paul Ignatiadis
     function: "2. Vorsitzender"
     active: true
-    image: "img/persons/paul-ignatiadis25.jpg"
+    image: "img/persons/paul-ignatiadis3.jpg"
     order: "20"
     active: true # ignore
     boardmember: true # ignore
@@ -18,7 +18,7 @@ persons:
   - name: Carolin Kiewel
     function: "3. Vorsitzende"
     active: true
-    image: "img/persons/caro-kiewel.jpg"
+    image: "img/persons/caro-kiewel2.jpg"
     order: "30"
     active: true # ignore
     boardmember: true # ignore
