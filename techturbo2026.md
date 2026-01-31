@@ -44,14 +44,6 @@ Bearbeitungsgebühr an.
 Sofern das Event voll finanziert ist, können diese Kosten sinken. Falls das Event durch TechAachen abgesagt werden muss, 
 werden die vollen Kosten erstattet.
 
-#### Stornierung
-
-Das Ticket kann jederzeit an eine andere Person weitergegeben werden.
-
-Bei Stornierung fallen bis zu 25 € Bearbeitungsgebühr an. Sofern das Event voll finanziert ist, können diese Kosten sinken.
-
-Falls das Event durch TechAachen abgesagt werden muss, werden die vollen Kosten erstattet.
-
 {% include techturboimpressions3.html techturbo3impressions=site.data.techturbo26.techturbo3impressions %}
 
 
