@@ -1,0 +1,56 @@
+persons:
+  - name: Niklas Börstinghaus
+    function: "1. Vorsitzender"
+    active: true
+    image: "img/persons/niklas-boerstinghaus3.jpg"
+    order: "10"
+    active: true # ignore
+    boardmember: true # ignore
+    
+  - name: Paul Ignatiadis
+    function: "2. Vorsitzender"
+    active: true
+    image: "img/persons/paul-ignatiadis3.jpg"
+    order: "20"
+    active: true # ignore
+    boardmember: true # ignore
+    
+  - name: Carolin Kiewel
+    function: "3. Vorsitzende"
+    active: true
+    image: "img/persons/caro-kiewel2.jpg"
+    order: "30"
+    active: true # ignore
+    boardmember: true # ignore
+    
+sponsors:
+
+
+techturbo1impressions:
+- name: WorkshopAixtreme
+  image: "img/techturbo/breit_aixtreme.jpg"
+- name: WorkshopADDI
+  image: "img/techturbo/breit_addi.jpg"
+
+techturbo3impressions:
+- name: WorkshopWE
+  image: "img/techturbo/breit_WE.jpg"
+- name: WorkshopTurnen
+  image: "img/techturbo/breit_turnen.jpg"
+  
+techturbo2impressions:
+- name: Gruppe
+  image: "img/techturbo/hochkant_gruppe.jpg"
+- name: Kochen
+  image: "img/techturbo/hochkant_kochen.jpg"
+- name: Tischtennis
+  image: "img/techturbo/hochkant_tischtennis.jpg"
+
+techturbo4impressions:
+- name: ProgrammFreitag
+  image: "img/techturbo/Programm_Freitag.png"
+- name: ProgrammSamstag
+  image: "img/techturbo/Programm_Samstag.png"
+
+
+  
