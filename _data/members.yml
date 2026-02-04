@@ -120,6 +120,19 @@
     Vom Satelliten über wissenschaftliche Projekte, die ins Weltall fliegen bis hin zur Experimentalrakete.
     Mit unsern Experimentalraketen nehmen wir jährlich an internationalen Studenten Wettbewerben teil und messen uns in verschiedenen Kategorien.
 
+- name: MoonAixperts
+  type: Mitglied
+  since: 2021
+  image: img/members/MoonAixperts.jpg
+  link: https://www.moonaixperts.de/
+  order: moonaixperts
+  description: |
+    MoonAixperts e.V. ist eine studentische Initiative der RWTH Aachen, die 
+    sich auf die Entwicklung von ISRU Technologien zur Nutzung lunarer Ressourcen spezialisiert. Im Rahmen von Wettbewerben, Hackathons und 
+    Experimenten entstehen dabei technische Konzepte und Prototypen, die sowohl Bergbau auf dem Mond, als auch die nachhaltige Errichtung 
+    eines lunaren Außenpostens ermöglichen sollen.
+
+
 #- name: Energybirds
 #  since: 2018
 #  image: img/members/energybirds.jpg
