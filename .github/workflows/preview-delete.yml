@@ -1,0 +1,33 @@
+name: Delete previews
+on:
+  pull_request:
+    branches:
+      - main
+    types:
+      - closed
+
+jobs:
+  preview-delete:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Delete branch from preview2.techaachen.de
+        env:
+          UPLOAD_AUTH_2: ${{ secrets.UPLOAD_AUTH_2 }}
+        run: |
+          curl -s --user $UPLOAD_AUTH_2 -I --fail -X DELETE https://preview2.techaachen.de/${{github.head_ref}}/
+          # Remove last part from ref i.e. foo/bar/foobar => foo/bar
+          loc=$(echo "${{github.head_ref}}"|sed 's|/[^/]*$||')
+          # curl  ... Get the directory listing from the preview server.
+          # | sed ... join all lines and remove the newlines
+          # | sed ... start links in a new line
+          # | wc  ... count the number of lines
+          # 1  line  => most likely http redirect (server wants to serve an index file or similar)
+          # 2  lines => empty directory (the .. link is still there)
+          # 3+ lines => non empty directory
+          while [[ "$(curl -s --user $UPLOAD_AUTH_2 https://preview2.techaachen.de/${loc}/ | sed ':l;N;s/\n//;bl'| sed 's/<a/\n/g' | wc -l)" == 2 ]]
+          do
+            # Delete the remote location
+            curl -s --user $UPLOAD_AUTH_2 -I --fail -X DELETE https://preview2.techaachen.de/${loc}/
+            # Remove last part from location i.e. foo/bar/foobar => foo/bar
+            loc=$(echo "$loc"|sed 's|/[^/]*$||')
+          done
