@@ -51,3 +51,4 @@ jobs:
        cd _site
        curl -s --user $UPLOAD_AUTH_2 -X DELETE https://preview2.techaachen.de/$BRANCH/ || true
        find -type f -print0 | sed -z 's/^.\///' | xargs -P8 -I{} -0 curl -s --user $UPLOAD_AUTH_2 --fail -X PUT --upload-file ./{} https://preview2.techaachen.de/$BRANCH/{}
+
