@@ -8,7 +8,7 @@ dauerhaftepartner:
     logo: "img/partners/AISLER_PowerfulPrototyping_1by2.svg"
     url:  https://aisler.net/
   - name: AeroDesignWorks GmbH
-    logo: "img/partners/AeroDesignWorks.pdf"
+    logo: "img/partners/AeroDesignWorks_Logo.svg"
     url:  https://www.aerodesignworks.com/
 
 unterstuetzer:
