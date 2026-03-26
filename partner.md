@@ -7,6 +7,9 @@ dauerhaftepartner:
   - name: AISLER Germany GmbH
     logo: "img/partners/AISLER_PowerfulPrototyping_1by2.svg"
     url:  https://aisler.net/
+  - name: AeroDesignWorks GmbH
+    logo: "img/partners/AeroDesignWorks.pdf"
+    url:  https://www.aerodesignworks.com/
 
 unterstuetzer:
   - name: proRWTH
