@@ -1,0 +1,19 @@
+name: Delete previews
+on:
+  pull_request:
+    branches:
+      - main
+    types:
+      - closed
+
+jobs:
+  preview-delete:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Delete branch from preview2.techaachen.de
+        env:
+          UPLOAD_AUTH_2: ${{ secrets.UPLOAD_AUTH_2 }}
+        run: |
+          export BRANCH=$(echo ${{github.head_ref}}|sed 's|refs/heads||')
+          echo $BRANCH
+          curl -s --user $UPLOAD_AUTH_2 -I --fail -X DELETE https://preview2.techaachen.de/$BRANCH/
