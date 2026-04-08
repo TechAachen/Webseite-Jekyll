@@ -3,6 +3,11 @@ on:
   pull_request:
     branches:
       - main
+    types:
+      - opened
+      - synchronize
+      - reopened
+      - closed
 
 jobs:
   build-upload:
@@ -31,15 +36,13 @@ jobs:
        sed $'s/$/\r/' _site/techaachen-calendar.ics.in > _site/techaachen-calendar.ics
        rm _site/techaachen-calendar.ics.in
 
-
-
     - name: Upload to www.techaachen.de
       if: github.head_ref == 'refs/heads/main'
       env:
         UPLOAD_AUTH_2: ${{ secrets.UPLOAD_AUTH_2 }}
       run: |
        cd _site
-       find -type f -print0 | sed -z 's/^.\///' | xargs -P8 -I{} -0 curl -s --user $UPLOAD_AUTH_2 --fail -X PUT --upload-file ./{} https://www.techaachen.de/{}
+       find -type f -print0 | sed -z 's/^.\///' | xargs -P8 -I{} -0 curl -s --user $UPLOAD_AUTH_2 --fail -w '%{method} %{url} %{http_code}\n' -X PUT --upload-file ./{} https://www.techaachen.de/{}
 
     - name: Upload to preview2.techaachen.de
       if: github.head_ref != 'refs/heads/main'
