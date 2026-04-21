@@ -5,17 +5,17 @@
   order: 0_vorstand_1
   boardmember: true
 
-- name: Paul Ignatiadis
+- name: Carolin Kiewel
   function: "2. Vorsitzender"
   active: true
-  image: "img/persons/paul-ignatiadis3.jpg"
+  image: "img/persons/caro-kiewel2.jpg"
   order: 0_vorstand_2
   boardmember: true
   
-- name: Carolin Kiewel
+- name: Peter Kocar
   function: "3. Vorsitzende"
   active: true
-  image: "img/persons/caro-kiewel2.jpg"
+  image: 
   order: 0_vorstand_3
   boardmember: true
 
