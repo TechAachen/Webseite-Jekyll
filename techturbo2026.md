@@ -80,7 +80,7 @@ Programm vom vergangenen Jahr 2025:
 {% include techturboimpressions4.html techturbo4impressions=site.data.techturbo26.techturbo4impressions %}
 
 <div class="row">
-  <div style="margin-left: auto; margin-right: auto;"><a href="https://shop.techaachen.de/TechAachen/TT25/" class="btn btn-primary btn-xl" title="Anmeldung">Anmeldung</a></div>
+  <div style="margin-left: auto; margin-right: auto;"><a href="https://shop.techaachen.de/TechAachen/TT26/" class="btn btn-primary btn-xl" title="Anmeldung">Anmeldung</a></div>
 </div>
 <br />
 
