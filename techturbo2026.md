@@ -31,11 +31,11 @@ rechnet, die sich jetzt noch nicht anmelden können. Kontaktiert uns dazu!
 
 ## Kosten
 
-Die Eigenbeteiligung beträgt **45 Euro**.
+Die Eigenbeteiligung beträgt **40 Euro**.
 
 Nach aktueller Kalkulation kostet das Wochenende etwa 180 Euro pro Person, aber dank Fördermitteln und Sponsoren 
 übernehmen wir den Großteil der Kosten.  
-Sollten die 45 Euro für jemanden zu hoch sein – kein Problem! Meldet euch einfach bei uns, und wir übernehmen die
+Sollten die 40 Euro für jemanden zu hoch sein – kein Problem! Meldet euch einfach bei uns, und wir übernehmen die
 Kosten vollständig.  
 *(Nicht-Studierende müssen leider die vollen Kosten tragen.)*
 
