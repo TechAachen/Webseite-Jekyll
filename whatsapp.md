@@ -40,8 +40,46 @@ Der TechAachen wurde mit dem Ziel gegründet, die Mitglieder der technischen Ini
 
 
 
+<div class="text-center mt-4">
+  <button class="btn btn-primary" onclick="sendMail()">E-Mail generieren</button>
+</div>
 
-Quelle des Disclaimers: [Impressum Vorlage von JuraForum.de](https://www.juraforum.de/impressum-generator/)
 
----
 
+<script>
+function sendMail() {
+  const name = document.getElementById("name").value;
+  const verein = document.getElementById("verein").value;
+  const telefon = document.getElementById("telefon").value;
+
+if (!name || !verein || !telefon) {
+  alert("Bitte fülle alle Felder aus.");
+  return;
+}
+  
+  const empfaenger = "info@techaachen.de";
+  const betreff = "Zugang WhatsApp TechAachen";
+
+  const text = `
+Hallo,
+
+mir ist bewusst und ich akzeptiere, dass Messenger-Dienste wie WhatsApp nach der Installation personenbezogene Daten auf den Endgeräten der Nutzerinnen und Nutzer erheben. Hierbei sind insbesondere die von den jeweiligen Nutzerinnen und Nutzern gespeicherten Kontakte relevant, die von WhatsApp alle ausgelesen und verknüpft werden. Zudem werden die von WhatsApp erhobenen Daten auf Servern außerhalb der Europäischen Union gespeichert, somit ist die Sicherheit dieser Daten nicht im erforderlichen Maße gegeben. Sofern also ich nur für die Kommunikation im Verein die App installiere, bin ich mir über diese Verarbeitung der Daten aller gespeicherten Kontakte im Klaren. Mir ist bewusst, dass TechAachen auf die Datenerhebung von WhatsApp und Co. keinen Einfluss nehmen kann und ich ebendiese Informationen bei dem Betreiber von WhatsApp abrufen und mich über den Datenschutz informieren.
+Ich bestätige, dass ich über 18 Jahre bin und falls ich unter 16 Jahre alt bin, füge ich die Einverständnis meiner Träger der elterlichen Verantwortung bei.
+Mir ist bewusst, dass die Nutzung von WhatsApp als zusätzlicher Kommunikationskanal die Erweiterung der bestehenden Kommunikationsmittel in Form des E-Mail-Verteilers techaachen-members@lists.rwth-aachen.de und/oder Zulip, die für alle Mitglieder der Mitgliedsvereinen verfügbar sind. Für die Nutzung von WhatsApp als Kommunikationsmittel erteile ich meine Einwilligung. Mir ist bewusst, dass meine Nicht-Erteilung keine negativen Folgen hat und die anderen Kommunikationsmittel genauso einfach zu benutzen sind.
+Mir ist ebenfalls bewusst, dass bei der Nutzung von WhatsApp, den Mitgliedsvereinen außenstehende Personen eventuell mitlesen können. Nach der ursprünglichen Überprüfung und dem Hinzufügen der Mitgliedern in die WhatsApp Community/Gruppe erfolgt keine regelmäßige Überprüfung, ob die Personen in einem der Mitgliedsvereinen sind. Ich teile entsprechend nur Daten und Informationen, die ich der Öffentlichkeit teilen möchte.
+
+Name: ${name}
+Verein: ${verein}
+Telefonnummer: ${telefon}
+
+Ich habe die Hinweise zur Nutzung von WhatsApp gelesen und stimme diesen zu.
+
+Viele Grüße
+${name}
+`;
+
+  const mailtoLink = `mailto:${empfaenger}?subject=${encodeURIComponent(betreff)}&body=${encodeURIComponent(text)}`;
+
+  window.location.href = mailtoLink;
+}
+</script>
