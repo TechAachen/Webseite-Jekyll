@@ -93,11 +93,11 @@ Ich bestätige, dass ich über 18 Jahre alt bin und falls ich unter 16 Jahre alt
 Mir ist bewusst, dass die Nutzung von WhatsApp als zusätzlicher Kommunikationskanal die Erweiterung der bestehenden Kommunikationsmittel in Form des E-Mail-Verteilers techaachen-members@lists.rwth-aachen.de und/oder Zulip, die für alle Mitglieder der Mitgliedsvereinen verfügbar sind. Für die Nutzung von WhatsApp als Kommunikationsmittel erteile ich meine Einwilligung. Mir ist bewusst, dass meine Nicht-Erteilung keine negativen Folgen hat und die anderen Kommunikationsmittel genauso einfach zu benutzen sind.
 Mir ist ebenfalls bewusst, dass bei der Nutzung von WhatsApp, den Mitgliedsvereinen außenstehende Personen eventuell mitlesen können. Nach der ursprünglichen Überprüfung und dem Hinzufügen der Mitglieder in die WhatsApp Community/Gruppe erfolgt keine regelmäßige Überprüfung, ob die Personen in einem der Mitgliedsvereinen sind. Ich teile entsprechend nur Daten und Informationen, die ich der Öffentlichkeit teilen möchte.
 
-Name: ${name}
-Verein: ${verein}
-Telefonnummer: ${telefon}
+Name: $name
+Verein: $verein
+Telefonnummer: $telefon
 
 Ich habe die Hinweise zur Nutzung von WhatsApp gelesen und stimme diesen zu.
 
 Viele Grüße
-${name}
+$name
