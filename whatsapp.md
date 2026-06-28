@@ -83,7 +83,7 @@ ${name}
 }
 </script>
 
-
+#### E-Mail-Generierung klappt nicht
 Sollte die E-Mail-Generierung nicht funktionieren, kannst du auch folgenden Text mit den erforderlichen Werten ergänzen (beginnend mit $) und an whatsapp@techaachen.rwth-aachen.de schicken.
 
 Lieber TechAachen Vorstand,
@@ -100,4 +100,5 @@ Telefonnummer: $telefon
 Ich habe die Hinweise zur Nutzung von WhatsApp gelesen und stimme diesen zu.
 
 Viele Grüße
+
 $name
