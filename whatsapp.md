@@ -19,6 +19,7 @@ Um Zugang zu WhatsApp zu erhalten, musst du uns deinen Namen, deinen Verein (der
 
 #### § 4 Hinweise zur Nutzung
 Der TechAachen wurde mit dem Ziel gegründet, die Mitglieder der technischen Initiativen zu vernetzen. Dabei kümmern wir uns um die Interessensvertretung von euch gegenüber der Hochschulen, der Stadt und allen weiteren Parteien und können als Verband oft mehr erreichen als ein Verein alleine. Genauso wichtig ist das Teilen von Wissen und Erfahrungen, die ihr in euren Initiativen gesammelt und erlebt habt. Das kann in Form von kurzen Textnachrichten, Fragen, Workshops von Initiativen und Firmen, sowie durch Veranstaltungsformate und vielem mehr realisiert werden. Nutz das Netzwerk um dir und anderen das Leben zu vereinfachen und gemeinsam Projekte zu starten und zu realisieren. Denk daran, dass wir alle freiwillig und ehrenamtlich an den Projekten arbeiten und erwarte nicht, dass zu jedem Problem eine Lösung von anderen kommt; versuch aber genauso anderen zu helfen in dem Rahmen, wie es dir möglich ist. Denn jedes der Projekte ist die Herzensangelegenheit der Mitglieder und verdient es, unterstützt zu werden.
+Damit die Mitglieder wissen, mit wem sie sich unterhalten, bitte wir dich, dir einen Tag mit deinem Verein und deiner Position im Team zu geben.
 
 
 <h3>Deine Daten (bitte nutze deinen RWTH oder FH Aachen Account zum Senden der E-Mail)</h3>
