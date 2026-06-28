@@ -94,7 +94,9 @@ Mir ist bewusst, dass die Nutzung von WhatsApp als zusätzlicher Kommunikationsk
 Mir ist ebenfalls bewusst, dass bei der Nutzung von WhatsApp, den Mitgliedsvereinen außenstehende Personen eventuell mitlesen können. Nach der ursprünglichen Überprüfung und dem Hinzufügen der Mitglieder in die WhatsApp Community/Gruppe erfolgt keine regelmäßige Überprüfung, ob die Personen in einem der Mitgliedsvereinen sind. Ich teile entsprechend nur Daten und Informationen, die ich der Öffentlichkeit teilen möchte.
 
 Name: $name
+
 Verein: $verein
+
 Telefonnummer: $telefon
 
 Ich habe die Hinweise zur Nutzung von WhatsApp gelesen und stimme diesen zu.
