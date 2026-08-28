@@ -15,7 +15,7 @@
 - name: Peter Kocar
   function: "3. Vorsitzende"
   active: true
-  image: ""
+  image: "img/persons/Peter.Bild.jpg"
   order: 0_vorstand_3
   boardmember: true
 
