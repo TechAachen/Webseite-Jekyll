@@ -4,7 +4,7 @@
   <hr class="primary">
   {% endif %}
   <div class="container-fluid">
-    <div class="row justify-content-center">
+    <div class="row">
         {% for projekt in site.data.projekte %}
         {% if projekt.archived == include.archived %}
         <div class="{% if forloop.first %}col-12{% else %}col-lg-4 col-12{% endif %} p-3">
