@@ -76,6 +76,40 @@
       {% endfor %}
     </div>
 
+<!-- TechTurbo 2026 -->
+    <h2 class="section-heading text-center">TechTurbo 2026 Partner</h2>
+    <hr class="primary mb-4">
+    <div class="row justify-content-center">
+      {% for t in page.techturbo2026 %}
+        <div class="col-sm-6 col-md-3 mb-4">
+          <div class="card h-100 text-center shadow-sm">
+            <div class="card-body d-flex flex-column align-items-center justify-content-between">
+              
+              <!-- Logo -->
+              <div class="d-flex align-items-center justify-content-center mb-3" style="height: 150px; width: 100%;">
+                <img src="{{ t.logo }}" 
+                     class="img-fluid" 
+                     alt="{{ t.name }}" 
+                     style="width: 100%; object-fit: contain;">
+              </div>
+
+              <!-- Name -->
+              {% if t.url %}
+                <h5 class="card-title mt-auto">
+                  <a href="{{ t.url }}" target="_blank" rel="noopener" style="color: #007bff; text-decoration: none;">
+                    {{ t.name }}
+                  </a>
+                </h5>
+              {% else %}
+                <h5 class="card-title mt-auto">{{ t.name }}</h5>
+              {% endif %}
+              
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+    
     <!-- TechTurbo 2025 -->
     <h2 class="section-heading text-center">TechTurbo 2025 Partner</h2>
     <hr class="primary mb-4">
