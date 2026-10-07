@@ -24,6 +24,10 @@ techturbo2025:
     url:  https://aisler.net/
   - name: Würth Elektronik eiSos GmbH & Co. KG
     logo: img/partners/Logo_WE_RGB_pos.png
+
+techturbo2026:
+  - name: PearlCap GmbH & Co KG
+    logo: "img/partners/PearlCap_logo_violett_slogan.svg"
     
 werdetpartner: |
   Wir freuen uns immer über neue Partnerschaften!  

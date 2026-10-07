@@ -24,7 +24,8 @@ persons:
     boardmember: true # ignore
     
 sponsors:
-
+- name: PearlCap GmbH & Co KG
+  image: "img/partners/PearlCap_logo_violett_slogan.svg"
 
 techturbo1impressions:
 - name: WorkshopAixtreme
