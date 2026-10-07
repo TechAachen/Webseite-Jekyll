@@ -11,7 +11,7 @@ slogan: TechTurbo 2026
 <br />
 
 ## 3 Tage technische Skills erweitern, Networking und Spaß in der Eifel!
-Vom 26. bis 29. November 2026 fahren über 100 Studierende, zum Großteil aus den technischen Initiativen, gemeinsam in 
+Vom 26. bis 29. November 2026 fahren über 100 Studierende gemeinsam in 
 die Eifel für ein Wochenende voller Workshops, Austausch, Teamarbeit und Glühwein am Kamin!
 
 Ob du neue Skills lernen, dein Projekt voranbringen oder einfach andere motivierte Studierende kennenlernen willst, das 

@@ -5,11 +5,11 @@
   text_english: |
     Nimm teil am 6. TechTurbo, unserem größten Workshop- und Networking-Wochenende in der Eifel.
     Vom 26.-29.11. sind wir (mit dir?) in der Eifel und genießen spannende Workshops, Schulungen und Vorträge, sowie unsere gegenseitige Gesellschaft.  
-    Anmeldung ist offen:
+    Die Anmeldung ist offen für alle Studierende (nicht nur aus den Initiativen):
   text: |
     Nimm teil am 6. TechTurbo, unserem größten Workshop- und Networking-Wochenende in der Eifel.
     Vom 26.-29.11. sind wir (mit dir?) in der Eifel und genießen spannende Workshops, Schulungen und Vorträge, sowie unsere gegenseitige Gesellschaft.  
-    Anmeldung ist offen:
+    Die Anmeldung ist offen für alle Studierende (nicht nur aus den Initiativen):
 
 - title: "Kompetenztreffen"
   archived: false
@@ -34,7 +34,7 @@
     ein realistisches Abbild unserer Gesellschaft zu sein und so Lösungen für alle zu schaffen.
 
 - title: "Symposium"
-  archived: false
+  archived: true
   image: "img/projects/symposium-2022-header.jpg"
   link: "" ## TODO
   text_english: |
