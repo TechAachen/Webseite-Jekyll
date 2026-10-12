@@ -14,6 +14,15 @@ persons:
     order: "20"
     active: true # ignore
     boardmember: true
+
+    
+  - name: Joshua Lung
+    function: "Event Koordination"
+    active: true
+    image: "img/persons/blank.svg"
+    order: "30"
+    active: true # ignore
+    boardmember: false # ignore
   
     
 sponsors:
