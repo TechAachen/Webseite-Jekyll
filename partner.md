@@ -29,6 +29,13 @@ techturbo2025:
     logo: img/partners/Logo_WE_RGB_pos.png
 
 techturbo2026:
+  - name: AISLER Germany GmbH
+    logo: "img/partners/AISLER_PowerfulPrototyping_1by2.svg"
+    url:  https://aisler.net/
+  - name: CADFEM Germany GmbH
+    logo: img/partners/CADFEM_Logo_blue_sRGB_M.png
+  - name: Leadrive Technology Germany GmbH
+    logo: img/partners/leadrive.svg
   - name: PearlCap GmbH & Co KG
     logo: "img/partners/PearlCap_logo_violett_slogan.svg"
     
