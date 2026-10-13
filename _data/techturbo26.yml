@@ -6,22 +6,24 @@ persons:
     order: "10"
     active: true # ignore
     boardmember: true # ignore
-    
-  - name: Paul Ignatiadis
-    function: "2. Vorsitzender"
+  
+  - name: Peter Kocar
+    function: "3. Vorsitzender"
     active: true
-    image: "img/persons/paul-ignatiadis3.jpg"
+    image: "img/persons/peter-kocar.jpg"
     order: "20"
     active: true # ignore
-    boardmember: true # ignore
+    boardmember: true
+
     
-  - name: Carolin Kiewel
-    function: "3. Vorsitzende"
+  - name: Joshua Lung
+    function: "Event Koordination"
     active: true
-    image: "img/persons/caro-kiewel2.jpg"
+    image: "img/persons/blank.svg"
     order: "30"
     active: true # ignore
-    boardmember: true # ignore
+    boardmember: false # ignore
+  
     
 sponsors:
 - name: AISLER Germany GmbH
