@@ -21,7 +21,7 @@ Turnhalle und natürlich gemütliche Abende mit Musik und Glühwein.
 
 ## Anmeldung & Plätze
 
-Dieses Jahr stehen ca. 135 Plätze zur Verfügung. First come, first served!
+Dieses Jahr stehen ca. 135 Plätze zur Verfügung. First come, first served! Die Anmeldung ist **bis zum 16.11.2026** möglich.
 
 - Einzelpersonen können sich hier über unsere Website anmelden.  
 - Vereine haben die Möglichkeit, ein kleines Kontingent zu reservieren – besonders falls ihr mit neuen Mitgliedern 
