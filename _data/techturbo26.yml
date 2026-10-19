@@ -23,7 +23,15 @@ persons:
     order: "30"
     active: true # ignore
     boardmember: false # ignore
-  
+
+    
+  - name: Aleksandra Velikova
+    function: "Event Koordination"
+    active: true
+    image: "img/persons/aleksandra-velikova.jpg"
+    order: "40"
+    active: true # ignore
+    boardmember: false # ignore
     
 sponsors:
 - name: AISLER Germany GmbH
