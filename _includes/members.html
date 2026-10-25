@@ -44,3 +44,61 @@
     </div>
   </div>
 </section>
+
+<section id="teams">
+  <h2 class="section-heading">Unsere Teams</h2>
+  <hr class="primary">
+  <div class="container-fluid">
+    <div class="row">
+
+  {% assign teams_sorted = site.data.teams | sort: 'order' %}
+  {% for team in teams_sorted %}
+  <div class="col-lg-4 col-12 p-3">
+    <div class="card shadow rounded h-100 card-member">
+
+      {% if team.image %}
+      <img src="{{ team.image }}" class="img-responsive member-image h-100" alt="{{ team.name }}" title="{{ team.name }}">
+      {% else %}
+      <img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 650 350'%2F%3E" class="img-responsive member-image h-100" alt="leeres Bild">
+      {% endif %}
+
+      <div class="card-img-overlay d-flex flex-column">
+        <div class="d-flex justify-content-end align-self-end mt-auto">
+          <div class="row pr-3">
+
+            <div class="col p-1">
+              <a tabindex="0"
+                 class="btn btn-light btn-sm page-scroll px-5"
+                 role="button"
+                 data-html="true"
+                 data-toggle="popover"
+                 data-trigger="focus"
+                 data-placement="top"
+                 title="<b>{{ team.name }}</b>"
+                 data-content="<div>{{ team.description }}</div>">Info</a>
+            </div>
+
+            <div class="col p-1">
+              <a href="{{ team.link }}" target="_blank" rel="noopener noreferrer" tabindex="0" class="btn btn-light btn-sm page-scroll">Webseite</a>
+            </div>
+
+            {% if team.instagram %}
+            <div class="col p-1">
+              <a href="{{ team.instagram }}" target="_blank" rel="noopener noreferrer" tabindex="0" class="btn btn-light btn-sm page-scroll" aria-label="Instagram von {{ team.name }}">
+                <i class="fa fa-instagram" aria-hidden="true"></i>
+              </a>
+            </div>
+            {% endif %}
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  {% endfor %}
+
+</div>
+
+  </div>
+</section>
