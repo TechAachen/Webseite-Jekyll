@@ -4,7 +4,7 @@
   image: img/members/addi.jpg
   link: https://www.fh-aachen.de/studium/studieren/mitmachen-und-engagieren/studentische-projekte/laengerfristige-projekte/aixtreme-racing
   instagram: https://www.instagram.com/aixtremeracing/
-  order: addi
+  order: aixtreme racing
   description: |
     Wir sind Aixtreme Racing – das Motorsport-Team der FH Aachen. Seit mehr als 15 Jahren entwickeln und bauen wir jedes Jahr einen eigenen Formula-Student-Rennwagen. Auf internationalen Wettbewerben messen wir uns mit fast 600 Teams aus aller Welt. Dabei geht es nicht nur um Technik, sondern auch um Teamgeist, Ausdauer und den Mut, neue Wege zu gehen.
 
@@ -14,7 +14,17 @@
   image: img/members/addi.jpg
   link: https://fh2rail.com/
   instagram: https://www.instagram.com/fh2rail/
-  order: addi
+  order: fhtworail
   description: |
     Wir teilen eine Begeisterung von allem was fliegt und suchen uns selbst Projekte oder nehmen an Wettbewerben teil.
-    Jeder kann an den Projekten mitarbeiten wo er möchte und bei unserem monatlichen Treffen tauschen wir uns aus.    
+    Jeder kann an den Projekten mitarbeiten wo er möchte und bei unserem monatlichen Treffen tauschen wir uns aus.
+
+- name: SMVA
+  type: Dauerhafter Gast
+  since: 2026
+  image: img/members/addi.jpg
+  link: https://www.smvaachen.de/
+  instagram: https://www.instagram.com/smvaachen/
+  order: smva
+  description: |
+    Wir bauen, entwickeln und optimieren echte Rennfahrzeuge und geben unseren Mitgliedern die Möglichkeit, wettbewerbgsfähige Maschinen zu konstruieren, zu entwickeln und praktisch daran zu arbeiten.     
