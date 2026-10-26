@@ -1,10 +1,20 @@
-- name: ADDI e.V.
-  type: Mitglied
-  since: 2019
+- name: Aixtreme Racing
+  type: Dauerhafter Gast
+  since: 2018
   image: img/members/addi.jpg
-  link: https://www.aachen-drone.de/
-  instagram: https://www.instagram.com/aachendrone/?hl=de
+  link: https://www.fh-aachen.de/studium/studieren/mitmachen-und-engagieren/studentische-projekte/laengerfristige-projekte/aixtreme-racing
+  instagram: https://www.instagram.com/aixtremeracing/
+  order: addi
+  description: |
+    Wir sind Aixtreme Racing – das Motorsport-Team der FH Aachen. Seit mehr als 15 Jahren entwickeln und bauen wir jedes Jahr einen eigenen Formula-Student-Rennwagen. Auf internationalen Wettbewerben messen wir uns mit fast 600 Teams aus aller Welt. Dabei geht es nicht nur um Technik, sondern auch um Teamgeist, Ausdauer und den Mut, neue Wege zu gehen.
+
+- name: fh2rail
+  type: Dauerhafter Gast
+  since: 2026
+  image: img/members/addi.jpg
+  link: https://fh2rail.com/
+  instagram: https://www.instagram.com/fh2rail/
   order: addi
   description: |
     Wir teilen eine Begeisterung von allem was fliegt und suchen uns selbst Projekte oder nehmen an Wettbewerben teil.
-    Jeder kann an den Projekten mitarbeiten wo er möchte und bei unserem monatlichen Treffen tauschen wir uns aus.
+    Jeder kann an den Projekten mitarbeiten wo er möchte und bei unserem monatlichen Treffen tauschen wir uns aus.    
