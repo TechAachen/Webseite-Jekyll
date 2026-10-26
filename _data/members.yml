@@ -107,17 +107,6 @@
     Wir sind ein multidisziplinäres Team motivierter Studierenden, die sich im Bereich der  Wasserstoffmobilität engagieren. 
     Unser Hauptziel ist es, ein Wasserstoff-Brennstoffzellenfahrzeug zu entwickeln und zu bauen, das beim jährlichen Shell Eco-Marathon auf den Prüfstand gestellt wird.
 
-- #name: Tachyon Hyperloop
-  #type: Mitglied
-  #since: 2021
-  #image: img/members/tachyon.jpg
-  #link: https://www.tachyonhyperloop.de/
-  #order: tachyon
-  #description: |
-    #Hochmotivierte RWTH-Studierende aus aller Welt haben sich hier vereinigt um gemeinsam den nächsten Schritt in der Evolutionsebene der Infrastruktur zu gehen. 
-    #Magnetschwebebahntechnologie trifft auf Fast-Vakuumbedingungen.
-    #<i>The Fifth way of Transportation</i> oder auch <i>Hyperloop</i> wird hier in Form eines Prototypen erforscht, konstruiert und wettbewerbsfähig gemacht.
-
 - name: Space Team Aachen
   type: Mitglied
   since: 2020
