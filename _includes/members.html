@@ -50,7 +50,7 @@
   <hr class="primary">
   <div class="container-fluid">
     <div class="row">
-      {% assign members_sorted = site.data.members | sort: 'order' %}
+      {% assign members_sorted = site.data.guests | sort: 'order' %}
       {% for member in members_sorted %}
       <div class="col-lg-4 col-12 p-3">
         <div class="card shadow rounded h-100 card-member">
