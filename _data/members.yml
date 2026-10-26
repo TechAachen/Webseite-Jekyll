@@ -14,6 +14,7 @@
   since: 2017
   image: img/members/rca.jpg
   link: http://www.roboterclub.rwth-aachen.de/
+  instagram: https://www.instagram.com/rca_ev/
   order: roboterclub
   description: |
     Der Roboterclub Aachen e.V. baut und forscht an autonomen Robotern. <br />
@@ -25,6 +26,7 @@
   since: 2017
   image: img/members/sonnenwagen.jpg
   link: https://www.sonnenwagen.org/
+  instagram: https://www.instagram.com/sonnenwagenaachen/
   order: sonnewagen
   description: |
     Für uns steht fest, nachhaltige Mobilitätskonzepte und Solartechnologie sind entscheidend für unsere Zukunft.
@@ -37,6 +39,7 @@
   since: 2017
   image: img/members/ecurie.jpg
   link: http://ecurie-aix.de/
+  instagram: https://www.instagram.com/ecurieaix/
   order: ecurie
   description: |
     Ecurie Aix nimmt mit am Formula Student Konstruktionswettbewerb teil.
@@ -48,6 +51,7 @@
   since: 2017
   image: img/members/fva.jpg
   link: http://www.fva.rwth-aachen.de/
+  instagram: https://www.instagram.com/fva1920/
   order: flugwissenschaftliche-vereinigung-aachen
   description: |
     Wir sind flugbegeisterte Studierende mit dem Ziel die Luftfahrt nicht nur ein kleines Stück voran zu bringen, sondern zukunftsweisend zu prägen.
@@ -59,6 +63,7 @@
   since: 2017
   image: img/members/studiwerkstatt.jpg
   link: http://studiwerkstatt.de/
+  instagram: https://www.instagram.com/studiwerkstatt.de/
   order: studiwerkstatt
   description: |
     Wir sind eine offene Werkstatt, die allen Interessierten den Zugang zu Maschinen  und Werkzeug ermöglichen möchte.
@@ -70,6 +75,7 @@
   since: 2018
   image: img/members/enactus.jpg
   link: http://aachen.enactus.de/
+  instagram: https://www.instagram.com/enactusaachen/
   order: enactus
   description: |
     Wir verbessern den Lebensstandard und die Lebensqualität von hilfsbedürftigen Menschen mit zahlreichen Projekten.
@@ -82,6 +88,7 @@
   since: 2021
   image: img/members/autak.jpg
   link: https://autak.org/
+  instagram: https://www.instagram.com/autak.wheelchair/
   order: autak
   description: |
     Inklusion durch Innovation.
@@ -94,27 +101,29 @@
   since: 2021
   image: img/members/ecogenium.jpg
   link: https://www.ecogenium.com/
+  instagram: https://www.instagram.com/ecogenium/
   order: ecogenium
   description: |
     Wir sind ein multidisziplinäres Team motivierter Studierenden, die sich im Bereich der  Wasserstoffmobilität engagieren. 
     Unser Hauptziel ist es, ein Wasserstoff-Brennstoffzellenfahrzeug zu entwickeln und zu bauen, das beim jährlichen Shell Eco-Marathon auf den Prüfstand gestellt wird.
 
-- name: Tachyon Hyperloop
-  type: Mitglied
-  since: 2021
-  image: img/members/tachyon.jpg
-  link: https://www.tachyonhyperloop.de/
-  order: tachyon
-  description: |
-    Hochmotivierte RWTH-Studierende aus aller Welt haben sich hier vereinigt um gemeinsam den nächsten Schritt in der Evolutionsebene der Infrastruktur zu gehen. 
-    Magnetschwebebahntechnologie trifft auf Fast-Vakuumbedingungen.
-    <i>The Fifth way of Transportation</i> oder auch <i>Hyperloop</i> wird hier in Form eines Prototypen erforscht, konstruiert und wettbewerbsfähig gemacht.
+- #name: Tachyon Hyperloop
+  #type: Mitglied
+  #since: 2021
+  #image: img/members/tachyon.jpg
+  #link: https://www.tachyonhyperloop.de/
+  #order: tachyon
+  #description: |
+    #Hochmotivierte RWTH-Studierende aus aller Welt haben sich hier vereinigt um gemeinsam den nächsten Schritt in der Evolutionsebene der Infrastruktur zu gehen. 
+    #Magnetschwebebahntechnologie trifft auf Fast-Vakuumbedingungen.
+    #<i>The Fifth way of Transportation</i> oder auch <i>Hyperloop</i> wird hier in Form eines Prototypen erforscht, konstruiert und wettbewerbsfähig gemacht.
 
 - name: Space Team Aachen
   type: Mitglied
   since: 2020
   image: img/members/spaceteam.jpg
   link: https://www.spaceteamaachen.de/
+  instagram: https://www.instagram.com/spaceteamaachen/
   order: spaceteam
   description: |
     Wir entwickeln und bauen alles, was mit Raumfahrt zutun hat:
@@ -126,6 +135,7 @@
   since: 2021
   image: img/members/MoonAixperts.jpg
   link: https://www.moonaixperts.de/
+  instagran: https://www.instagram.com/moonaixperts/
   order: moonaixperts
   description: |
     MoonAixperts e.V. ist eine studentische Initiative der RWTH Aachen, die 
