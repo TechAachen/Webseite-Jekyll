@@ -1,0 +1,30 @@
+- name: Aixtreme Racing
+  type: Dauerhafter Gast
+  since: 2018
+  image: img/members/aixtreme_racing.jpeg
+  link: https://www.fh-aachen.de/studium/studieren/mitmachen-und-engagieren/studentische-projekte/laengerfristige-projekte/aixtreme-racing
+  instagram: https://www.instagram.com/aixtremeracing/
+  order: aixtreme racing
+  description: |
+    Wir sind Aixtreme Racing – das Motorsport-Team der FH Aachen. Seit mehr als 15 Jahren entwickeln und bauen wir jedes Jahr einen eigenen Formula-Student-Rennwagen. Auf internationalen Wettbewerben messen wir uns mit fast 600 Teams aus aller Welt. Dabei geht es nicht nur um Technik, sondern auch um Teamgeist, Ausdauer und den Mut, neue Wege zu gehen.
+
+- name: fh2rail
+  type: Dauerhafter Gast
+  since: 2026
+  image: img/members/fhtworail.JPG
+  link: https://fh2rail.com/
+  instagram: https://www.instagram.com/fh2rail/
+  order: fhtworail
+  description: |
+    An der FH Aachen konstruieren, bauen und betreiben wir unsere batterie-elektrische Lokomotive 'Carla' im Verhältnis 1:5. 
+    Für mehr Praxis. Für Wettbewerbe. Und vor allem für den Spaß. 
+
+- name: SMVA
+  type: Dauerhafter Gast
+  since: 2026
+  image: img/members/addi.jpg
+  link: https://www.smvaachen.de/
+  instagram: https://www.instagram.com/smvaachen/
+  order: smva
+  description: |
+    Wir bauen, entwickeln und optimieren echte Rennfahrzeuge und geben unseren Mitgliedern die Möglichkeit, wettbewerbgsfähige Maschinen zu konstruieren, zu entwickeln und praktisch daran zu arbeiten.     
