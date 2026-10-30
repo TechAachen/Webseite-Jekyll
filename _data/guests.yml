@@ -1,7 +1,7 @@
 - name: Aixtreme Racing
   type: Dauerhafter Gast
   since: 2018
-  image: img/members/aixtrem racing.jpeg
+  image: 
   link: https://www.fh-aachen.de/studium/studieren/mitmachen-und-engagieren/studentische-projekte/laengerfristige-projekte/aixtreme-racing
   instagram: https://www.instagram.com/aixtremeracing/
   order: aixtreme racing
@@ -11,7 +11,7 @@
 - name: fh2rail
   type: Dauerhafter Gast
   since: 2026
-  image: img/members/fhtworail.JPG
+  image: 
   link: https://fh2rail.com/
   instagram: https://www.instagram.com/fh2rail/
   order: fhtworail
@@ -22,7 +22,7 @@
 - name: SMVA
   type: Dauerhafter Gast
   since: 2026
-  image: img/members/addi.jpg
+  image: img/members/SMVA_Logo.PNG
   link: https://www.smvaachen.de/
   instagram: https://www.instagram.com/smvaachen/
   order: smva
