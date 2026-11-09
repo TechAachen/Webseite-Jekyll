@@ -76,7 +76,7 @@ Wenn ihr noch Fragen oder Anmerkungen habt, schreibt uns einfach!
 **Wir freuen uns auf euch!**
 
 ## Programm Vorschau:
-Programm vom vergangenen Jahr 2025:
+Das vorläufige Programm für dieses Jahr:
 {% include techturboimpressions4.html techturbo4impressions=site.data.techturbo26.techturbo4impressions %}
 
 <div class="row">
