@@ -38,6 +38,8 @@ techturbo2026:
     logo: img/partners/leadrive.svg
   - name: PearlCap GmbH & Co KG
     logo: "img/partners/PearlCap_logo_violett_slogan.svg"
+  - name: Plange GmbH
+    logo: "/img/partners/Plange_klein.png"
     
 werdetpartner: |
   Wir freuen uns immer über neue Partnerschaften!  
