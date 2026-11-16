@@ -12,7 +12,11 @@
             <img src="{{projekt.image}}" class="card-img" alt="{{projekt.title}}">
             <div class="card-body d-flex flex-column">
               <h3>{{projekt.title}}</h3>
-              <p>{{projekt.text}}</p>
+              {% if projekt.text contains '~~' %}
+                <div>{{ projekt.text | markdownify }}</div>
+              {% else %}
+                <p>{{ projekt.text }}</p>
+              {% endif %}
               {% if projekt.link != '' %}
               <a href="{{ projekt.link }}" class="btn btn-primary btn-xl align-self-center mt-auto" title="{{projekt.title}}">Mehr erfahren</a>
               {% endif %}
