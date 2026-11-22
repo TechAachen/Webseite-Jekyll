@@ -40,6 +40,8 @@ techturbo2026:
     logo: "img/partners/PearlCap_logo_violett_slogan.svg"
   - name: Plange GmbH
     logo: "img/partners/Plange_klein.png"
+  - name: CAPAUL S.A.
+    logo: "img/partners/Capaul_Logo.jpg"
     
 werdetpartner: |
   Wir freuen uns immer über neue Partnerschaften!  
